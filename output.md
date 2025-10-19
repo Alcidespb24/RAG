@@ -61,8 +61,6 @@ HIPAA Administrative Simplification Regulation Text
 
 # SUBPART D—IMPOSITION OF CIVIL MONEY PENALTIES
 
-23
-
 # § 160.400  Applicability.
 
 23
@@ -125,8 +123,6 @@ HIPAA Administrative Simplification Regulation Text
 
 # SUBPART E—PROCEDURES FOR HEARINGS
 
-27
-
 # § 160.500  Applicability.
 
 27
@@ -159,93 +155,95 @@ HIPAA Administrative Simplification Regulation Text
 
 29
 
+
+
 HIPAA Administrative Simplification Regulation Text March 2013
 
-# § 160.516  Discovery.
+# § 160.516 Discovery.
 
 ................................................................................................................................................ 29
 
-# § 160.518  Exchange of witness lists, witness statements, and exhibits.
+# § 160.518 Exchange of witness lists, witness statements, and exhibits.
 
 ................................................................................................................................................ 30
 
-# § 160.520  Subpoenas for attendance at hearing.
+# § 160.520 Subpoenas for attendance at hearing.
 
 ................................................................................................................................................ 30
 
-# § 160.522  Fees.
+# § 160.522 Fees.
 
 ................................................................................................................................................ 31
 
-# § 160.524  Form, filing, and service of papers.
+# § 160.524 Form, filing, and service of papers.
 
 ................................................................................................................................................ 31
 
-# § 160.526  Computation of time.
+# § 160.526 Computation of time.
 
 ................................................................................................................................................ 31
 
-# § 160.528  Motions.
+# § 160.528 Motions.
 
 ................................................................................................................................................ 31
 
-# § 160.530  Sanctions.
+# § 160.530 Sanctions.
 
 ................................................................................................................................................ 32
 
-# § 160.532  Collateral estoppel.
+# § 160.532 Collateral estoppel.
 
 ................................................................................................................................................ 32
 
-# § 160.534  The hearing.
+# § 160.534 The hearing.
 
 ................................................................................................................................................ 32
 
-# § 160.536  Statistical sampling.
+# § 160.536 Statistical sampling.
 
 ................................................................................................................................................ 33
 
-# § 160.538  Witnesses.
+# § 160.538 Witnesses.
 
 ................................................................................................................................................ 33
 
-# § 160.540  Evidence.
+# § 160.540 Evidence.
 
 ................................................................................................................................................ 33
 
-# § 160.542  The record.
+# § 160.542 The record.
 
 ................................................................................................................................................ 34
 
-# § 160.544  Post hearing briefs.
+# § 160.544 Post hearing briefs.
 
 ................................................................................................................................................ 34
 
-# § 160.546  ALJ's decision.
+# § 160.546 ALJ's decision.
 
 ................................................................................................................................................ 34
 
-# § 160.548  Appeal of the ALJ's decision.
+# § 160.548 Appeal of the ALJ's decision.
 
 ................................................................................................................................................ 34
 
-# § 160.550  Stay of the Secretary's decision.
+# § 160.550 Stay of the Secretary's decision.
 
 ................................................................................................................................................ 35
 
 # PART 162—ADMINISTRATIVE REQUIREMENTS
 
-............................................................. 37
+.......................................................... 37
 
 # SUBPART A—GENERAL PROVISIONS
 
 ................................................................................................................................................ 38
 
-# § 162.100  Applicability.
+# § 162.100 Applicability.
 
 ................................................................................................................................................ 38
 
-# § 162.103  Definitions.
+# § 162.103 Definitions.
 
 ................................................................................................................................................ 38
 
@@ -257,7 +255,7 @@ HIPAA Administrative Simplification Regulation Text March 2013
 
 ................................................................................................................................................ 39
 
-# § 162.402  [Reserved]
+# § 162.402 [Reserved]
 
 ................................................................................................................................................ 39
 
@@ -266,154 +264,114 @@ HIPAA Administrative Simplification Regulation Text March 2013
 HIPAA Administrative Simplification Regulation Text
 # March 2013
 
-# § 162.404
+# § 162.404 Compliance dates of the implementation of the standard unique health identifier for health care providers.
 
-Compliance dates of the implementation of the standard unique health identifier for health care providers.
+39
 
-................................................................................................................................................. 39
+# § 162.406 Standard unique health identifier for health care providers.
 
-# § 162.406
+39
 
-Standard unique health identifier for health care providers.
+# § 162.408 National Provider System.
 
-................................................................................................................................................. 39
+39
 
-# § 162.408
+# § 162.410 Implementation specifications: Health care providers.
 
-National Provider System.
+40
 
-................................................................................................................................................. 39
+# § 162.412 Implementation specifications: Health plans.
 
-# § 162.410
+40
 
-Implementation specifications: Health care providers.
+# § 162.414 Implementation specifications: Health care clearinghouses.
 
-................................................................................................................................................. 40
-
-# § 162.412
-
-Implementation specifications: Health plans.
-
-................................................................................................................................................. 40
-
-# § 162.414
-
-Implementation specifications: Health care clearinghouses.
-
-................................................................................................................................................. 40
+40
 
 # SUBPART E—STANDARD UNIQUE HEALTH IDENTIFIER FOR HEALTH PLANS
 
-# § 162.502
+40
 
-[Reserved]
+# § 162.502 [Reserved]
 
-................................................................................................................................................. 40
+40
 
-# § 162.504
+# § 162.504 Compliance requirements for the implementation of the standard unique health plan identifier.
 
-Compliance requirements for the implementation of the standard unique health plan identifier.
+40
 
-................................................................................................................................................. 40
+# § 162.506 Standard unique health plan identifier.
 
-# § 162.506
+41
 
-Standard unique health plan identifier.
+# § 162.508 Enumeration System
 
-................................................................................................................................................. 41
+41
 
-# § 162.508
+# § 162.510 Full implementation requirements: Covered entities.
 
-Enumeration System
+41
 
-................................................................................................................................................. 41
+# § 162.512 Implementation specifications: Health plans.
 
-# § 162.510
+41
 
-Full implementation requirements: Covered entities.
+# § 162.514 Other entity identifier.
 
-................................................................................................................................................. 41
-
-# § 162.512
-
-Implementation specifications: Health plans.
-
-................................................................................................................................................. 41
-
-# § 162.514
-
-Other entity identifier.
-
-................................................................................................................................................. 42
+42
 
 # SUBPART F—STANDARD UNIQUE EMPLOYER IDENTIFIER
 
-# § 162.600
+42
 
-Compliance dates of the implementation of the standard unique employer identifier.
+# § 162.600 Compliance dates of the implementation of the standard unique employer identifier.
 
-................................................................................................................................................. 42
+42
 
-# § 162.605
+# § 162.605 Standard unique employer identifier.
 
-Standard unique employer identifier.
+42
 
-................................................................................................................................................. 42
+# § 162.610 Implementation specifications for covered entities.
 
-# § 162.610
-
-Implementation specifications for covered entities.
-
-................................................................................................................................................. 42
+42
 
 # SUBPARTS G-H [RESERVED]
 
-................................................................................................................................................. 42
+42
 
 # SUBPART I—GENERAL PROVISIONS FOR TRANSACTIONS
 
-# § 162.900
+42
 
-[Reserved]
+# § 162.900 [Reserved]
 
-................................................................................................................................................. 42
+42
 
-# § 162.910
+# § 162.910 Maintenance of standards and adoption of modifications and new standards.
 
-Maintenance of standards and adoption of modifications and new standards.
+42
 
-................................................................................................................................................. 42
+# § 162.915 Trading partner agreements.
 
-# § 162.915
+43
 
-Trading partner agreements.
+# § 162.920 Availability of implementation specifications and operating rules.
 
-................................................................................................................................................. 43
+43
 
-# § 162.920
+# § 162.923 Requirements for covered entities.
 
-Availability of implementation specifications and operating rules.
+46
 
-................................................................................................................................................. 43
+# § 162.925 Additional requirements for health plans.
 
-# § 162.923
-
-Requirements for covered entities.
-
-................................................................................................................................................. 46
-
-# § 162.925
-
-Additional requirements for health plans.
-
-................................................................................................................................................. 47
+47
 
 5
 
-
-# HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+HIPAA Administrative Simplification Regulation Text
+March 2013
 
 # § 162.930  Additional rules for health care clearinghouses.
 
@@ -483,13 +441,13 @@ Additional requirements for health plans.
 
 # § 162.1203  Operating rules for eligibility for a health plan transaction.
 
-............................................................................................
+..........................................................
 
 52
 
 # SUBPART M—REFERRAL CERTIFICATION AND AUTHORIZATION
 
-...................................................................................... 53
+.................................................................................. 53
 
 # § 162.1301  Referral certification and authorization transaction.
 
@@ -537,7 +495,7 @@ Additional requirements for health plans.
 
 # § 162.1502  Standards for enrollment and disenrollment in a health plan transaction.
 
-.....................................................................................................
+.....................................
 
 54
 
@@ -547,13 +505,11 @@ Additional requirements for health plans.
 
 # § 162.1601  Health care electronic funds transfers (EFT) and remittance advice transaction.
 
-....................................................................................
+............................
 
 55
 
 6
-
-
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -695,163 +651,109 @@ March 2013
 
 # § 164.310  Physical safeguards.
 
-................................................................................................................................
-
-66
+................................................................................................................................ 66
 
 # § 164.312  Technical safeguards.
 
-................................................................................................................................
-
-66
+............................................................................................................................. 66
 
 # § 164.314  Organizational requirements.
 
-................................................................................................................................
-
-67
+................................................................................................................ 67
 
 # § 164.316  Policies and procedures and documentation requirements.
 
-................................................................................................................................
-
-68
+................................................................................................................ 68
 
 # § 164.318  Compliance dates for the initial implementation of the security standards.
 
-................................................................................................................................
-
-68
+................................................................................................................ 68
 
 # SUBPART D—NOTIFICATION IN THE CASE OF BREACH OF UNSECURED PROTECTED HEALTH INFORMATION
 
-................................................................................................................................
-
-71
+............................................................................. 71
 
 # § 164.400  Applicability.
 
-................................................................................................................................
-
-71
+........................................................................................................................................... 71
 
 # § 164.402  Definitions.
 
-................................................................................................................................
-
-71
+............................................................................................................................................ 71
 
 # § 164.404  Notification to individuals.
 
-................................................................................................................................
-
-71
+..................................................................................................................... 71
 
 # § 164.406  Notification to the media.
 
-................................................................................................................................
-
-72
+.................................................................................................................... 72
 
 # § 164.408  Notification to the Secretary.
 
-................................................................................................................................
-
-72
+....................................................................................................................... 72
 
 # § 164.410  Notification by a business associate.
 
-................................................................................................................................
-
-73
+...................................................................................................... 73
 
 # § 164.412  Law enforcement delay.
 
-................................................................................................................................
-
-73
+........................................................................................................................ 73
 
 # § 164.414  Administrative requirements and burden of proof.
 
-................................................................................................................................
-
-73
+............................................................................. 73
 
 # SUBPART E—PRIVACY OF INDIVIDUALLY IDENTIFIABLE HEALTH INFORMATION
 
-................................................................................................................................
-
-73
+......................................................................................................................... 73
 
 # § 164.500  Applicability.
 
-................................................................................................................................
-
-73
+........................................................................................................................................... 73
 
 # § 164.501  Definitions.
 
-................................................................................................................................
-
-74
+............................................................................................................................................ 74
 
 # § 164.502  Uses and disclosures of protected health information: General rules.
 
-................................................................................................................................
-
-77
+........................................................................................................................ 77
 
 # § 164.504  Uses and disclosures: Organizational requirements.
 
-................................................................................................................................
-
-81
+......................................................................................................................... 81
 
 # § 164.506  Uses and disclosures to carry out treatment, payment, or health care operations.
 
-................................................................................................................................
-
-84
+.............................................................................................................................................. 84
 
 # § 164.508  Uses and disclosures for which an authorization is required.
 
-................................................................................................................................
-
-85
+........................................................................................................................ 85
 
 # § 164.510  Uses and disclosures requiring an opportunity for the individual to agree or to object.
 
-................................................................................................................................
-
-87
+......................................................................................................................... 87
 
 # § 164.512  Uses and disclosures for which an authorization or opportunity to agree or object is not required.
 
-................................................................................................................................
-
-88
+........................................................................................................................................... 88
 
 # § 164.514  Other requirements relating to uses and disclosures of protected health information.
 
-................................................................................................................................
-
-96
+.................................................................................................................... 96
 
 # § 164.520  Notice of privacy practices for protected health information.
 
-................................................................................................................................
-
-101
+.................................................................................................................. 101
 
 # § 164.522  Rights to request privacy protection for protected health information.
 
-................................................................................................................................
-
-104
+.................................................................................................................. 104
 
 8
-
-
 
 HIPAA Administrative Simplification Regulation Text
 # March 2013
@@ -892,143 +794,113 @@ HIPAA Administrative Simplification Regulation Text
 
 115
 
-9
 
-HIPAA Administrative Simplification Regulation Text
 
-# March 2013
+HIPAA Administrative Simplification Regulation Text March 2013
 
-# § 160.316 Refraining from intimidation or retaliation.
-
-# § 160.522 Fees.
-
-# § 160.524 Form, filing, and service of papers.
-
-# § 160.526 Computation of time.
-
-# § 160.528 Motions.
-
-# § 160.530 Sanctions.
-
-# § 160.532 Collateral estoppel.
-
-# § 160.534 The hearing.
-
-# § 160.536 Statistical sampling.
-
-# § 160.538 Witnesses.
-
-# § 160.540 Evidence.
-
-# § 160.542 The record.
-
-# § 160.544 Post hearing briefs.
-
-# § 160.546 ALJ's decision.
-
-# § 160.548 Appeal of the ALJ's decision.
-
-# § 160.550 Stay of the Secretary's decision.
-
-# § 160.552 Harmless error.
-
-# AUTHORITY:
-
-42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2 (note)); 5 U.S.C. 552; secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279; and sec. 1104 of Pub. L. 111-148, 124 Stat. 146-154.
+# PART 160—GENERAL ADMINISTRATIVE REQUIREMENTS
 
 # Subpart A—General Provisions
 
-# § 160.101 Statutory basis and purpose.
+§ 160.101 Statutory basis and purpose.
 
-The requirements of this subchapter implement sections 1171-1180 of the Social Security Act (the Act), sections 262 and 264 of Public Law 104-191, section 105 of Public Law 110-233, sections 13400-13424 of Public Law 111-5, and section 1104 of Public Law 111-148.
+§ 160.102 Applicability.
+
+§ 160.103 Definitions.
+
+§ 160.104 Modifications.
+
+§ 160.105 Compliance dates for implementation of new or modified standards and implementation specifications.
 
 # Subpart B—Preemption of State Law
 
-# § 160.201 Statutory basis.
+§ 160.201 Statutory basis.
 
-# § 160.202 Definitions.
+§ 160.202 Definitions.
 
-# § 160.203 General rule and exceptions.
+§ 160.203 General rule and exceptions.
 
-# § 160.204 Process for requesting exception determinations.
+§ 160.204 Process for requesting exception determinations.
 
-# § 160.205 Duration of effectiveness of exception determinations.
+§ 160.205 Duration of effectiveness of exception determinations.
 
 # Subpart C—Compliance and Investigations
 
-# § 160.300 Applicability.
+§ 160.300 Applicability.
 
-# § 160.302 [Reserved]
+§ 160.302 [Reserved]
 
-# § 160.304 Principles for achieving compliance.
+§ 160.304 Principles for achieving compliance.
 
-# § 160.306 Complaints to the Secretary.
+§ 160.306 Complaints to the Secretary.
 
-# § 160.308 Compliance reviews.
+§ 160.308 Compliance reviews.
 
-# § 160.310 Responsibilities of covered entities and business associates.
+§ 160.310 Responsibilities of covered entities and business associates.
 
-# § 160.312 Secretarial action regarding complaints and compliance reviews.
+§ 160.312 Secretarial action regarding complaints and compliance reviews.
 
-# § 160.314 Investigational subpoenas and inquiries.
+§ 160.314 Investigational subpoenas and inquiries.
 
 # Subpart D—Imposition of Civil Money Penalties
 
-# § 160.400 Applicability.
+§ 160.400 Applicability.
 
-# § 160.401 Definitions.
+§ 160.401 Definitions.
 
-# § 160.402 Basis for a civil money penalty.
+§ 160.402 Basis for a civil money penalty.
 
-# § 160.404 Amount of a civil money penalty.
+§ 160.404 Amount of a civil money penalty.
 
-# § 160.406 Violations of an identical requirement or prohibition.
+§ 160.406 Violations of an identical requirement or prohibition.
 
-# § 160.408 Factors considered in determining the amount of a civil money penalty.
+§ 160.408 Factors considered in determining the amount of a civil money penalty.
 
-# § 160.410 Affirmative defenses.
+§ 160.410 Affirmative defenses.
 
-# § 160.412 Waiver.
+§ 160.412 Waiver.
 
-# § 160.414 Limitations.
+§ 160.414 Limitations.
 
-# § 160.416 Authority to settle.
+§ 160.416 Authority to settle.
 
-# § 160.418 Penalty not exclusive.
+§ 160.418 Penalty not exclusive.
 
-# § 160.420 Notice of proposed determination.
+§ 160.420 Notice of proposed determination.
 
-# § 160.422 Failure to request a hearing.
+§ 160.422 Failure to request a hearing.
 
-# § 160.424 Collection of penalty.
+§ 160.424 Collection of penalty.
 
-# § 160.426 Notification of the public and other agencies.
+§ 160.426 Notification of the public and other agencies.
 
 # Subpart E—Procedures for Hearings
 
-# § 160.500 Applicability.
+§ 160.500 Applicability.
 
-# § 160.502 Definitions.
+§ 160.502 Definitions.
 
-# § 160.504 Hearing before an ALJ.
+§ 160.504 Hearing before an ALJ.
 
-# § 160.506 Rights of the parties.
+§ 160.506 Rights of the parties.
 
-# § 160.508 Authority of the ALJ.
+§ 160.508 Authority of the ALJ.
 
-# § 160.510 Ex parte contacts.
+§ 160.510 Ex parte contacts.
 
-# § 160.512 Prehearing conferences.
+§ 160.512 Prehearing conferences.
 
-# § 160.514 Authority to settle.
+§ 160.514 Authority to settle.
 
-# § 160.516 Discovery.
+§ 160.516 Discovery.
 
-# § 160.518 Exchange of witness lists, witness statements, and exhibits.
+§ 160.518 Exchange of witness lists, witness statements, and exhibits.
 
-# § 160.520 Subpoenas for attendance at hearing.
+§ 160.520 Subpoenas for attendance at hearing.
 
-[78 FR 5687, Jan. 25, 2013]
+AUTHORITY: 42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2 (note)); 5 U.S.C. 552; secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279; and sec. 1104 of Pub. L. 111-148, 124 Stat. 146-154.
+
+SOURCE: 65 FR 82798, Dec. 28, 2000, unless otherwise noted.
 
 
 
@@ -1050,22 +922,11 @@ ANSI stands for the American National Standards Institute.
 Business associate: (1) Except as provided in paragraph (4) of this definition, business associate means, with respect to a covered entity, a person who:
 
 1. On behalf of such covered entity or of an organized health care arrangement (as defined in this section) in which the covered entity participates, but other than in the capacity of a member of the workforce of such covered entity or arrangement, creates, receives, maintains, or transmits protected health information for a function or activity regulated by this subchapter, including claims processing or administration, data analysis, processing or administration, utilization review, quality assurance, patient safety activities listed at 42 CFR 3.20, billing, benefit management, practice management, and repricing; or
-2. Provides, other than in the capacity of a member of the workforce of such covered entity, legal, actuarial, accounting, consulting, data aggregation (as defined in § 160.103), or financial services to or for such covered entity, or to or for an organized health care arrangement in which the covered entity participates, where the provision of the service involves the disclosure of protected health information from such covered entity or arrangement, or from another business associate of such covered entity or arrangement, to the person.
+2. Provides, other than in the capacity of a member of the workforce of such covered entity, legal, actuarial, accounting, consulting, data aggregation (as defined in § 160.103).
 
 (2) A covered entity may be a business associate of another covered entity.
 
-# § 160.103 Definitions.
-
-Except as otherwise provided, the following definitions apply to this subchapter:
-
-Act means the Social Security Act.
-
-Administrative simplification provision means any requirement or prohibition established by:
-
-1. 42 U.S.C. 1320d-1320d-4, 1320d-7, 1320d-8, and 1320d-9;
-2. Section 264 of Pub. L. 104-191;
-3. Sections 13400-13424 of Public Law 111-5; or
-4. This subchapter.
+(b) Where provided, the standards, requirements, and implementation specifications adopted under this subchapter apply to a business associate.
 
 (3) Business associate includes:
 
@@ -1076,13 +937,18 @@ Administrative simplification provision means any requirement or prohibition est
 (4) Business associate does not include:
 
 1. A health care provider, with respect to disclosures by a covered entity to the health care provider concerning the treatment of the individual.
-2. A plan sponsor, with respect to disclosures by a group health plan (or by a health insurance issuer) to the plan sponsor.
+2. A plan sponsor, with respect to disclosures by a group health plan (or by a health insurance issuer).
 
-[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 53266, Aug. 14, 2002; 78 FR 5687, Jan. 25, 2013]
+# § 160.103 Definitions.
+
+Except as otherwise provided, the following definitions apply to this subchapter:
+
+Act means the Social Security Act.
+
+Administrative simplification provision means any requirement or prohibition established by:
 
 HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+March 2013
 
 issuer or HMO with respect to a group health plan) to the plan sponsor, to the extent that the requirements of § 164.504(f) of this subchapter apply and are met.
 
@@ -1090,80 +956,82 @@ issuer or HMO with respect to a group health plan) to the plan sponsor, to the e
 
 (iv) A covered entity participating in an organized health care arrangement that performs a function or activity as described by paragraph (1)(i) of this definition for or on behalf of such organized health care arrangement, or that provides a service as described in paragraph (1)(ii) of this definition to or for such organized health care arrangement by virtue of such activities or services.
 
-# Definitions
-
-Covered entity means:
+# Covered entity means:
 
 1. A health plan.
 2. A health care clearinghouse.
 3. A health care provider who transmits any health information in electronic form in connection with a transaction covered by this subchapter.
 
-Disclosure means the release, transfer, provision of access to, or divulging in any manner of information outside the entity holding the information. Certain transmissions, including of paper, via facsimile, and of voice, via telephone, are not considered to be transmissions via electronic media if the information being exchanged did not exist in electronic form immediately before the transmission.
+# Disclosure means
 
-EIN stands for the employer identification number assigned by the Internal Revenue Service, U.S. Department of the Treasury. The EIN is the taxpayer identifying number of an individual or other entity (whether or not an employer) assigned under one of the following:
+the release, transfer, provision of access to, or divulging in any manner of information outside the entity holding the information.
+
+Certain transmissions, including of paper, via facsimile, and of voice, via telephone, are not considered to be transmissions via electronic media if the information being exchanged did not exist in electronic form immediately before the transmission.
+
+# EIN
+
+stands for the employer identification number assigned by the Internal Revenue Service, U.S. Department of the Treasury. The EIN is the taxpayer identifying number of an individual or other entity (whether or not an employer) assigned under one of the following:
 
 1. 26 U.S.C. 6011(b), which is the portion of the Internal Revenue Code dealing with identifying the taxpayer in tax returns and statements, or corresponding provisions of prior law.
 2. 26 U.S.C. 6109, which is the portion of the Internal Revenue Code dealing with identifying numbers in tax returns, statements, and other required documents.
 
-Electronic protected health information means information that comes within paragraphs (1)(i) or (1)(ii) of the definition of protected health information as specified in this section.
+# Electronic protected health information
 
-Employer is defined as it is in 26 U.S.C. 3401(d).
+means information that comes within paragraphs (1)(i) or (1)(ii) of the definition of protected health information as specified in this section.
 
-Family member means, with respect to an individual:
+# Employer
+
+is defined as it is in 26 U.S.C. 3401(d).
+
+# Family member means, with respect to an individual:
 
 1. A dependent (as such term is defined in 45 CFR 144.103), of the individual; or
 2. Any other person who is a first-degree, second-degree, third-degree, or fourth-degree relative of the individual or of a dependent of the individual.
 
 Relatives by affinity (such as by marriage or adoption) are treated the same as relatives by consanguinity (that is, relatives who share a common biological ancestor). In determining the degree of the relationship, relatives by less than full consanguinity (such as half-siblings, who share only one parent) are also considered.
 
-# Civil Money Penalty
+# Civil money penalty or penalty
 
-Civil money penalty or penalty means the amount determined under § 160.404 of this part and includes the plural of these terms.
-
-# Compliance Date
-
-Compliance date means the date by which a covered entity or business associate must comply with a standard, implementation specification, requirement, or modification adopted under this subchapter.
-
-# Electronic Media
-
-Electronic media means:
-
-1. Electronic storage material on which data is or may be recorded electronically, including, for example, devices in computers (hard drives) and any removable/transportable digital memory medium, such as magnetic tape or disk, optical disk, or digital memory card;
-2. Transmission media used to exchange information already in electronic storage media. Transmission media include, for example, the Internet, extranet or intranet, leased lines, dial-up lines, private networks, and the physical movement of removable/transportable electronic storage media.
-
-
+means the amount determined under § 160.404 of this part and includes the plural of these terms.
 
 HIPAA Administrative Simplification Regulation Text
-# March 2013
+March 2013
 
 (parent) are treated the same as (i) A fetus carried by the individual or family member who is a pregnant woman; and (ii) Any embryo legally held by an individual or family member utilizing an assisted reproductive technology.
 
 (1) Has 50 or more participants (as defined in section 3(7) of ERISA, 29 U.S.C. 1002(7)); or (2) Is administered by an entity other than the employer that established and maintains the plan.
 
-(3) Genetic information excludes information about the sex or age of any individual.
-
-HHS stands for the Department of Health and Human Services.
-
-Health care means care, services, or supplies related to the health of an individual. Health care includes, but is not limited to, the following:
-
-- (1) Preventive, diagnostic, therapeutic, rehabilitative, maintenance, or palliative care, and counseling, service, assessment, or procedure with respect to the physical or mental condition, or functional status, of an individual or that affects the structure or function of the body; and
-- (2) Sale or dispensing of a drug, device, equipment, or other item in accordance with a prescription.
-
 Genetic information means:
 
-1. Subject to paragraphs (2) and (3) of this definition, with respect to an individual, information about:
-2. - (i) The individual's genetic tests;
-- (ii) The genetic tests of family members of the individual;
-- (iii) The manifestation of a disease or disorder in family members of such individual; or
-- (iv) Any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by the individual or any family member of the individual.
+(1) Subject to paragraphs (2) and (3) of this definition, with respect to an individual, information about:
 
-Any reference in this subchapter to genetic information concerning an individual or family member of an individual shall include the genetic information of:
+(i) The individual's genetic tests;
+
+(ii) The genetic tests of family members of the individual;
+
+(iii) The manifestation of a disease or disorder in family members of such individual; or
+
+(iv) Any request for, or receipt of, genetic services, or participation in clinical research which includes genetic services, by the individual or any family member of the individual.
+
+(2) Any reference in this subchapter to genetic information concerning an individual or family member of an individual shall include the genetic information of:
+
+Genetic services means:
+
+(1) A genetic test;
+
+(2) Genetic counseling (including obtaining, interpreting, or assessing genetic information); or
+
+(3) Genetic education.
+
+Genetic test means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, if the analysis detects genotypes, mutations, or chromosomal changes. Genetic test does not include an analysis of proteins or metabolites that is directly related to a manifested disease, disorder, or pathological condition.
 
 Group health plan (also see definition of health plan in this section) means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income and Security Act of 1974 (ERISA), 29 U.S.C. 1002(1)), including insured and self-insured plans, to the extent that the plan provides medical care (as defined in section 2791(a)(2) of the Public Health Service Act (PHS Act), 42 U.S.C. 300gg-91(a)(2)), including items and services paid for as medical care, to employees or their dependents directly or through insurance.
 
 Health care clearinghouse means a public or private entity, including a billing service, repricing company, community health management information system or community health information system, and “value-added” networks and switches, that does either of the following functions:
 
-1. (1) Processes or facilitates the processing of health information received from another entity in a nonstandard format or containing nonstandard data content into standard data.
+(1) Processes or facilitates the processing of health information received from another entity in a nonstandard format or containing nonstandard data content into standard data.
+
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -1195,34 +1063,35 @@ Health plan means an individual or group plan that provides, or pays the cost of
 6. The Medicare Advantage program under Part C of title XVIII of the Act, 42 U.S.C. 1395w-21 through 1395w-28.
 7. The Medicaid program under title XIX of the Act, 42 U.S.C. 1396, et seq.
 8. A high risk pool that is a mechanism established under State law to provide health insurance coverage or comparable coverage to eligible individuals.
-9. An issuer of a Medicare supplemental policy (as defined in section 1882(g)(1) of the Act, 42 U.S.C. 1395ss(g)(1)).
-10. An issuer of a long-term care policy, excluding a nursing home fixed indemnity policy.
-11. An employee welfare benefit plan or any other arrangement that is established or maintained for the purpose of offering or providing health benefits to the employees of two or more employers.
-12. The health care program for uniformed services under title 10 of the United States Code.
-13. The veterans health care program under 38 U.S.C. chapter 17.
-14. The Indian Health Service program under the Indian Health Care Improvement Act, 25 U.S.C. 1601, et seq.
-15. The Federal Employees Health Benefits Program under 5 U.S.C. 8902, et seq.
-
-# Health insurance issuer
-
-Health insurance issuer (as defined in section 2791(b)(2) of the PHS Act, 42 U.S.C. 300gg-91(b)(2) and used in the definition of health plan in this section) means an insurance company, insurance service, or insurance organization (including an HMO) that is licensed to engage in the business of insurance in a State and is subject to State law that regulates insurance. Such term does not include a group health plan.
+9. The Voluntary Prescription Drug Benefit Program under Part D of title XVIII of the Act, 42 U.S.C. 1395w-101 through 1395w-152.
+10. An issuer of a Medicare supplemental policy (as defined in section 1882(g)(1) of the Act, 42 U.S.C. 1395ss(g)(1)).
+11. An issuer of a long-term care policy, excluding a nursing home fixed indemnity policy.
+12. An employee welfare benefit plan or any other arrangement that is established or maintained for the purpose of offering or providing health benefits to the employees of two or more employers.
+13. The health care program for uniformed services under title 10 of the United States Code.
+14. The veterans health care program under 38 U.S.C. chapter 17.
+15. The Indian Health Service program under the Indian Health Care Improvement Act, 25 U.S.C. 1601, et seq.
+16. The Federal Employees Health Benefits Program under 5 U.S.C. 8902, et seq.
 
 
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-(xvii) Any other individual or employer, or health care clearinghouse; and one covered entity participates and in which the participating covered entities:
-
-1. Relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; and
+(xvii) Any other individual or employer, or health care group plan, or combination of individual or group plans, that provides or pays for the cost of medical care (as defined in section 2791(a)(2) of the PHS Act, 42 U.S.C. 300gg-91(a)(2)).
 
 (2) Health plan excludes:
 
-1. Any policy, plan, or program to the extent that it provides, or pays for the cost of, excepted benefits that are listed in section 2791(c)(1) of the PHS Act, 42 U.S.C. 300gg-91(c)(1); and
-2. A government-funded program (other than one listed in paragraph (1)(i)-(xvi) of this definition):
+(i) Any policy, plan, or program to the extent that it provides, or pays for the cost of, excepted benefits that are listed in section 2791(c)(1) of the PHS Act, 42 U.S.C. 300gg-91(c)(1); and
 
-- (A) Whose principal purpose is other than providing, or paying the cost of, health care; or
-- (B) Whose principal activity is:
+(ii) A government-funded program (other than one listed in paragraph (1)(i)-(xvi) of this definition):
+
+(A) Whose principal purpose is other than providing, or paying the cost of, health care; or
+
+(B) Whose principal activity is:
+
+(1) The direct provision of health care to persons; or
+
+(2) The making of grants to fund the direct provision of health care to persons.
 
 Manifestation or manifested means, with respect to a disease, disorder, or pathological condition, that an individual has been or could reasonably be diagnosed with the disease, disorder, or pathological condition by a health care professional with appropriate training and expertise in the field of medicine involved. For purposes of this subchapter, a disease, disorder, or pathological condition is not manifested if the diagnosis is based principally on genetic information.
 
@@ -1234,18 +1103,17 @@ Individual means the person who is the subject of protected health information.
 
 Individually identifiable health information is information that is a subset of health information, including demographic information collected from an individual, and:
 
-1. Is created or received by a health care provider, health plan,
+(1) Is created or received by a health care provider, health plan,
 
-entity is reviewed by other participating covered entities or by a third party on their behalf for the purpose of administering the sharing of financial risk.
+(2) An organized system of health care in which more than one health care provider typically provides health care to individuals;
 
 (3) A group health plan and a health insurance issuer or HMO with respect to such group health plan, but only with respect to protected health information created or received by such health insurance issuer or HMO that relates to individuals who are or who have been participants or beneficiaries in such group health plan;
 
 15
 
+# HIPAA Administrative Simplification Regulation Text
 
-
-HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
 (4) A group health plan and one or more other group health plans each of which are maintained by the same plan sponsor; or
 
@@ -1295,18 +1163,14 @@ Transaction means the transmission of information between two parties to carry o
 
 (ii) In records described at 20 U.S.C. 1232g(a)(4)(B)(iv);
 
-Standard setting organization (SSO) means an organization accredited by the American National Standards Institute that develops and maintains standards for information transactions or data elements, or any other standard that is necessary for, or will facilitate the implementation of, this part.
-
-16
-
-
-
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
 # (2) Health care payment and remittance advice.
 
 # (3) Coordination of benefits.
+
+[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 38019, May 31, 2002; 67 FR 53266, Aug. 14, 2002; 68 FR 8374, Feb. 20, 2003; 71 FR 8424, Feb. 16, 2006; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 78 FR 5687, Jan. 25, 2013]
 
 # (4) Health care claim status.
 
@@ -1348,11 +1212,7 @@ Except as otherwise provided, with respect to rules that adopt new standards and
 
 The provisions of this subpart implement section 1178 of the Act, section 262 of Public Law 104-191, section 264(c) of Public Law 104-191, and section 13421(a) of Public Law 111-5.
 
-[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 38019, May 31, 2002; 67 FR 53266, Aug. 14, 2002; 68 FR 8374, Feb. 20, 2003; 71 FR 8424, Feb. 16, 2006; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 78 FR 5687, Jan. 25, 2013]
-
 [78 FR 5689, Jan. 25, 2013]
-
-17
 
 HIPAA Administrative Simplification Regulation Text
 # March 2013
@@ -1366,29 +1226,27 @@ Contrary, when used to compare a provision of State law to a standard, requireme
 1. A covered entity or business associate would find it impossible to comply with both the State and Federal requirements; or
 2. The provision of State law stands as an obstacle to the accomplishment and execution of the full purposes and objectives of part C of title XI of the Act, section 264 of Public Law 104-191, or sections 13400-13424 of Public Law 111-5, as applicable.
 
-More stringent means, in the context of a comparison of a provision of State law and a standard, requirement, or implementation specification adopted under subpart E of part 164 of this subchapter, a State law that meets one or more of the following criteria:
+(1) With respect to the rights of an individual, who is the subject of the individually identifiable health information, regarding access to or amendment of individually identifiable health information, permits greater rights of access or amendment, as applicable.
 
-1. With respect to a use or disclosure, the law prohibits or restricts a use or disclosure in circumstances under which such use or disclosure otherwise would be permitted under this subchapter, except if the disclosure is:
-2. Disclosure of individually identifiable health information, provides requirements that narrow the scope or duration, increase the privacy protections afforded (such as by expanding the criteria for), or reduce the coercive effect of the circumstances surrounding the express legal permission, as applicable.
+(2) With respect to information to be provided to an individual who is the subject of the individually identifiable health information about a use, a disclosure, rights, and remedies, provides the greater amount of information.
+
+(3) With respect to the form, substance, or the need for express legal permission from an individual, who is the subject of the individually identifiable health information, for use or disclosure of individually identifiable health information, provides requirements that narrow the scope or duration, increase the privacy protections afforded (such as by expanding the criteria for), or reduce the coercive effect of the circumstances surrounding the express legal permission, as applicable.
+
+(4) With respect to recordkeeping or requirements relating to accounting of disclosures, provides for the retention or reporting of more detailed information or for a longer duration.
+
+(5) With respect to any other matter, provides greater privacy protection for the individual who is the subject of the individually identifiable health information.
+
+State law means a constitution, statute, regulation, rule, common law, or other State action having the force and effect of law.
+
+[65 FR 82798, Dec. 28, 2000, as amended at 67 FR 53266, Aug. 14, 2002; 74 FR 42767, Aug. 24, 2009; 78 FR 5689, Jan. 25, 2013]
 
 # § 160.203  General rule and exceptions.
 
 A standard, requirement, or implementation specification adopted under this subchapter that is contrary to a provision of State law preempts the provision of State law. This general rule applies, except if one or more of the following conditions is met:
 
-A determination is made by the Secretary under § 160.204 that the provision of State law:
-1. Is necessary:
+1. A determination is made by the Secretary under § 160.204 that the provision of State law:
 
-With respect to the rights of an individual, who is the subject of the individually identifiable health information, regarding access to or amendment of individually identifiable health information, permits greater rights of access or amendment, as applicable.
-
-With respect to information to be provided to an individual who is the subject of the individually identifiable health information about a use, a disclosure, rights, and remedies, provides the greater amount of information.
-
-With respect to the form, substance, or the need for express legal permission from an individual, who is the subject of the individually identifiable health information, for use or disclosure.
-
-With respect to recordkeeping or requirements relating to accounting of disclosures, provides for the retention or reporting of more detailed information or for a longer duration.
-
-Required by the Secretary in connection with determining whether a covered entity or business associate is in compliance with this subchapter; or
-
-With respect to any other matter, provides greater privacy protection for the individual who is the subject of the individually identifiable health information.
+(6) With respect to any other matter, provides greater privacy protection for the individual who is the subject of the individually identifiable health information.
 
 
 
@@ -1456,9 +1314,9 @@ March 2013
 
 [78 FR 5690, Jan. 25, 2013]
 
-# § 160.302 [Reserved]
+# § 160.302      [Reserved]
 
-# § 160.304 Principles for achieving compliance.
+# § 160.304      Principles for achieving compliance.
 
 (a) Cooperation. The Secretary will, to the extent practicable and consistent with the provisions of this subpart, seek the cooperation of covered entities and business associates in obtaining compliance with the applicable administrative simplification provisions.
 
@@ -1472,7 +1330,7 @@ March 2013
 
 (4) At the time of the initial written communication with the covered entity or business associate about the complaint, the Secretary will describe the acts and/or omissions that are the basis of the complaint.
 
-# § 160.306 Complaints to the Secretary.
+# § 160.306       Complaints to the Secretary.
 
 (a) Right to file a complaint. A person who believes a covered entity or business associate is not complying with the administrative simplification provisions may file a complaint with the Secretary.
 
@@ -1481,7 +1339,7 @@ March 2013
 - (1) A complaint must be filed in writing, either on paper or electronically.
 - (2) A complaint must name the person that is the subject of the complaint and describe the acts or omissions believed to be in violation of the applicable administrative simplification provision(s).
 
-# § 160.310 Responsibilities of covered entities and business associates.
+# § 160.310   Responsibilities of covered entities and business associates.
 
 (a) Provide records and compliance reports. A covered entity or business associate must keep such records and submit such compliance reports, in such time and manner and containing such information, as the Secretary may determine to be necessary to enable the Secretary to ascertain whether the covered entity or business associate has complied or is complying with the applicable administrative simplification provisions.
 
@@ -1489,12 +1347,13 @@ March 2013
 
 [71 FR 8424, Feb. 16, 2006, as amended at 78 FR 5690, Jan. 25, 2013]
 
-# § 160.308 Compliance reviews.
+# § 160.308     Compliance reviews.
 
 (a) The Secretary will conduct a compliance review to determine whether a covered entity or business associate is complying with the applicable administrative simplification provisions.
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+
+# March 2013
 
 # (c) Permit access to information.
 
@@ -1502,9 +1361,7 @@ March 2013
 
 (1) A covered entity or business associate must permit access by the Secretary during normal business hours to its facilities, books, records, accounts, and other sources of information, including protected health information, that are pertinent to ascertaining compliance with the applicable administrative simplification provisions. If the Secretary determines that exigent circumstances exist, such as when documents may be hidden or destroyed, a covered entity or business associate must permit access by the Secretary at any time and without notice.
 
-# Resolution when noncompliance is indicated.
-
-(1) If an investigation of a complaint pursuant to § 160.306 or a compliance review pursuant to § 160.308 indicates noncompliance, the Secretary may attempt to reach a resolution of the matter satisfactory to the Secretary by informal means. Informal means may include demonstrated compliance or a completed corrective action plan or other agreement.
+(a) Resolution when noncompliance is indicated. (1) If an investigation of a complaint pursuant to § 160.306 or a compliance review pursuant to § 160.308 indicates noncompliance, the Secretary may attempt to reach a resolution of the matter satisfactory to the Secretary by informal means. Informal means may include demonstrated compliance or a completed corrective action plan or other agreement.
 
 (b) Resolution when no violation is found. If, after an investigation pursuant to § 160.306 or a compliance review pursuant to § 160.308, the Secretary determines that further action is not warranted, the Secretary will so inform the covered entity or business associate and, if the matter arose from a complaint, the complainant, in writing.
 
@@ -1516,8 +1373,6 @@ March 2013
 
 (a) The Secretary may issue subpoenas in accordance with 42 U.S.C. 405(d) and (e), 1320a-7a(j), and 1320d-5 to require the attendance and testimony of witnesses and the production of any other evidence during an investigation or compliance review pursuant to this part. For purposes of this paragraph, a person other than a natural person is termed an “entity.”
 
-# Protected health information
-
 (3) Protected health information obtained by the Secretary in connection with an investigation or compliance review under this subpart will not be disclosed by the Secretary, except if necessary for ascertaining or enforcing compliance with the applicable administrative simplification provisions, if otherwise required by law, or if permitted under 5 U.S.C. 552a(b)(7).
 
 (1) A subpoena issued under this paragraph must—
@@ -1528,6 +1383,8 @@ March 2013
 - (iv) Include a reasonably specific description of any.
 
 [78 FR 5690, Jan. 25, 2013]
+
+
 
 HIPAA Administrative Simplification Regulation Text
 # March 2013
@@ -1558,9 +1415,9 @@ documents or items required to be produced; and
 
 (7) The transcript will be submitted to the witness for signature.
 
-(A) Where the witness will be provided a copy of the transcript, the transcript will be submitted to the witness for signature. The witness may submit to the Secretary written proposed corrections to the transcript, with such corrections attached to the transcript. If the witness does not return a signed copy of the transcript or proposed corrections within 30 days (computed in the same manner as prescribed under § 160.526 of this part) of its being submitted to him or her for signature, the witness will be deemed to have agreed that the transcript is true and accurate.
+(8) Where the witness will be provided a copy of the transcript, the transcript will be submitted to the witness for signature. The witness may submit to the Secretary written proposed corrections to the transcript, with such corrections attached to the transcript. If the witness does not return a signed copy of the transcript or proposed corrections within 30 days (computed in the same manner as prescribed under § 160.526 of this part) of its being submitted to him or her for signature, the witness will be deemed to have agreed that the transcript is true and accurate.
 
-(B) Where, as provided in paragraph (b)(8) of this section, the witness is limited to inspecting the transcript, the witness will have the opportunity at the time of inspection to propose corrections to the transcript, with corrections attached to the transcript. The witness will also have the opportunity to sign the transcript. If the witness does not sign the transcript or offer corrections within 30 days (computed in the same manner as prescribed under § 160.526 of this part), the witness will be deemed to have agreed that the transcript is true and accurate.
+(9)(i) Where, as provided in paragraph (b)(8) of this section, the witness is limited to inspecting the transcript, the witness will have the opportunity at the time of inspection to propose corrections to the transcript, with corrections attached to the transcript. The witness will also have the opportunity to sign the transcript. If the witness does not sign the transcript or offer corrections within 30 days (computed in the same manner as prescribed under § 160.526 of this part), the witness will be deemed to have agreed that the transcript is true and accurate.
 
 
 
@@ -1603,15 +1460,19 @@ Willful neglect means conscious, intentional failure or reckless indifference to
 
 (a) General rule. Subject to § 160.410, the Secretary will impose a civil money penalty upon a covered entity or business associate if the Secretary determines that the covered entity or business associate has violated an administrative simplification provision.
 
-(b) Violation by more than one covered entity or business associate. (1) Except as provided in paragraph (b)(2) of this section, if the Secretary determines that more than one covered entity or business associate was responsible for a violation, the Secretary will impose a civil money penalty against each such covered entity or business associate.
+(b) Violation by more than one covered entity or business associate.
+
+(1) Except as provided in paragraph (b)(2) of this section, if the Secretary determines that more than one covered entity or business associate was responsible for a violation, the Secretary will impose a civil money penalty against each such covered entity or business associate.
 
 (2) A covered entity that is a member of an affiliated covered entity, in accordance with § 164.105(b) of this subchapter, is jointly and severally liable for a civil money penalty for a violation of part 164 of this subchapter based on an act or omission of the affiliated covered entity, unless it is established that another member of the affiliated covered entity was responsible for the violation.
 
-(c) Violation attributed to a covered entity or business associate. (1) A covered entity is liable, in accordance with the Federal common law of agency, for a civil money penalty for a violation based on the act or omission of any agent of the covered entity, including a workforce member or business associate, acting within the scope of the agency.
+(c) Violation attributed to a covered entity or business associate.
+
+(1) A covered entity is liable, in accordance with the Federal common law of agency, for a civil money penalty for a violation based on the act or omission of any agent of the covered entity, including a workforce member or business associate, acting within the scope of the agency.
 
 [74 FR 56130, Oct. 30, 2009, as amended at 78 FR 5691, Jan. 25, 2013]
 
-23
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -1648,9 +1509,7 @@ identical violations during a calendar year (January 1 through the following Dec
 
 (b) The amount of a civil money penalty that may be imposed is subject to the following limitations:
 
-# (1) For violations occurring
-
-prior to February 18, 2009, the Secretary may not impose a civil money penalty—
+# (1) For violations occurring prior to February 18, 2009, the Secretary may not impose a civil money penalty—
 
 # (i) In the amount of more than
 
@@ -1660,9 +1519,7 @@ $100 for each violation; or
 
 identical violations during a calendar year (January 1 through the following December 31);
 
-# (2) For violations occurring on
-
-or after February 18, 2009, the Secretary may not impose a civil money penalty—
+# (2) For violations occurring on or after February 18, 2009, the Secretary may not impose a civil money penalty—
 
 # (i) For a violation in which it is
 
@@ -1678,7 +1535,7 @@ identical violations during a calendar year (January 1 through the following Dec
 
 # (iv) For a violation in which it is
 
-established that the violation was due to willful neglect and was not corrected during the 30-day period beginning on the first date the covered entity or business associate liable for the penalty knew, or, by exercising reasonable diligence, would have known that the violation occurred.
+established that the violation was due to willful neglect and was not corrected during the 30-day period beginning on the first date the covered entity or business associate liable for the penalty knew, or, by exercising reasonable diligence, would have known that the violation occurred,
 
 # § 160.406 Violations of an identical requirement or prohibition.
 
@@ -1687,6 +1544,8 @@ The Secretary will determine the number of violations of an administrative simpl
 [78 FR 5691, Jan. 25, 2013]
 
 HIPAA Administrative Simplification Regulation Text
+March 2013
+
 # § 160.408 Factors considered in determining the amount of a civil money penalty.
 
 In determining the amount of any civil money penalty, the Secretary will consider the following factors, which may be mitigating or aggravating as appropriate:
@@ -1732,14 +1591,21 @@ beginning on the first date the covered entity liable for the penalty knew, or b
 
 # (B) Such additional period as the Secretary determines to be appropriate based on the nature and extent of the failure to comply.
 
-# § 160.414 Limitations.
-
 No action under this subpart may be entertained unless commenced by the Secretary, in accordance with § 160.420, within 6 years from the date of penalty is proposed (except that, in any case where the Secretary is relying upon a statistical sampling study in accordance with § 160.536 of this part, the notice must provide a copy of the study relied upon by the Secretary);
 
 1. The reason(s) why the violation(s) subject(s) the respondent to a penalty;
 2. The amount of the proposed penalty and a reference to the subparagraph of § 160.404 upon which it is based.
 3. Any circumstances described in § 160.408 that were considered in determining the amount of the proposed penalty;
 4. Instructions for responding to the notice, including a statement of the respondent's right to a hearing, a statement that failure to request a hearing within 90 days permits the imposition of the proposed penalty without the right to a hearing under § 160.504 or a right of appeal under § 160.548 of this part, and the address to which the hearing request must be sent.
+
+# § 160.414 Limitations.
+
+For violations occurring on or after February 18, 2009, the Secretary may not impose a civil money penalty on a covered entity or business associate for a violation if the covered entity or business associate establishes to the satisfaction of the Secretary that the violation is—
+
+1. Not due to willful neglect; and
+2. Corrected during either:
+
+Except as otherwise provided by 42 U.S.C. 1320d-5(b)(1) and 42 U.S.C. 299b-22(f)(3), a penalty imposed under this part is in addition to any other penalty prescribed by law.
 
 # § 160.416 Authority to settle.
 
@@ -1749,8 +1615,6 @@ Nothing in this subpart limits the authority of the Secretary to settle any issu
 
 Except as otherwise provided by 42 U.S.C. 1320d-5(b)(1) and 42 U.S.C. 299b-22(f)(3), a penalty imposed under this part is in addition to any other penalty prescribed by law.
 
-[78 FR 5692, Jan. 25, 2013]
-
 # § 160.420 Notice of proposed determination.
 
 (a) If a penalty is proposed in accordance with this part, the Secretary must deliver, or send by certified mail with return receipt requested, to the respondent, written notice of the Secretary's intent to impose a penalty. This notice of proposed determination must include—
@@ -1758,13 +1622,11 @@ Except as otherwise provided by 42 U.S.C. 1320d-5(b)(1) and 42 U.S.C. 299b-22(f)
 1. Reference to the statutory basis for the penalty;
 2. A description of the findings of fact regarding the violations with respect to which the penalty is proposed;
 
-(b) The respondent may request a hearing before an ALJ on the proposed penalty by filing a request in accordance with § 160.504 of this part.
-
-[71 FR 8426, Feb. 16, 2006, as amended at 74 FR 56131, Oct. 30, 2009]
-
 # § 160.422 Failure to request a hearing.
 
 If the respondent does not request a hearing within the time prescribed by § 160.504 of this part, the proposed penalty may be imposed without a hearing.
+
+[78 FR 5692, Jan. 25, 2013]
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -1818,11 +1680,11 @@ March 2013
 3. The respondent abandons the request for a hearing; or
 4. The respondent's hearing request fails to raise any issue that may properly be addressed in a hearing.
 
-# § 160.506 Rights of the parties.
+# § 160.506 Rights of the parties
 
 performed on behalf of a party by an attorney are not subject to the provisions of 42 U.S.C. 406, which authorizes the Secretary to specify or limit their fees.
 
-# § 160.508 Authority of the ALJ.
+# § 160.508 Authority of the ALJ
 
 (a) Except as otherwise limited by this subpart, each party may—
 
@@ -1843,6 +1705,8 @@ performed on behalf of a party by an attorney are not subject to the provisions 
 (c) The ALJ—
 
 (1) May not find invalid or refuse to follow Federal statutes, regulations, or Secretarial delegations of authority and must give deference to published guidance to the extent not inconsistent with statute or regulation;
+
+28
 
 HIPAA Administrative Simplification Regulation Text March 2013
 
@@ -1899,10 +1763,6 @@ been received, within 30 days including copies of any written statements that th
 
 (c) When a subpoena is served by a respondent on a particular employee or official or particular office of HHS, the Secretary may comply by designating any knowledgeable HHS representative to appear and testify.
 
-(a) The parties must exchange witness lists, copies of prior written statements of proposed witnesses, and copies of proposed hearing exhibits, prejudice to the objecting party.
-
-(i) If the ALJ finds that there is no substantial prejudice, the evidence may be admitted.
-
 (d) A party seeking a subpoena must file a written motion not less than 30 days before the date fixed for the hearing, unless otherwise allowed by the ALJ.
 
 HIPAA Administrative Simplification Regulation Text
@@ -1932,43 +1792,62 @@ The party requesting a subpoena must pay the cost of the fees and mileage of any
 
 31
 
+
+
 HIPAA Administrative Simplification Regulation Text
 March 2013
-
-# § 160.532 Collateral estoppel.
-
-(d) The ALJ may not grant a written motion before the time for filing responses has expired, except upon consent of the parties or following a hearing on the motion, but may overrule or deny the motion without awaiting a response.
-
-(e) The ALJ must make a reasonable effort to dispose of all outstanding motions before the beginning of the hearing.
 
 # § 160.530 Sanctions.
 
 The ALJ may sanction a person, including any party or attorney, for failing to comply with an order or procedure, for failing to defend an action or for other misconduct that interferes with the speedy, orderly or fair conduct of the hearing. The sanctions must reasonably relate to the severity and nature of the failure or misconduct. The sanctions may include— cause shown.
 
+# (d)(1)
+
+Subject to the 15-day rule under § 160.518(a) and the admissibility of evidence under § 160.540, either party may introduce, during its case in chief, items or information that arose or became known after the date of the issuance of the notice of proposed determination or the request for hearing, as
+
+# (a)
+
+In the case of refusal to provide or permit discovery under the terms of this part, drawing negative factual inferences or treating the refusal as an admission by deeming the matter, or certain facts, to be established;
+
+# (b)
+
+Prohibiting a party from introducing certain evidence or otherwise supporting a particular claim or defense;
+
+# (c)
+
+Striking pleadings, in whole or in part;
+
+# § 160.532 Collateral estoppel.
+
+(e) The ALJ must make a reasonable effort to dispose of all outstanding motions before the beginning of the hearing.
+
 # § 160.534 The hearing.
 
 (a) The ALJ must conduct a hearing on the record in order to determine whether the respondent should be found liable under this part.
 
-(b) (1) The respondent has the burden of going forward and the burden of persuasion with respect to any:
+# (b)(1)
 
-- (i) Affirmative defense pursuant to § 160.410 of this part;
-- (ii) Challenge to the amount of a proposed penalty pursuant to §§ 160.404-160.408 of this part, including any factors raised as mitigating factors; or
-- (iii) Claim that a proposed penalty should be reduced or applicable.
+The respondent has the burden of going forward and the burden of persuasion with respect to any:
 
-(c) The hearing must be open to the public unless otherwise ordered by the ALJ for good cause shown.
+# (i)
 
-(d)(1) Subject to the 15-day rule under § 160.518(a) and the admissibility of evidence under § 160.540, either party may introduce, during its case in chief, items or information that arose or became known after the date of the issuance of the notice of proposed determination or the request for hearing, as
+Affirmative defense pursuant to § 160.410 of this part;
 
-(a) In the case of refusal to provide or permit discovery under the terms of this part, drawing negative factual inferences or treating the refusal as an admission by deeming the matter, or certain facts, to be established;
+# (ii)
 
-(b) Prohibiting a party from introducing certain evidence or otherwise supporting a particular claim or defense;
+Challenge to the amount of a proposed penalty pursuant to §§ 160.404-160.408 of this part, including any factors raised as mitigating factors; or
 
-(c) Striking pleadings, in whole or in part;
+# (iii)
 
-Such items and information may not be admitted into evidence, if introduced—
+Claim that a proposed penalty should be reduced or applicable. Such items and information may not be admitted into evidence, if introduced—
 
-- (i) By the Secretary, unless they are material and relevant to the acts or omissions with respect to which the penalty is proposed in the notice of proposed determination pursuant to § 160.420 of this part, including circumstances that may increase penalties; or
-- (ii) By the respondent, unless they are material and relevant to an admission, denial or
+# (i)
+
+By the Secretary, unless they are material and relevant to the acts or omissions with respect to which the penalty is proposed in the notice of proposed determination pursuant to § 160.420 of this part, including circumstances that may increase penalties; or
+
+# (ii)
+
+By the respondent, unless they are material and relevant to an admission, denial or
 
 32
 
@@ -1997,17 +1876,7 @@ March 2013
 
 (d) Although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or by considerations of undue delay or needless presentation of cumulative evidence.
 
-# § 160.536 Statistical sampling.
-
-(a) In meeting the burden of proof set forth in § 160.534, the Secretary may introduce the results of a statistical sampling study as evidence of the number of violations under § 160.406 of this part, or the factors considered in determining the amount of the civil money penalty under § 160.408 of this part. Such statistical sampling study, if based upon an appropriate sampling and computed by valid statistical methods, constitutes prima facie evidence of the number of violations and the existence of factors material to the proposed civil money penalty as described in §§ 160.406 and 160.408.
-
-(b) Once the Secretary has made a prima facie case, as described in paragraph (a) of this section, the burden of going forward shifts to the respondent to produce evidence reasonably calculated to rebut the findings of the statistical sampling study. The Secretary will then be given the opportunity to rebut this evidence.
-
-(c) The ALJ must exercise reasonable control over the mode and order of interrogating witnesses and presenting evidence so as to:
-
-- (1) Make the interrogation and presentation effective for the ascertainment of the truth;
-- (2) Avoid repetition or needless consumption of time; and
-- (3) Protect witnesses from harassment or undue embarrassment.
+33
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -2058,19 +1927,7 @@ The ALJ must permit the parties to introduce rebuttal witnesses and evidence.
 
 All documents and other evidence offered or taken for the record must be open to examination by both parties, unless otherwise ordered by the ALJ for good cause shown.
 
-# (d)
 
-Unless the decision of the ALJ is timely appealed as provided for in § 160.548, the decision of the ALJ will be final and binding on the parties 60 days from the date of service of the ALJ's decision.
-
-# (c)
-
-The record may be inspected and copied (upon payment of a reasonable fee) by any person, unless otherwise ordered by the ALJ for good cause shown.
-
-# (b)
-
-The transcript of the testimony, exhibits, and other evidence admitted at the hearing, and all papers and requests filed in the proceeding constitute the record for decision by the ALJ and the Secretary.
-
-34
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -2101,10 +1958,12 @@ March 2013
 
 35
 
-HIPAA Administrative Simplification Regulation Text
-# § 160.551  Stay of penalty.
 
-(a) The ALJ may grant a respondent's request for stay of any penalty pending the time as the ALJ rules upon the request.
+# HIPAA Administrative Simplification Regulation Text
+
+# March 2013
+
+time as the ALJ rules upon the request.
 
 (b) The ALJ may not grant a respondent's request for stay of any penalty unless the respondent posts a bond or provides other adequate security.
 
@@ -2114,20 +1973,15 @@ HIPAA Administrative Simplification Regulation Text
 
 No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in any act done or omitted by the ALJ or by any of the parties is ground for vacating, modifying or otherwise disturbing an otherwise appropriate ruling or order or act, unless refusal to take such action appears to the ALJ or the Board inconsistent with substantial justice. The ALJ and the Board at every stage of the proceeding must disregard any error or defect in the proceeding that does not affect the substantial rights of the parties.
 
+36
+
 
 
 HIPAA Administrative Simplification Regulation Text
+
 # March 2013
 
-# § 162.512 Implementation specifications: Health plans.
-
-# § 162.514 Other entity identifier.
-
 # PART 162—ADMINISTRATIVE REQUIREMENTS
-
-# Subpart F—Standard Unique Employer Identifier
-
-# Contents
 
 # Subpart A—General Provisions
 
@@ -2135,7 +1989,7 @@ HIPAA Administrative Simplification Regulation Text
 | --------- | -------------- |
 | § 162.103 | Definitions.   |
 
-# Subparts B-C [Reserved]
+Subparts B-C [Reserved]
 
 # Subpart D—Standard Unique Health Identifier for Health Care Providers
 
@@ -2156,6 +2010,21 @@ HIPAA Administrative Simplification Regulation Text
 | § 162.506 | Standard unique health plan identifier.                                                       |
 | § 162.508 | Enumeration System.                                                                           |
 | § 162.510 | Full implementation requirements: Covered entities.                                           |
+
+# Subpart F—Standard Unique Employer Identifier
+
+| § 162.512 | Implementation specifications: Health plans. |
+| --------- | -------------------------------------------- |
+| § 162.514 | Other entity identifier.                     |
+
+# Subpart G-H [Reserved]
+
+# Subpart I—General Provisions for Transactions
+
+| § 162.600 | Compliance dates of the implementation of the standard unique employer identifier. |
+| --------- | ---------------------------------------------------------------------------------- |
+| § 162.605 | Standard unique employer identifier.                                               |
+| § 162.610 | Implementation specifications for covered entities.                                |
 
 # Subpart J—Code Sets
 
@@ -2196,7 +2065,7 @@ HIPAA Administrative Simplification Regulation Text
 | ---------- | ------------------------------------------------------------------------ |
 | § 162.1502 | Standards for enrollment and disenrollment in a health plan transaction. |
 
-
+37
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -2223,11 +2092,11 @@ Code set means any set of codes used to encode data elements, such as tables of 
 
 Code set maintaining organization means an organization that creates and maintains the code sets adopted by the Secretary for use in the transactions for which standards are adopted in this part.
 
-Designated standard maintenance organization (DSMO) means an organization designated by the Secretary under § 162.910(a).
+Controlling health plan (CHP) means a health plan that—
 
-Direct data entry means the direct entry of data (for example, using dumb terminals or web browsers) that is immediately transmitted into a health plan's computer.
-
-Format refers to those data elements that provide or control the enveloping or hierarchical structure, or assist in identifying data content of, a transaction.
+1. Controls its own business activities, actions, or policies; or
+2. (i) Is controlled by an entity that is not a health plan; and
+3. (ii) If it has a subhealth plan(s) (as defined in this section), exercises sufficient control over the subhealth plan(s) to direct its/their business activities, actions, or policies.
 
 # Subpart Q—Health Plan Premium Payments
 
@@ -2272,8 +2141,9 @@ Segment means a group of related data elements in a transaction.
 
 (b) Required and permitted uses for the NPI.
 
-1. The NPI must be used as stated in § 162.410, § 162.412, and § 162.414.
-2. The NPI may be used for any other lawful purpose.
+(1) The NPI must be used as stated in § 162.410, § 162.412, and § 162.414.
+
+(2) The NPI may be used for any other lawful purpose.
 
 # § 162.404 Compliance dates of the implementation of the standard unique health identifier for health care providers.
 
@@ -2281,8 +2151,8 @@ Segment means a group of related data elements in a transaction.
 
 (b) Health plans. A health plan must comply with the implementation specifications in § 162.412 no later than one of the following dates:
 
-1. A health plan that is not a small health plan—May 23, 2007.
-2. A small health plan—May 23, 2008.
+- (1) A health plan that is not a small health plan—May 23, 2007.
+- (2) A small health plan—May 23, 2008.
 
 (c) Health care clearinghouses. A health care clearinghouse must comply with the implementation specifications in § 162.414 no later than May 23, 2007.
 
@@ -2290,13 +2160,14 @@ Segment means a group of related data elements in a transaction.
 
 The National Provider System (NPS) shall do the following:
 
-1. Assign a single, unique NPI to a health care provider, provided that—
-2. 1. The NPS may assign an NPI to a subpart of a health care provider in accordance with paragraph (g); and
-2. The Secretary has sufficient information to permit the assignment to be made.
+(a) Assign a single, unique NPI to a health care provider, provided that—
 
-Collect and maintain information about each health care provider.
+- (1) The NPS may assign an NPI to a subpart of a health care provider in accordance with paragraph (g); and
+- (2) The Secretary has sufficient information to permit the assignment to be made.
 
-[69 FR 3468, Jan. 23, 2004, as amended at 77 FR 54719, Sept. 5, 2012]
+(b) Collect and maintain information about each health care provider.
+
+39
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -2307,6 +2178,10 @@ March 2013
 
 1. Obtain, by application if necessary, an NPI from the National Provider System (NPS) for itself or for any subpart of the covered entity that would be a covered health care provider if it were a separate legal entity. A covered entity may obtain an NPI for any other subpart that qualifies for the assignment of an NPI.
 2. Use the NPI it obtained from the NPS to identify itself on all standard transactions where its health care provider identifier is required.
+3. Disclose its NPI, when requested, to any entity that needs the NPI to identify that covered health care provider in a standard transaction.
+4. Communicate to the NPS any changes in its required data elements in the NPS within 30 days of the change.
+5. If it uses one or more business associates to conduct standard transactions on its behalf, require its business associate(s) to use its NPI and other NPIs appropriately as required by the transactions that the business associate(s) conducts on its behalf.
+6. If it has been assigned NPIs for one or more subparts, comply with the requirements of paragraphs (a)(2) through (a)(5) of this section with respect to each of those NPIs.
 
 (b) A health plan may not require a health care provider that has been assigned an NPI to obtain an additional NPI.
 
@@ -2316,7 +2191,10 @@ March 2013
 
 # § 162.414 Implementation specifications: Health care clearinghouses.
 
-A health care clearinghouse must use the NPI of any health care provider (or subpart(s), if applicable) that has been assigned an NPI to identify that health care provider on all standard transactions where that health care provider's identifier is required.
+A health care clearinghouse must use the NPI of any health care provider that has as a member, employs, or contracts with, an individual health care provider who is not a covered entity and is a prescriber, must require such health care provider to—
+
+1. Obtain an NPI from the National Plan and Provider Enumeration System (NPPES); and
+2. To the extent the prescriber writes a prescription while acting within the scope of the prescriber's relationship with the organization, disclose the NPI upon request to any entity that needs it to identify the prescriber in a standard transaction.
 
 # Subpart E—Standard Unique Health Identifier for Health Plans
 
@@ -2325,26 +2203,6 @@ SOURCE: 77 FR 54719, Sept. 5, 2012, unless otherwise noted.
 # § 162.502 [Reserved]
 
 # § 162.504 Compliance requirements for the implementation of the standard unique health plan identifier.
-
-(c) If appropriate, deactivate an NPI upon receipt of appropriate information concerning the dissolution of the health care provider that is an organization, the death of the health care provider who is an individual, or other circumstances justifying deactivation.
-
-(d) If appropriate, reactivate a deactivated NPI upon receipt of appropriate information.
-
-(e) Not assign a deactivated NPI to any other health care provider.
-
-(f) Disseminate NPS information upon approved requests.
-
-(g) Assign an NPI to a subpart of a health care provider on request if the identifying data for the subpart are unique.
-
-(3) Disclose its NPI, when requested, to any entity that needs the NPI to identify that covered health care provider in a standard transaction.
-
-(4) Communicate to the NPS any changes in its required data elements in the NPS within 30 days of the change.
-
-(5) If it uses one or more business associates to conduct standard transactions on its behalf, require its business associate(s) to use its NPI and other NPIs appropriately as required by the transactions that the business associate(s) conducts on its behalf.
-
-(6) If it has been assigned NPIs for one or more subparts, comply with the requirements of paragraphs (a)(2) through (a)(5) of this section with respect to each of those NPIs.
-
-
 
 HIPAA Administrative Simplification Regulation Text
 
@@ -2375,10 +2233,11 @@ A health plan must comply with the implementation specifications in § 162.512 n
 
 (a) Standard. The standard unique health plan identifier is the Health Plan Identifier (HPID) that is assigned by the Enumeration System identified in § 162.508.
 
-(b) Required and permitted uses for the HPID.
+# (b) Required and permitted uses for the HPID.
 
-1. The HPID must be used as specified in § 162.510 and § 162.512.
-2. The HPID may be used for any other lawful purpose.
+(1) The HPID must be used as specified in § 162.510 and § 162.512.
+
+(2) The HPID may be used for any other lawful purpose.
 
 # § 162.508 Enumeration System.
 
@@ -2386,18 +2245,19 @@ The Enumeration System must do all of the following:
 
 1. Assign a single, unique—
 
-# (1) HPID to a health plan, provided that the Secretary has adopted a standard under this part.
+(1) HPID to a health plan, provided that the Secretary has adopted a standard under this part.
 
-(b) If a covered entity uses one or more business associates to conduct standard transactions on its behalf, it must require its business associate(s) to use an HPID to identify a health plan that has an HPID when a covered entity identifies a health plan in a transaction for which the Secretary has adopted a standard under this part.
+# (b) If a covered entity uses one or more business associates to conduct standard transactions on its behalf, it must require its business associate(s) to use an HPID to identify a health plan in a transaction for which the Secretary has adopted a standard under this part.
 
 # (c) A subhealth plan may obtain an HPID from the Enumeration System.
 
 # (d) A subhealth plan that is assigned an HPID from the Enumeration System must comply with the requirements that apply to a controlling health plan in paragraphs (a)(2) and (a)(3) of this section.
 
-
+41
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+
+# March 2013
 
 # § 162.514 Other entity identifier.
 
@@ -2405,16 +2265,17 @@ March 2013
 
 (1) The Employer Identifier must be used as stated in § 162.610(b).
 
-(2) The Employer Identifier may be used for any other lawful purpose.
+(a) An entity may obtain an Other Entity Identifier (OEID) to identify itself if the entity meets all of the following:
 
-An entity may obtain an Other Entity Identifier (OEID) to identify itself if the entity meets all of the following:
+(1) Needs to be identified in a transaction for which the Secretary has adopted a standard under this part.
 
-1. Needs to be identified in a transaction for which the Secretary has adopted a standard under this part.
-2. Is not eligible to obtain an HPID.
-3. Is not eligible to obtain an NPI.
-4. Is not an individual.
+(2) Is not eligible to obtain an HPID.
 
-(a) An OEID must be obtained from the Enumeration System identified in § 162.508.
+(3) Is not eligible to obtain an NPI.
+
+(4) Is not an individual.
+
+(b) An OEID must be obtained from the Enumeration System identified in § 162.508.
 
 # § 162.605 Standard unique employer identifier.
 
@@ -2428,47 +2289,56 @@ The Secretary adopts the EIN as the standard unique employer identifier provided
 
 # § 162.900 [Reserved]
 
+# Subpart F—Standard Unique Employer Identifier
+
+(c) Uses for the OEID. (1) An other entity may use the OEID it obtained from the Enumeration System to identify itself or have itself identified on all covered transactions in which it needs to be identified.
+
+(2) The OEID may be used for any other lawful purpose.
+
+# Subpart I—General Provisions for Transactions
+
+(c) Health care clearinghouses. Health care clearinghouses must comply with the requirements of this subpart no later than July 30, 2004.
+
+# § 162.600 Compliance dates of the implementation of the standard unique employer identifier.
+
+(a) Health care providers. Health care providers must comply with the requirements of this subpart no later than July 30, 2004.
+
 # § 162.910 Maintenance of standards and adoption of modifications and new standards.
 
 (a) Designation of DSMOs. (1) The Secretary may designate as a DSMO an organization that agrees to conduct, to the satisfaction of the Secretary, the following functions:
 
-1. Maintain standards adopted under this subchapter.
-2. Receive and process requests for adopting a new standard or modifying an adopted standard.
+(i) Maintain standards adopted under this subchapter.
+
+(ii) Receive and process requests for adopting a new standard or modifying an adopted standard.
 
 (2) The Secretary designates a DSMO by notice in the FEDERAL REGISTER.
 
-# (b) Maintenance of standards.
+(b) Maintenance of standards. Maintenance of a standard by the appropriate DSMO constitutes maintenance of the standard for purposes of this part, if done in accordance with the processes the Secretary may require.
 
-Maintenance of a standard by the appropriate DSMO constitutes maintenance of the standard for purposes of this part, if done in accordance with the processes the Secretary may require.
-
-# (c) Process for modification of existing standards and adoption.
-
-42
+(c) Process for modification of existing standards and adoption.
 
 
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
-The Secretary considers a recommendation for a proposed modification to an existing standard, or a proposed new standard, only if the recommendation is developed through a process that provides for the following:
+of new standards. The Secretary considers a recommendation for a proposed modification to an existing standard, or a proposed new standard, only if the recommendation is developed through a process that provides for the following:
 
 1. Open public access.
 2. Coordination with other DSMOs.
 3. An appeals process for each of the following, if dissatisfied with the decision on the request:
-4. 1. The requestor of the proposed modification.
+1. The requestor of the proposed modification.
 2. A DSMO that participated in the review and analysis of the request for the proposed modification, or the proposed new standard.
-
-Expedited process to address content needs identified within the industry, if appropriate.
+4. Expedited process to address content needs identified within the industry, if appropriate.
 5. Submission of the recommendation to the National Committee on Vital and Health Statistics (NCVHS).
 
-§ 162.920 Availability of implementation specifications and operating rules.
+# § 162.920 Availability of implementation specifications and operating rules.
 
 Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Health and Human Services must publish notice of change in the FEDERAL REGISTER and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 714-6030, or go to: http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html. The materials are also available for inspection by the public at the Centers for Medicare &#x26; Medicaid Services (CMS), 7500 Security Boulevard, Baltimore, Maryland 21244. For more information on the availability on the materials at CMS, call (410) 786-6597. The materials are as follows:
 
-- The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1, as referenced in § 162.1102 and § 162.1802.
-- The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1, as referenced in § 162.1102 and § 162.1802.
-
-43
+| (1) | The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1, as referenced in § 162.1102 and § 162.1802.                                               |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (2) | The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1, as referenced in § 162.1102 and § 162.1802. |
 
 
 
@@ -2493,7 +2363,7 @@ The ASC X12N 820— Payroll Deducted and Other Group Premium Payment for Insuran
 
 # (7)
 
-The ASC X12N 278— Health Care Services Review— Request for Review and Response (278), May 2006, ASC X12N/005010X217, and Errata to Health Care Services Review—Request for Review and Response.
+The ASC X12N 278— Health Care Services Review— Request for Review and Response (278), May 2006, ASC X12N/005010X217, and Errata to Health Care Services Review— Request for Review and Response (278), May 2006, ASC X12N/005010X217.
 
 # (8)
 
@@ -2509,23 +2379,19 @@ The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—
 
 # (11)
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218, as referenced in § 162.1702.
+The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim Payment/Advice (835), April 2006, ASC X12N/005010X221, as referenced in § 162.1602.
 
 # (12)
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim: Institutional (837), May 2006, ASC X12/N005010X223, and Type 1 Errata to Health Care Claim: Institutional (837), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, October 2007, ASC X12N/005010X223A1, as referenced in § 162.1302.
+The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Benefit Enrollment and Maintenance (834), August 2006, ASC X12N/005010X220, as referenced in § 162.1502.
 
 # (13)
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim Payment/Advice (835), April 2006, ASC X12N/005010X221, as referenced in § 162.1602.
+The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218, as referenced in § 162.1702.
 
 # (14)
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Benefit Enrollment and Maintenance (834), August 2006, ASC X12N/005010X220, as referenced in § 162.1502.
-
-# (15)
-
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Services Review— Request for Review and Response.
+The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Services Review— Request for Review and Response (278), May 2006, ASC X12N/005010X217, and Errata to Health Care Services Review— Request for Review and Response (278), May 2006, ASC X12N/005010X217.
 
 
 
@@ -2548,14 +2414,6 @@ Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription
 
 August 2006, ASC X12N/005010X212, and Errata to Health Care Claim Status Request and Response (276/277), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, April 2008, ASC X12N/005010X212E1, as referenced in § 162.1402.
 
-# (1) The Telecommunication Standard Implementation Guide
-
-Version 5, Release 1 (Version 5.1), September 1999, National Council for Prescription Drug Programs, as referenced in § 162.1102, § 162.1202, § 162.1302, § 162.1602, and § 162.1802.
-
-# (2) The Batch Standard Batch Implementation Guide
-
-Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record, National Council for Prescription Drug Programs, as referenced in § 162.1102, § 162.1202, § 162.1302, and § 162.1802.
-
 # (18) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Eligibility Benefit Inquiry and Response (270/271)
 
 April 2008, ASC X12N/005010X279, as referenced in § 162.1202.
@@ -2564,17 +2422,7 @@ April 2008, ASC X12N/005010X279, as referenced in § 162.1202.
 
 The implementation specifications for the retail pharmacy standards and the implementation specifications for the batch standard for the Medicaid pharmacy subrogation transaction may be obtained from the National Council for Prescription Drug Programs, 9240 East Raintree Drive, Scottsdale, AZ 85260. Telephone (480) 477-1000; FAX (480) 767-1042. They are also available through the Internet at http://www.ncpdp.org. A fee is charged for all NCPDP Implementation Guides.
 
-# (3) The National Council for Prescription Drug Programs (NCPDP) equivalent NCPDP Batch Standard Batch Implementation Guide
-
-Version 1, Release 0, February 1, 1996, as referenced in § 162.1102, § 162.1202, § 162.1602, and § 162.1802.
-
-# (4) The Telecommunication Standard Implementation Guide
-
-Version D, Release 0 (Version D.0), August 2007, National Council for Prescription Drug Programs, as referenced in § 162.1102, § 162.1202, § 162.1302, and § 162.1802.
-
-# (5) The Batch Standard Implementation Guide
-
-Version 1, Release 2 (Version 1.2), January 2006, National Council for Prescription Drug Programs, as referenced in § 162.1102, § 162.1202, § 162.1302, and § 162.1802.
+# (1) CAQH, Committee on Operating Rules for Information Exchange, CORE Phase I Policies and Operating Rules, Approved April 2006, v5010 Update March 2011.
 
 # (i) Phase I CORE 152:
 
@@ -2645,24 +2493,28 @@ Eligibility and Benefits 270/271 Normalizing Patient Last Name Rule, version 2.1
 
 Uniform Use of CARCs and RARCs (835) Rule, version 3.0.0, June 2012.
 
-# (iv) CORE-required Code Combinations:
+# (iv) CORE-required Code Combinations for CORE-defined Business Scenarios for the Phase III CORE 360:
 
-for CORE-defined Business Scenarios for the Phase III CORE 360 Uniform Use of Claim Adjustment Reason Codes and Remittance Advice Remark Codes (835) Rule, version 3.0.0, June 2012.
+Uniform Use of Claim Adjustment Reason Codes and Remittance Advice Remark Codes (835) Rule, version 3.0.0, June 2012.
 
 # (v) Phase III CORE 370:
 
 EFT &#x26; ERA Reassociation (CCD+/835) Rule, version 3.0.0, June 2012.
 
-# (vi) Phase III CORE 350:
+# (iii) Phase II CORE 259:
 
-Health Care Claim Payment/Advice (835) Infrastructure Rule, version 3.0.0, June 2012, except Requirement 4.2 titled “Health Care Claim Payment/Advice covered entities.
+Eligibility and Benefits 270/271 AAA Error Code Reporting Rule, version 2.1.0, March 2011, as referenced in § 162.1203.
+
+# § 162.923 Requirements for covered entities.
 
 (a) General rule. Except as otherwise provided in this part, if a covered entity conducts, with another covered entity that is required to comply with a transaction standard adopted.
 
 
 
-HIPAA Administrative Simplification Regulation Text
-March 2013
+
+# HIPAA Administrative Simplification Regulation Text
+
+# March 2013
 
 under this part (or within the same covered entity), using electronic media, a transaction for which the Secretary has adopted a standard under this part, the covered entity must conduct the transaction as a standard transaction.
 
@@ -2682,9 +2534,9 @@ a transaction as a standard transaction, the health plan must do so.
 
 (2) Keep code sets for the current billing period and appeals periods still open to processing under the terms of the health plan's coverage.
 
-(c) Use of a business associate. A covered entity may use a business associate, including a health care clearinghouse, to conduct a transaction covered by this part. If a covered entity chooses to use a business associate to conduct all or part of a transaction on behalf of the covered entity, the covered entity must require the business associate to do the following:
-
 (5) A health plan that operates as a health care clearinghouse, or requires an entity to use a health care clearinghouse to receive, process, or transmit a standard transaction may not charge fees or costs in excess of the fees or costs for normal telecommunications that the entity incurs when it directly transmits, or receives, a standard transaction to, or from, a health plan.
+
+(c) Use of a business associate. A covered entity may use a business associate, including a health care clearinghouse, to conduct a transaction covered by this part. If a covered entity chooses to use a business associate to conduct all or part of a transaction on behalf of the covered entity, the covered entity must require the business associate to do the following:
 
 (1) Comply with all applicable requirements of this part.
 
@@ -2702,16 +2554,13 @@ When acting as a business associate for another covered entity, a health care cl
 
 (6) During the period from March 17, 2009 through December 31, 2011, a health plan may not delay or reject a standard transaction, or attempt to adversely affect the other entity or the transaction, on the basis that it does not comply with another adopted standard for the same period.
 
-§ 162.925 Additional requirements for health plans.
-
-(a) General rules. (1) If an entity requests a health plan to conduct a transaction and coordinates benefits with another health plan (or another payer), it must store the coordination of benefits data it needs to forward the standard transaction to the other health plan (or other payer).
-
-(b) Coordination of benefits. If a health plan receives a standard transaction and coordinates benefits with another health plan (or another payer), it must store the coordination of benefits data it needs to forward the standard transaction to the other health plan (or other payer).
+(b) Coordination of benefits. If a health plan receives a standard transaction and coordinates
 
 47
 
-HIPAA Administrative Simplification Regulation Text March 2013
 
+
+HIPAA Administrative Simplification Regulation Text
 # § 162.940 Exceptions from standards to permit testing of proposed modifications.
 
 # (a) Requests for an exception.
@@ -2719,34 +2568,27 @@ HIPAA Administrative Simplification Regulation Text March 2013
 An organization may request an exception from the use of a standard from the Secretary to test a proposed modification to that standard. For each proposed modification, the organization must meet the following requirements:
 
 1. Comparison to a current standard. Provide a detailed explanation, no more than 10 pages in length, of how the proposed modification would be a significant improvement to the current standard in terms of the following principles:
+2. - (i) Improve the efficiency and effectiveness of the health care system by leading to cost reductions for, or improvements in benefits from, electronic health care transactions.
+- (ii) Meet the needs of the health data standards user community, particularly health care providers, health plans, and health care clearinghouses.
+- (iii) Be uniform and consistent with the other standards adopted under this part and, as appropriate, with other private and public sector health data standards.
+- (iv) Have low additional development and implementation costs relative to the benefits of using the standard.
+- (v) Be supported by an ANSI-accredited SSO or other private or public organization that would maintain the standard over time.
+- (vi) Have timely development, testing, implementation, and updating procedures to achieve administrative simplification benefits faster.
+- (vii) Be technologically independent of the computer platforms and transmission protocols used in electronic health transactions, unless they are explicitly part of the standard.
+- (viii) Be precise, unambiguous, and as simple as possible.
+- (ix) Result in minimum data collection and paperwork burdens on users.
+- (x) Incorporate flexibility to adapt more easily to changes in the health care infrastructure (such as new services, organizations, and provider types) and information technology.
 
-1. Improve the efficiency and effectiveness of the health care system by leading to cost reductions for, or improvements in benefits from, electronic health care transactions.
-2. Meet the needs of the health data standards user community, particularly health care providers, health plans, and health care clearinghouses.
-3. Be uniform and consistent with the other standards adopted under this part and, as appropriate, with other private and public sector health data standards.
-4. Have low additional development and implementation costs relative to the benefits of using the standard.
-5. Be supported by an ANSI-accredited SSO or other private or public organization that would maintain the standard over time.
-2. Have timely development, testing, implementation, and updating procedures to achieve administrative simplification benefits faster.
-3. Be technologically independent of the computer platforms and transmission protocols used in electronic health transactions, unless they are explicitly part of the standard.
-4. Be precise, unambiguous, and as simple as possible.
-5. Result in minimum data collection and paperwork burdens on users.
-6. Incorporate flexibility to adapt more easily to changes in the health care infrastructure (such as new services, organizations, and provider types) and information technology.
-
-# (b) Basis for granting an exception.
-
-The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria:
-
-1. An assessment of whether the proposed modification demonstrates a significant improvement to the current standard.
-2. The extent and length of time of the exception.
-3. Consultations with DSMOs.
+Basis for granting an exception. The Secretary may grant an initial exception, for a period not to exceed 3 years, based on, but not limited to, the following criteria:
 
 # (c) Secretary's decision on exception.
 
 The Secretary makes a decision and notifies the organization requesting the exception whether the request is granted or denied.
 
 1. Exception granted. If the Secretary grants an exception, the notification includes the following information:
-2. 1. The length of time for which the exception applies.
-2. The trading partners and geographical areas the Secretary approves for testing.
-3. Any other conditions for approving the exception.
+2. 1. (i) The length of time for which the exception applies.
+2. (ii) The trading partners and geographical areas the Secretary approves for testing.
+3. (iii) Any other conditions for approving the exception.
 
 Exception denied. If the Secretary does not grant an exception, the notification explains the reasons the Secretary considers the proposed modification would not be a significant improvement to the current standard and any other rationale for the denial.
 
@@ -2801,7 +2643,7 @@ These services include, but are not limited to, the following:
 - (vi) Hearing and vision services.
 - (vii) Transportation services including ambulance.
 
-(6) The Health Care Financing
+(6) The Health Care Financing Administration Common Procedure Coding System (HCPCS), as maintained and distributed by HHS, and Current Procedural Terminology, Fourth Edition (CPT-4), as maintained and distributed by the American Medical Association, for physician services and other health care services.
 
 49
 
@@ -2846,15 +2688,17 @@ The health care claims or equivalent encounter information transaction is the tr
 - (iii) Treatment.
 - (iv) Management.
 
-# § 162.1102 Standards for health care claims or equivalent encounter information transaction.
+[65 FR 50367, Aug. 17, 2000, as amended at 68 FR 8397, Feb. 20, 2003; 74 FR 3362, Jan. 16, 2009; 77 FR 54720, Sept. 5, 2012]
 
-The Secretary adopts the following standards for the health care claims or equivalent encounter information transaction:
+# § 162.1011 Valid code sets.
+
+Each code set is valid within the dates specified by the organization responsible for maintaining that code set.
 
 # (a) For the period from October 16, 2003 through March 16, 2009:
 
 # (1) Retail pharmacy drugs claims. The National Council for Prescription Drug Programs (NCPDP) Telecommunication Standards Implementation Guide, Version 5, Release 1, September 1999, and equivalent NCPDP Batch Standards Batch Implementation Guide, Version
 
-[65 FR 50367, Aug. 17, 2000, as amended at 68 FR 8397, Feb. 20, 2003; 74 FR 3362, Jan. 16, 2009; 77 FR 54720, Sept. 5, 2012]
+50
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -2867,7 +2711,7 @@ March 2013
 
 # (2) Dental, health care claims.
 
-The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097, and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1. (Incorporated by reference in § 162.920).
+The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097. and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1. (Incorporated by reference in § 162.920).
 
 # (2)(i) Retail pharmacy drug claims.
 
@@ -2889,11 +2733,9 @@ The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—
 
 # (b) For the period from March 17, 2009 through December 31, 2011, both:
 
-# (iv) Institutional health care claims.
+(iv) Institutional health care claims. The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim: Professional (837), May 2006, ASC X12N/005010X222. (Incorporated by reference in § 162.920).
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim: Professional (837), May 2006, ASC X12N/005010X222. (Incorporated by reference in § 162.920).
-
-# (c) For the period on and after the January 1, 2012, the standards identified in paragraph (b)(2) of this section, except the standard identified in paragraph (b)(2)(v)(A) of this section.
+(c) For the period on and after the January 1, 2012, the standards identified in paragraph (b)(2) of this section, except the standard identified in paragraph (b)(2)(v)(A) of this section.
 
 [68 FR 8397, Feb. 20, 2003; 68 FR 11445, Mar. 10, 2003, as amended at 74 FR 3325, Jan. 16, 2009]
 
@@ -2981,8 +2823,7 @@ Connectivity Rule, version 2.2.0, March 2011. (Incorporated by reference in § 1
 53
 
 HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+March 2013
 
 and Response (278), May 2006, (a) For the period from October 16, 2003 through March 16, 2009: The ASC X12N-276/277 Health Care Claim Status Request and Response, Version 4010, May 2000, Washington Publishing Company, 004010X093 and Addenda to Health Care Claim Status Request and Response, Version 4010, October 2002, Washington Publishing Company, 004010X093A1. (Incorporated by reference in § 162.920.)
 
@@ -3008,11 +2849,11 @@ The health care claim status transaction is the transmission of either of the fo
 
 [74 FR 3326, Jan. 16, 2009]
 
-# § 162.1402 Standards for health care claim status transaction.
+§ 162.1402 Standards for health care claim status transaction.
 
 The Secretary adopts the following standards for the health care claim status transaction:
 
-# § 162.1403 Operating rules for health care claim status transaction.
+§ 162.1403 Operating rules for health care claim status transaction.
 
 On and after January 1, 2013, the Secretary adopts the following:
 
@@ -3024,9 +2865,9 @@ The enrollment and disenrollment in a health plan transaction is the transmissio
 
 [74 FR 3326, Jan. 16, 2009]
 
-# § 162.1502 Standards for enrollment and disenrollment in a health plan transaction.
+§ 162.1502 Standards for enrollment and disenrollment in a health plan transaction.
 
-The Secretary adopts the following standards for
+[74 FR 3327, Jan. 16, 2009]
 
 
 
@@ -3037,28 +2878,22 @@ March 2013
 
 (a) The transmission of any of the following from a health plan to a health care provider:
 
-(1) Payment.
-
-(2) Information about the transfer of funds.
-
-(3) Payment processing information.
+- (1) Payment.
+- (2) Information about the transfer of funds.
+- (3) Payment processing information.
 
 (b) The transmission of either of the following from a health plan to a health care provider:
 
-(1) Explanation of benefits.
-
-(2) Remittance advice.
+- (1) Explanation of benefits.
+- (2) Remittance advice.
 
 (c) For the period from January 1, 2012 through December 31, 2013, the standard identified in paragraph (b)(2) of this section.
 
 (d) For the period on and after January 1, 2014, the following standards:
 
-(1) Except when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, for Stage 1 Payment Initiation transmissions described in § 162.1601(a), all of the following standards:
+Except when transmissions as described in § 162.1601(a) and (b) are contained within the same transmission, for Stage 1 Payment Initiation transmissions described in § 162.1601(a), all of the following standards:
 
-(i) The National Automated Clearing House Association (NACHA) Corporate Credit or Deposit Entry with Addenda Record (CCD+) implementation specifications as contained in the 2011 NACHA Operating Rules &#x26; Guidelines, A Complete Guide to the Rules Governing the ACH Network as follows (incorporated by reference in § 162.920):
-
-- (A) NACHA Operating Rules, Appendix One: ACH File Exchange Specifications; and
-- (B) NACHA Operating Rules, Appendix Three: ACH Record Format Specifications, Subpart
+- (1) The National Automated Clearing House Association (NACHA) Corporate Credit or Deposit Entry with Addenda Record (CCD+) implementation specifications as contained in the 2011 NACHA Operating Rules &#x26; Guidelines, A Complete Guide to the Rules Governing the ACH Network as follows (incorporated by reference in § 162.920):
 
 # Subpart P—Health Care Electronic Funds Transfers (EFT) and Remittance Advice
 
@@ -3066,76 +2901,52 @@ March 2013
 
 The health care electronic funds transfers (EFT) and remittance advice transaction is the transmission of either of the following for health care:
 
-3.1.8 Sequence of Records for CCD Entries.
+- 3.1.8 Sequence of Records for CCD Entries.
+- (ii) For the CCD Addenda Record (“7”), field 3, of the
 
-(ii) For the CCD Addenda Record (“7”), field 3, of the
-
-
+55
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# § 162.1602
+# § 162.1603 Operating rules for health care electronic funds transfers (EFT) and remittance advice transaction.
 
-standard identified in (2) Phase III CORE 382 ERA Enrollment Data Rule, version 3.0.0, June 2012.
-
-(3) Phase III 360 CORE Uniform Use of CARCs and RARCs (835) Rule, version 3.0.0, June 2012.
-
-(4) CORE-required Code Combinations for CORE-defined Business Scenarios for the Phase III CORE 360 Uniform Use of Claim Adjustment Reason Codes and Remittance Advice Remark Codes (835) Rule, version 3.0.0, June 2012.
-
-(5) Phase III CORE 370 EFT &#x26; ERA Reassociation (CCD+/835) Rule, version 3.0.0, June 2012.
-
-(6) Phase III CORE 350 Health Care Claim Payment/Advice (835) Infrastructure Rule, version 3.0.0, June 2012, except Requirement 4.2 titled “Health Care Claim Payment/Advice Batch Acknowledgement Requirements”.
-
-# § 162.1603
-
-Operating rules for health care electronic funds transfers (EFT) and remittance advice transaction.
-
-# § 162.1702
-
-Standards for health plan premium payments transaction.
+# § 162.1702 Standards for health plan premium payments transaction.
 
 The Secretary adopts the following standards for the health care electronic funds transfers (EFT) and remittance advice transaction:
 
 On and after January 1, 2014, the Secretary adopts the following for the health care electronic funds transfers (EFT) and remittance advice transaction:
 
-# (a)
+- (a) The Phase III CORE EFT &#x26; ERA Operating Rule Set, Approved June 2012 (Incorporated by reference in § 162.920) which includes the following rules:
 
-The Phase III CORE EFT &#x26; ERA Operating Rule Set, Approved June 2012 (Incorporated by reference in § 162.920) which includes the following rules:
+Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, May 2000, Washington Publishing Company, 004010X061, and Addenda to Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, October 2002, Washington Publishing Company, 004010X061A1.
 
-# (1)
+# § 162.1701 Health plan premium payments transaction.
 
-Phase III CORE 380 EFT Enrollment Data Rule, version 3.0.0, June 2012.
+The health plan premium payment transaction is the transmission of any of the following:
 
-# Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, May 2000
+- (a) Payment.
+- (b) Information about the transfer of funds.
+- (c) Detailed remittance information about individuals for whom premiums are being paid.
+- (d) Payment processing information to transmit health care premium payments including any of the following:
 
-Washington Publishing Company, 004010X061, and Addenda to Payroll Deducted and Other Group Premium Payment for Insurance Products, Version 4010, October 2002, Washington Publishing Company, 004010X061A1.
+# References
 
 [77 FR 1590, Jan. 10, 2012]
 
 [77 FR 48043, Aug. 10, 2012]
 
-# Subpart Q—Health Plan Premium Payments
-
-# § 162.1701
-
-Health plan premium payments transaction.
-
-The health plan premium payment transaction is the transmission of any of the following:
-
-# (a)
-
-For the period from October 16, 2003 through March 16, 2009: The ASC X12N 820—
-
 HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
 (Incorporated by reference in § 162.920.)
 
+# Coordination of benefits
+
 (b) For the period from March 17, 2009 through December 31, 2011, both:
 
-1. The standard identified in paragraph (a) of this section, and
-2. The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218. (Incorporated by reference in § 162.920.)
+- (1) The standard identified in paragraph (a) of this section, and
+- (2) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Payroll Deducted and Other Group Premium Payment for Insurance Products (820), February 2007, ASC X12N/005010X218. (Incorporated by reference in § 162.920.)
 
 (c) For the period on and after January 1, 2012, the standard identified in paragraph (b)(2) of this section.
 
@@ -3143,36 +2954,31 @@ March 2013
 
 # Subpart R—Coordination of Benefits
 
-§ 162.1801 Coordination of benefits transaction.
+# § 162.1801 Coordination of benefits transaction.
 
 The coordination of benefits transaction is the transmission from any entity to a health plan for the purpose of determining the relative payment responsibilities of the health plan, of either of the following for health care:
 
-1. Claims.
-2. Payment information.
+- (a) Claims.
+- (b) Payment information.
 
-§ 162.1802 Standards for coordination of benefits information transaction.
+# § 162.1802 Standards for coordination of benefits information transaction.
 
 The Secretary adopts the following standards for the coordination of benefits information transaction:
 
-1. (1) Retail pharmacy drug claims. The National Council for Prescription Drug Programs Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record. (Incorporated by reference in § 162.920).
-2. (2) Dental health care claims. The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1. (Incorporated by reference in § 162.920.)
-3. (3) Professional health care claims. The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1. (Incorporated by reference in § 162.920.)
-
-(ii) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim: Dental (837), May 2006, ASC X12N/005010X224, and Type 1 Errata to Health Care Claim: Dental (837), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, October 2007, ASC X12N/005010X224A1.
-
-(iii) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim: Professional (837), May 2006, ASC X12N/005010X222.
-
-
+- (1) Retail pharmacy drug claims. The National Council for Prescription Drug Programs Telecommunication Standard Implementation Guide, Version 5, Release 1 (Version 5.1), September 1999, and equivalent NCPDP Batch Standard Batch Implementation Guide, Version 1, Release 1 (Version 1.1), January 2000, supporting Telecommunications Standard Implementation Guide, Version 5, Release 1 (Version 5.1) for the NCPDP Data Record in the Detail Data Record. (Incorporated by reference in § 162.920.)
+- (2) Dental health care claims. The ASC X12N 837—Health Care Claim: Dental, Version 4010, May 2000, Washington Publishing Company, 004010X097 and Addenda to Health Care Claim: Dental, Version 4010, October 2002, Washington Publishing Company, 004010X097A1. (Incorporated by reference in § 162.920.)
+- (3) Professional health care claims. The ASC X12N 837—Health Care Claim: Professional, Volumes 1 and 2, Version 4010, May 2000, Washington Publishing Company, 004010X098 and Addenda to Health Care Claim: Professional, Volumes 1 and 2, Version 4010, October 2002, Washington Publishing Company, 004010X098A1. (Incorporated by reference in § 162.920.)
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-(Incorporated by reference in Implementation Guide, Version § 162.920.)
+(Incorporated by reference in Implementation Guide, Version 3, Release 0 (Version 3.0), July 2007, National Council for Prescription Drug Programs, as referenced in § 162.1902 (Incorporated by reference at § 162.920):
 
-The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3— Health Care Claim: Institutional (837), May 2006, ASC X12N/005010X223, and Type 1 Errata to Health Care Claim: Institutional (837), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, October 2007, ASC X12N/005010X223A1. (Incorporated by reference in § 162.920.)
+- (iv) The ASC X12 Standards for Electronic Data Interchange Technical Report Type 3—Health Care Claim: Institutional (837), May 2006, ASC X12N/005010X223, and Type 1 Errata to Health Care Claim: Institutional (837), ASC X12 Standards for Electronic Data Interchange Technical Report Type 3, October 2007, ASC X12N/005010X223A1. (Incorporated by reference in § 162.920.)
 
-- (a) For the period on and after January 1, 2012, for covered entities that are not small health plans;
-- (b) For the period on and after January 1, 2013 for small health plans.
+(a) For the period on and after January 1, 2012, for covered entities that are not small health plans;
+
+(b) For the period on and after January 1, 2013 for small health plans.
 
 (c) For the period on and after January 1, 2012, the standards identified in paragraph (b)(2) of this section.
 
@@ -3199,93 +3005,68 @@ HIPAA Administrative Simplification Regulation Text
 
 # Subpart A—General Provisions
 
-§ 164.102 Statutory basis.
-
-§ 164.103 Definitions.
-
-§ 164.104 Applicability.
-
-§ 164.105 Organizational requirements.
-
-§ 164.106 Relationship to other parts.
+| § 164.102 | Statutory basis.             |
+| --------- | ---------------------------- |
+| § 164.103 | Definitions.                 |
+| § 164.104 | Applicability.               |
+| § 164.105 | Organizational requirements. |
+| § 164.106 | Relationship to other parts. |
 
 # Subpart B [Reserved]
 
 # Subpart C—Security Standards for the Protection of Electronic Protected Health Information
 
-§ 164.302 Applicability.
-
-§ 164.304 Definitions.
-
-§ 164.306 Security standards: General rules.
-
-§ 164.308 Administrative safeguards.
-
-§ 164.310 Physical safeguards.
-
-§ 164.312 Technical safeguards.
-
-§ 164.314 Organizational requirements.
-
-§ 164.316 Policies and procedures and documentation requirements.
-
-§ 164.318 Compliance dates for the initial implementation of the security standards.
+| § 164.302 | Applicability.                                                             |
+| --------- | -------------------------------------------------------------------------- |
+| § 164.304 | Definitions.                                                               |
+| § 164.306 | Security standards: General rules.                                         |
+| § 164.308 | Administrative safeguards.                                                 |
+| § 164.310 | Physical safeguards.                                                       |
+| § 164.312 | Technical safeguards.                                                      |
+| § 164.314 | Organizational requirements.                                               |
+| § 164.316 | Policies and procedures and documentation requirements.                    |
+| § 164.318 | Compliance dates for the initial implementation of the security standards. |
 
 # Appendix A to Subpart C of Part 164—Security Standards: Matrix
 
 # Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information
 
-§ 164.400 Applicability.
-
-§ 164.402 Definitions.
-
-§ 164.404 Notification to individuals.
-
-§ 164.406 Notification to the Secretary.
-
-§ 164.408 Notification by a business associate.
-
-§ 164.410 Law enforcement delay.
-
-§ 164.412 Administrative requirements and burden of proof.
-
-§ 164.414 Compliance dates for initial implementation of the privacy standards.
+| § 164.400 | Applicability.                                                        |
+| --------- | --------------------------------------------------------------------- |
+| § 164.402 | Definitions.                                                          |
+| § 164.404 | Notification to individuals.                                          |
+| § 164.406 | Notification to the Secretary.                                        |
+| § 164.408 | Notification by a business associate.                                 |
+| § 164.410 | Law enforcement delay.                                                |
+| § 164.412 | Administrative requirements and burden of proof.                      |
+| § 164.414 | Compliance dates for initial implementation of the privacy standards. |
 
 # Subpart E—Privacy of Individually Identifiable Health Information
 
-§ 164.500 Applicability.
+| § 164.500 | Applicability.                                                                                     |
+| --------- | -------------------------------------------------------------------------------------------------- |
+| § 164.501 | Definitions.                                                                                       |
+| § 164.502 | Uses and disclosures of protected health information: general rules.                               |
+| § 164.504 | Uses and disclosures: Organizational requirements.                                                 |
+| § 164.506 | Uses and disclosures to carry out treatment, payment, or health care operations.                   |
+| § 164.508 | Uses and disclosures for which an authorization is required.                                       |
+| § 164.510 | Uses and disclosures requiring an opportunity for the individual to agree or to object.            |
+| § 164.512 | Uses and disclosures for which an authorization or opportunity to agree or object is not required. |
+| § 164.514 | Other requirements relating to uses and disclosures of protected health information.               |
+| § 164.520 | Notice of privacy practices for protected health information.                                      |
+| § 164.522 | Rights to request privacy protection for protected health information.                             |
+| § 164.524 | Access of individuals to protected health information.                                             |
+| § 164.526 | Amendment of protected health information.                                                         |
+| § 164.528 | Accounting of disclosures of protected health information.                                         |
+| § 164.530 | Administrative requirements.                                                                       |
 
-§ 164.501 Definitions.
+# AUTHORITY
 
-§ 164.502 Uses and disclosures of protected health information: general rules.
-
-§ 164.504 Uses and disclosures: Organizational requirements.
-
-§ 164.506 Uses and disclosures to carry out treatment, payment, or health care operations.
-
-§ 164.508 Uses and disclosures for which an authorization is required.
-
-§ 164.510 Uses and disclosures requiring an opportunity for the individual to agree or to object.
-
-§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required.
-
-§ 164.514 Other requirements relating to uses and disclosures of protected health information.
-
-§ 164.520 Notice of privacy practices for protected health information.
-
-§ 164.522 Rights to request privacy protection for protected health information.
-
-§ 164.524 Access of individuals to protected health information.
-
-§ 164.526 Amendment of protected health information.
-
-§ 164.528 Accounting of disclosures of protected health information.
-
-§ 164.530 Administrative requirements.
-
-AUTHORITY: 42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2(note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279.
+42 U.S.C. 1302(a); 42 U.S.C. 1320d-1320d-9; sec. 264, Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2(note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279.
 
 SOURCE: 65 FR 82802, Dec. 28, 2000, unless otherwise noted.
+
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -3314,11 +3095,15 @@ Law enforcement official means an officer or employee of any agency or authority
 
 (b) Where provided, the standards, requirements, and implementation specifications adopted under this part apply to a business associate.
 
-Required by law means a mandate contained in law that compels an entity to make a use or disclosure of protected health information and that is enforceable in a court of law. Required by law includes, but is not limited to, court orders and court-ordered warrants; subpoenas or summons issued by a court, grand jury, a governmental or tribal inspector general, or an administrative body authorized to require the production of information; a civil or an authorized investigative demand; Medicare conditions of participation with respect to health care providers participating in the program; and statutes or regulations that require the production of information, including statutes or regulations that require such information if payment is sought under a government program providing public benefits.
+Required by law means a mandate contained in law that compels an entity to make a use or disclosure of protected health information and that is enforceable in a court of law.
+
+Required by law includes, but is not limited to, court orders and court-ordered warrants; subpoenas or summons issued by a court, grand jury, a governmental or tribal inspector general, or an administrative body authorized to require the production of information; a civil or an authorized investigative demand; Medicare conditions of participation with respect to health care providers participating in the program; and statutes or regulations that require the production of information, including statutes or regulations that require such information if payment is sought under a government program providing public benefits.
 
 [68 FR 8375, Feb. 20, 2003, as amended at 78 FR 5692, Jan. 25, 2013]
 
 [68 FR 8374, Feb. 20, 2003, as amended at 74 FR 42767, Aug. 24, 2009]
+
+Plan sponsor is defined as defined at section 3(16)(B) of ERISA, 29 U.S.C. 1002(16)(B).
 
 HIPAA Administrative Simplification Regulation Text
 # March 2013
@@ -3331,21 +3116,19 @@ Legally separate covered entities that are affiliated may designate themselves a
 
 # (2) Implementation specifications.
 
-(A) For purposes of subpart C of part 160 of this subchapter, pertaining to compliance and enforcement, the covered entity has the responsibility of complying with this part.
-
 # (i) Requirements for designation of an affiliated covered entity.
 
-(A) Legally separate covered entities may designate themselves (including any health care component of such covered entity) as a single affiliated covered entity, for purposes of this part, if all of the covered entities designated are under common ownership or control.
+(A) For purposes of subpart C of part 160 of this subchapter, pertaining to compliance and enforcement, the covered entity has the responsibility of complying with this part.
 
-(B) The designation of an affiliated covered entity must be documented and the documentation maintained as required by paragraph (c) of this section.
+(B) The covered entity is responsible for complying with § 164.316(a) and § 164.530(i), pertaining to the implementation of policies and procedures to ensure compliance with applicable requirements of this part, including the safeguard requirements in paragraph (a)(2)(ii) of this section.
 
-# (ii) Safeguard requirements.
+# (A) Its health care component does not disclose protected health information to another component of the covered entity in circumstances in which subpart E of this part would prohibit such disclosure if the health care component and the other component were separate and distinct legal entities;
 
-The covered entity that is a hybrid entity must ensure that a health care component of the entity complies with the applicable requirements of this part. In particular, and without limiting this requirement, such covered entity must ensure that:
+# (B) Its health care component protects electronic protected health information with respect to another component of the covered entity to the same extent that it would be required under subpart C of this part to protect such information if the health care component and the other component were separate and distinct legal entities;
 
-- (A) Its health care component does not disclose protected health information to another component of the covered entity in circumstances in which subpart E of this part would prohibit such disclosure if the health care component and the other component were separate and distinct legal entities;
-- (B) Its health care component protects electronic protected health information with respect to another component of the covered entity to the same extent that it would be required under subpart C of this part to protect such information if the health care component and the other component were separate and distinct legal entities;
-- (C) If a person performs duties for both the health care component in the capacity of a member of the workforce of such component and for another component of the entity in the same capacity with respect to that component, such workforce member must not use or disclose protected health information created or received in the course of or incident to the member's duties.
+# (C) If a person performs duties for both the health care component in the capacity of a member of the workforce of such component and for another component of the entity in the same capacity with respect to that component, such workforce member must not use or disclose protected health information created or received in the course of or incident to the member's duties.
+
+# (D) The covered entity is responsible for designating the components that are part of one or more health care components of the covered entity and documenting the designation in accordance with paragraph (c) of this section, provided that, if the covered entity designates one or more health care components, it must include any component that would meet the definition of a covered entity or business associate if it were a separate legal entity. Health care component(s) also may include a component only to the extent that it performs covered functions.
 
 # (c)(1) Standard: Documentation.
 
@@ -3355,7 +3138,7 @@ A covered entity must maintain a written or electronic record of a designation a
 
 A covered entity must retain the documentation as required by paragraph (c)(1) of this section.
 
-61
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -3382,10 +3165,6 @@ Confidentiality means the property that data or information is not made availabl
 
 Security or Security measures encompass all of the administrative, physical, and technical safeguards in an information system.
 
-Encryption means the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key.
-
-Security incident means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of information or interference with system operations in an information system.
-
 # § 164.302  Applicability.
 
 A covered entity or business associate must comply with the applicable standards, implementation specifications, and requirements of this subpart with respect to electronic protected health information of a covered entity.
@@ -3400,15 +3179,19 @@ Malicious software means software, for example, a virus, designed to damage or d
 
 Password means confidential authentication information composed of a string of characters.
 
-Administrative safeguards are administrative actions, and policies and procedures, to manage the selection, development, implementation, and maintenance of security measures to protect electronic protected health information and to manage the conduct of the covered entity's or business associate's workforce in relation to the protection of that information.
+Authentication means the corroboration that a person is the one claimed.
+
+Encryption means the use of an algorithmic process to transform data into a form in which there is a low probability of assigning meaning without use of a confidential process or key.
 
 Facility means the physical premises and the interior and exterior of a building(s).
 
 Information system means an interconnected set of information resources under the same direct management control.
 
-Technical safeguards means the technology and the policy and procedures for its use that protect electronic protected health information and control access to it.
-
 Integrity means the property that data or information have not been altered or destroyed in an unauthorized manner.
+
+Security incident means the attempted or successful unauthorized access, use, disclosure, modification, or destruction of information or interference with system operations in an information system.
+
+Technical safeguards means the technology and the policy and procedures for its use that protect electronic protected health information and control access to it.
 
 SOURCE: 68 FR 8376, Feb. 20, 2003, unless otherwise noted.
 
@@ -3423,19 +3206,33 @@ Workstation means an electronic computing device, for example, a laptop or deskt
 
 # § 164.306 Security standards: General rules.
 
-(a) General requirements. Covered entities and business associates must do the following:
+# (a) General requirements.
+
+Covered entities and business associates must do the following:
 
 1. Ensure the confidentiality, integrity, and availability of all electronic protected health information the covered entity or business associate creates, receives, maintains, or transmits.
 2. Protect against any reasonably anticipated threats or hazards to the security or integrity of such information.
 3. Protect against any reasonably anticipated uses or disclosures of such information that are not permitted or required under subpart E of this part.
 
-(1) Document why it would not be reasonable and appropriate to implement the implementation specification; and
+# (b) Flexibility of approach.
 
-(4) Ensure compliance with this subpart by its workforce.
+1. Covered entities and business associates may use any security measures that allow the covered entity or business associate to reasonably and appropriately implement the standards and implementation specifications as specified in this subpart.
 
-(b) Flexibility of approach.
+# (c) Standards.
 
-1. Covered entities and business associates may use any security measures that allow the covered entity or business associate to reasonably and appropriately implement the standards and implementation specifications.
+A covered entity or business associate must comply with the applicable standards as provided in this section and in § 164.308, § 164.310, § 164.312, § 164.314 and § 164.316 with respect to all electronic protected health information.
+
+# (d) Implementation specifications.
+
+In this subpart:
+
+1. Implementation specifications are required or addressable. If an implementation specification is required, the word “Required” appears in parentheses after the title of the implementation specification. If an implementation specification is addressable, the word “Addressable” appears in parentheses after the title of the implementation specification.
+2. Document why it would not be reasonable and appropriate to implement the implementation specification; and
+3. Implement an equivalent alternative measure if reasonable and appropriate.
+
+# (e) Maintenance.
+
+A covered entity or business associate must review and modify the security measures implemented under this subpart as needed to continue provision of reasonable and appropriate protection of electronic protected health information.
 
 (2) In deciding which security measures to use, a covered entity or business associate must take into account the following factors:
 
@@ -3444,22 +3241,9 @@ Workstation means an electronic computing device, for example, a laptop or deskt
 3. The costs of security measures.
 4. The probability and criticality of potential risks to electronic protected health information.
 
-(c) Standards. A covered entity or business associate must comply with the applicable standards as provided in this section and in § 164.308, § 164.310, § 164.312, § 164.314 and § 164.316 with respect to all electronic protected health information.
-
 (3) When a standard adopted in § 164.308, § 164.310, § 164.312, § 164.314, or § 164.316 includes required implementation specifications, a covered entity or business associate must implement the implementation specifications.
 
-(i) Assess whether each implementation specification is a reasonable and appropriate safeguard in its environment, when analyzed with reference to the likely contribution to protecting electronic protected health information; and
-
-(ii) As applicable to the covered entity or business associate—
-
-1. Implement the implementation specification if reasonable and appropriate; or
-2. If implementing the implementation specification is not reasonable and appropriate, implement an equivalent alternative measure if reasonable and appropriate.
-
-(d) Implementation specifications. In this subpart:
-
-1. Implementation specifications are required or addressable. If an implementation specification is required, the word “Required” appears in parentheses after the title of the implementation specification. If an implementation specification is addressable, the word “Addressable” appears in parentheses after the title of the implementation specification.
-
-(e) Maintenance. A covered entity or business associate must review and modify the security measures implemented under this subpart as needed to continue provision of reasonable and appropriate protection of electronic protected health information.
+(4) Ensure compliance with this subpart by its workforce.
 
 
 
@@ -3513,41 +3297,58 @@ Implement policies and procedures for authorizing access to electronic protected
 [68 FR 8376, Feb. 20, 2003; 68 FR 17153, Apr. 8, 2003; 78 FR 5693, Jan. 25, 2013]
 
 HIPAA Administrative Simplification Regulation Text
+
 # March 2013
 
-of access to a workstation, (7)(i) Standard: Contingency plan. Establish (and implement as needed) policies and procedures for responding to an emergency or other occurrence (for example, fire, vandalism, system failure, and natural disaster) that damages systems that contain electronic protected health information, initially upon the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, that establishes the extent to which a covered entity's or business associate's security policies and procedures meet the requirements of this subpart.
+of access to a workstation, (7)(i) Standard: Contingency plan. Establish (and implement as needed) policies and procedures for responding to an emergency or other occurrence (for example, fire, vandalism, system failure, and natural disaster) that damages systems that contain electronic protected health information.
 
-(b)(1) Business associate contracts and other arrangements. A covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity's behalf only if the covered entity obtains satisfactory assurances, in accordance with § 164.314(a), that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.
+# (5)(i) Standard: Security awareness and training.
 
-(2) A business associate may permit a business associate that is a subcontractor to create, receive, maintain, or transmit electronic protected health information on its behalf only if the business associate obtains satisfactory assurances, in accordance with § 164.314(a), that the subcontractor will appropriately safeguard the information.
+Implement a security awareness and training program for all members of its workforce (including management).
 
-(3) Implementation specifications: Written contract or other arrangement (Required). Document the satisfactory assurances required by paragraph (b)(1) or (b)(2) of this section through a written contract or other arrangement with the business associate that.
+# (ii) Implementation specifications.
 
-(8) Standard: Evaluation. Perform a periodic technical and nontechnical evaluation, based on the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information.
-
-(5)(i) Standard: Security awareness and training. Implement a security awareness and training program for all members of its workforce (including management).
-
-(ii) Implementation specifications. Implement:
+Implement:
 
 - (A) Security reminders (Addressable). Periodic security updates.
 - (B) Protection from malicious software (Addressable). Procedures for guarding against, detecting, and reporting malicious software.
 - (C) Log-in monitoring (Addressable). Procedures for monitoring log-in attempts and reporting discrepancies.
 - (D) Password management (Addressable). Procedures for creating, changing, and safeguarding passwords.
 
-(6)(i) Standard: Security incident procedures. Implement policies and procedures to address security incidents.
+# (6)(i) Standard: Security incident procedures.
 
-(ii) Implementation specification: Response and reporting (Required). Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes.
+Implement policies and procedures to address security incidents.
+
+# (ii) Implementation specification: Response and reporting (Required).
+
+Identify and respond to suspected or known security incidents; mitigate, to the extent practicable, harmful effects of security incidents that are known to the covered entity or business associate; and document security incidents and their outcomes.
 
 plan (Required). Establish (and implement as needed) procedures to enable continuation of critical business processes for protection of the security of electronic protected health information while operating in emergency mode.
 
-(D) Testing and revision procedures (Addressable). Implement procedures for periodic testing and revision of contingency plans.
+# (D) Testing and revision procedures (Addressable).
 
-(E) Applications and data criticality analysis (Addressable). Assess the relative criticality of specific applications and data in support of other contingency plan components.
+Implement procedures for periodic testing and revision of contingency plans.
+
+# (E) Applications and data criticality analysis (Addressable).
+
+Assess the relative criticality of specific applications and data in support of other contingency plan components.
+
+# (8) Standard: Evaluation.
+
+Perform a periodic technical and nontechnical evaluation, based on the standards implemented under this rule and, subsequently, in response to environmental or operational changes affecting the security of electronic protected health information, that establishes the extent to which a covered entity's or business associate's security policies and procedures meet the requirements of this subpart.
+
+# (b)(1) Business associate contracts and other arrangements.
+
+A covered entity may permit a business associate to create, receive, maintain, or transmit electronic protected health information on the covered entity's behalf only if the covered entity obtains satisfactory assurances, in accordance with § 164.314(a), that the business associate will appropriately safeguard the information. A covered entity is not required to obtain such satisfactory assurances from a business associate that is a subcontractor.
+
+(2) A business associate may permit a business associate that is a subcontractor to create, receive, maintain, or transmit electronic protected health information on its behalf only if the business associate obtains satisfactory assurances, in accordance with § 164.314(a), that the subcontractor will appropriately safeguard the information.
+
+(3) Implementation specifications: Written contract or other arrangement (Required). Document the satisfactory assurances required by paragraph (b)(1) or (b)(2) of this section through a written contract or other arrangement with the business associate.
 
 
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
 # § 164.310 Physical safeguards.
 
@@ -3599,9 +3400,13 @@ Implement technical policies and procedures for electronic information systems t
 
 (i) Unique user identification (Required). Assign a unique name and/or number for identifying and tracking user identity.
 
-[68 FR 8376, Feb. 20, 2003, as amended at 78 FR 5694, Jan. 25, 2013]
+(ii) Emergency access procedure (Addressable). Establish (and implement as needed) procedures for obtaining necessary electronic protected health information during an emergency.
 
-66
+(iii) Automatic logoff (Addressable). Implement electronic procedures that terminate an electronic session after a predetermined time of inactivity.
+
+(iv) Encryption and decryption (Addressable). Implement a mechanism to encrypt and decrypt electronic protected health information.
+
+[68 FR 8376, Feb. 20, 2003, as amended at 78 FR 5694, Jan. 25, 2013]
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -3656,7 +3461,9 @@ health information created, received, maintained, or transmitted to or by the pl
 
 The plan documents of the group health plan must be amended to incorporate provisions to require the plan sponsor to—
 
-# (i) Implement administrative, physical, and technical safeguards that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the group health plan;
+# (i) Implement administrative, physical, and technical safeguards
+
+that reasonably and appropriately protect the confidentiality, integrity, and availability of the electronic protected health information that it creates, receives, maintains, or transmits on behalf of the group health plan;
 
 # (ii) Ensure that the adequate separation required by § 164.504(f)(2)(iii) is supported by reasonable and appropriate security measures;
 
@@ -3686,14 +3493,6 @@ A covered health care provider must comply with the applicable requirements of t
 
 A covered entity or business associate must, in accordance with § 164.306:
 
-# (b)(1) Standard: Documentation.
-
-(i) Maintain the policies and procedures implemented to comply with this subpart in written (which may be electronic) form; and
-
-(ii) If an action, activity or assessment is required by this subpart to be documented, maintain a written (which may be electronic) record of the action, activity, or assessment.
-
-# (2) Implementation specifications:
-
 # (i) Time limit (Required).
 
 Retain the documentation required by paragraph (b)(1) of this section for 6 years from the date of its creation or the date when it last was in effect, whichever is later.
@@ -3705,8 +3504,6 @@ Make documentation available to those persons responsible for implementing the p
 
 
 HIPAA Administrative Simplification Regulation Text
-# March 2013
-
 # Appendix A to Subpart C of Part 164—Security Standards: Matrix
 
 | Standards                                          | Sections                                                                                                                                                                          | Implementation Specifications (R)=Required, (A)=Addressable                                      |                                                                                                                                          |
@@ -3733,6 +3530,7 @@ HIPAA Administrative Simplification Regulation Text
 
 | Standards                       | Sections      | Implementation Specifications                                         |
 | ------------------------------- | ------------- | --------------------------------------------------------------------- |
+| Encryption and Decryption       | 164.312(b)    | (A)                                                                   |
 | Audit Controls                  | 164.312(b)    | (R)                                                                   |
 | Integrity                       | 164.312(c)(1) | Mechanism to Authenticate Electronic Protected Health Information (A) |
 | Person or Entity Authentication | 164.312(d)    | (R)                                                                   |
@@ -3744,8 +3542,6 @@ HIPAA Administrative Simplification Regulation Text
 HIPAA Administrative Simplification Regulation Text March 2013
 
 # Subpart D—Notification in the Case of Breach of Unsecured Protected Health Information
-
-SOURCE: 74 FR 42767, Aug. 24, 2009, unless otherwise noted.
 
 # § 164.400 Applicability.
 
@@ -3779,7 +3575,9 @@ means the acquisition, access, use, or disclosure of protected health informatio
 
 (iv) The extent to which the risk to the protected health information has been mitigated.
 
-(2) Breaches treated as discovered. For purposes of paragraph (a)(1) of this section, §§ 164.406(a), and 164.408(a), a breach shall be treated as discovered by a covered entity as of the first day on which such breach is known to the covered entity, or, by exercising reasonable diligence would have been known to the covered entity. A covered entity shall be deemed to have knowledge of a breach if such breach is known, or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or agent of the covered entity (determined in accordance with the federal common law of agency).
+# (2) Breaches treated as discovered.
+
+For purposes of paragraph (a)(1) of this section, §§ 164.406(a), and 164.408(a), a breach shall be treated as discovered by a covered entity as of the first day on which such breach is known to the covered entity, or, by exercising reasonable diligence would have been known to the covered entity. A covered entity shall be deemed to have knowledge of a breach if such breach is known, or by exercising reasonable diligence would have been known, to any person, other than the person committing the breach, who is a workforce member or agent of the covered entity (determined in accordance with the federal common law of agency).
 
 # (b) Implementation specification: Timeliness of notification.
 
@@ -3791,7 +3589,7 @@ The notification required by paragraph (a) of this section shall include, to the
 
 (A) A brief description of what happened, including the date of the breach and the date of discovery of the breach;
 
-
+[78 FR 5695, Jan. 25, 2013] SOURCE: 74 FR 42767, Aug. 24, 2009, unless otherwise noted.
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -3805,62 +3603,27 @@ breach and the date of the discovery of the breach, if known;
 
 specified under § 164.502(g)(4) of subpart E), written notification by first-class mail to either the next of kin or personal representative of the individual. The notification may be provided in one or more mailings as information is available.
 
-Substitute notice. In the case in which there is insufficient or out-of-date contact information that precludes written notification to the individual under paragraph (d)(1)(i) of this section, a substitute form of notice reasonably calculated to reach the individual shall be provided. Substitute notice need not be provided in the case in which there is insufficient or out-of-date contact information that precludes written notification to the next of kin or personal representative of the individual under paragraph (d)(1)(ii).
-1. In the case in which there is insufficient or out-of-date contact information for fewer than 10 individuals, then such substitute notice may be provided by an alternative form of written notice, telephone, or other means.
-2. In the case in which there is insufficient or out-of-date contact information for 10 or more individuals, then such substitute notice shall:
+(2) Substitute notice. In the case in which there is insufficient or out-of-date contact information that precludes written notification to the individual under paragraph (d)(1)(i) of this section, a substitute form of notice reasonably calculated to reach the individual shall be provided. Substitute notice need not be provided in the case in which there is insufficient or out-of-date contact information that precludes written notification to the next of kin or personal representative of the individual under paragraph (d)(1)(ii).
+
+(i) In the case in which there is insufficient or out-of-date contact information for fewer than 10 individuals, then such substitute notice may be provided by an alternative form of written notice, telephone, or other means.
+
+(ii) In the case in which there is insufficient or out-of-date contact information for 10 or more individuals, then such substitute notice shall:
+
 1. Be in the form of either a conspicuous posting for a period of 90 days on the home page of the Web site of the covered entity involved, or conspicuous notice in major print or broadcast media in geographic areas where the individuals affected by the breach likely reside; and
 2. Include a toll-free phone number that remains active for at least 90 days where an individual can learn whether the individual's unsecured protected health information may be included in the breach.
-
-§ 164.406 Notification to the media.
-
-1. Standard. For a breach of unsecured protected health information involving more than 500 residents of a State or jurisdiction, a covered entity shall, following the discovery of the breach as provided in § 164.404(a)(2), notify prominent media outlets serving the State or jurisdiction.
-2. Implementation specification: Timeliness of notification. Except as provided in § 164.412, a covered entity shall provide the notification required by paragraph (a) of this section without unreasonable delay and in no case later than 60 calendar days after discovery of a breach.
-3. Implementation specifications: Content of notification. The notification required by paragraph (a) of this section shall meet the requirements of § 164.404(c).
 
 [74 FR 42740, Aug. 24, 2009, as amended at 78 FR 5695, Jan. 25, 2013]
 
 § 164.408 Notification to the Secretary.
 
-1. Standard. A covered entity shall, following the discovery of a breach of unsecured protected health information as provided in § 164.404(a)(2), notify the Secretary.
+(a) Standard. A covered entity shall, following the discovery of a breach of unsecured protected health information as provided in § 164.404(a)(2), notify the Secretary.
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# (b) Implementation specifications:
-
-Breaches involving 500 or more individuals. For breaches of unsecured protected health information involving 500 or more individuals, a covered entity shall, except as provided in § 164.412, provide the notification required by paragraph (a) of this section contemporaneously with the notice required by § 164.404(a) and in the manner specified on the HHS Web site.
-
-# (c) Implementation specifications:
-
-Breaches involving less than 500 individuals. For breaches of unsecured protected health information involving less than 500 individuals, a covered entity shall maintain a log or other documentation of such breaches and, not later than 60 days after the end of each calendar year, provide the notification required by paragraph (a) of this section for breaches discovered during the preceding calendar year, in the manner specified on the HHS web site.
-
-# (a)
-
-If the statement is in writing and specifies the time for which a delay is required, delay such notification, notice, or posting for the time period specified by the official; or
-
-# (b)
-
-If the statement is made orally, document the statement, including the identity of the official making the statement, and delay the notification, notice, or posting temporarily and no longer than 30 days from the date of the oral statement, unless a written statement as described in paragraph (a) of this section is submitted during that time.
-
-# § 164.414 Administrative requirements and burden of proof.
-
-# (a) Administrative requirements.
-
-A covered entity is required to comply with the administrative requirements of § 164.530(b), (d), (e), (g), (h), (i), and (j) with respect to the requirements of this subpart.
-
-# (b) Burden of proof.
-
-In the event of a use or disclosure in violation of subpart E, the covered entity or business associate, as applicable, shall have the burden of demonstrating that all notifications were made as required by this subpart or that the use or disclosure did not constitute a breach, as defined at § 164.402.
-
-# Subpart E—Privacy of Individually Identifiable Health Information
-
-[74 FR 42740, Aug. 24, 2009, as amended at 78 FR 5695, Jan. 25, 2013]
-
 # § 164.410 Notification by a business associate.
 
-# (a) Standard —(1) General rule.
-
-A business associate shall, following the discovery of a breach of unsecured protected health information, notify the covered entity of such breach.
+(a) Standard —(1) General rule. A business associate shall, following the discovery of a breach of unsecured protected health information, notify the covered entity of such breach.
 
 (2) A business associate shall provide the covered entity with any other available information that the covered entity is required to include in notification to the individual under § 164.404(c) at the time of the notification required by paragraph (a) of this section or promptly thereafter as information becomes available.
 
@@ -3868,13 +3631,25 @@ A business associate shall, following the discovery of a breach of unsecured pro
 
 If a law enforcement official states to a covered entity or business associate that a notification, notice, or posting required under this subpart would impede a criminal investigation or cause damage to national security, a covered entity or business associate shall:
 
-[74 FR 42740, Aug. 24, 2009, as amended at 78 FR 5695, Jan. 25, 2013]
+# § 164.414 Administrative requirements and burden of proof.
 
-# § 164.500 Applicability.
+(a) Administrative requirements. A covered entity is required to comply with the administrative requirements of § 164.530(b), (d), (e), (g), (h), (i), and (j) with respect to the requirements of this subpart.
 
-(a) Except as otherwise provided herein, the standards, requirements, and implementation specifications of 42 U.S.C. 1320d-2, 1320d-4, and 1320d-9; sec. 264 of Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2 (note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279.
+(b) Burden of proof. In the event of a use or disclosure in violation of subpart E, the covered entity or business associate, as applicable, shall have the burden of demonstrating that all notifications were made as required by this subpart or that the use or disclosure did not constitute a breach, as defined at § 164.402.
 
+# § 164.404 Notification requirements.
 
+(b) Implementation specifications: Breaches involving 500 or more individuals. For breaches of unsecured protected health information involving 500 or more individuals, a covered entity shall, except as provided in § 164.412, provide the notification required by paragraph (a) of this section contemporaneously with the notice required by § 164.404(a) and in the manner specified on the HHS Web site.
+
+(c) Implementation specifications: Breaches involving less than 500 individuals. For breaches of unsecured protected health information involving less than 500 individuals, a covered entity shall maintain a log or other documentation of such breaches and, not later than 60 days after the end of each calendar year, provide the notification required by paragraph (a) of this section for breaches discovered during the preceding calendar year, in the manner specified on the HHS web site.
+
+(a) If the statement is in writing and specifies the time for which a delay is required, delay such notification, notice, or posting for the time period specified by the official; or
+
+(b) If the statement is made orally, document the statement, including the identity of the official making the statement, and delay the notification, notice, or posting temporarily and no longer than 30 days from the date of the oral statement, unless a written statement as described in paragraph (a) of this section is submitted during that time.
+
+# Subpart E—Privacy of Individually Identifiable Health Information
+
+AUTHORITY: 42 U.S.C. 1320d-2, 1320d-4, and 1320d-9; sec. 264 of Pub. L. 104-191, 110 Stat. 2033-2034 (42 U.S.C. 1320d-2 (note)); and secs. 13400-13424, Pub. L. 111-5, 123 Stat. 258-279.
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -3903,7 +3678,7 @@ Data aggregation means, with respect to protected health information created or 
 
 Designated record set means:
 
-1. A group of records maintained by or for a covered entity that is:
+- (1) A group of records maintained by or for a covered entity that is:
 
 (2) For purposes of this paragraph, the term record means any item, collection, or grouping of information that includes protected health information and is maintained, collected, used, or disseminated by or for a covered entity.
 
@@ -3920,19 +3695,30 @@ March 2013
 
 activities are related to covered and abuse detection and compliance functions:
 
-1. Conducting quality assessment and improvement activities, including outcomes evaluation and development of clinical guidelines, provided that the obtaining of generalizable knowledge is not the primary purpose of any studies resulting from such activities; patient safety activities (as defined in 42 CFR 3.20); population-based activities relating to improving health or reducing health care costs, protocol development, case management and care coordination, contacting of health care providers and patients with information about treatment alternatives; and related functions that do not include treatment; or contract with such public agency, including the employees or agents of such public agency or its contractors or persons or entities to whom it has granted authority, that is authorized by law to oversee the health care system (whether public or private) or government programs in which health information is necessary to determine eligibility or compliance, or to enforce civil rights laws for which health information is relevant.
-2. Indirect treatment relationship means a relationship between an individual and a health care provider in which:
-3. 1. The health care provider delivers health care to the individual based on the orders of another health care provider; and
+1. Conducting quality assessment and improvement activities, including outcomes evaluation and development of clinical guidelines, provided that the obtaining of generalizable knowledge is not the primary purpose of any studies resulting from such activities; patient safety activities (as defined in 42 CFR 3.20); population-based activities relating to improving health or reducing health care costs, protocol development, case management and care coordination, contacting of health care providers and patients with information about treatment alternatives; and related functions that do not include treatment;
+2. Business planning and development, such as conducting cost-management and planning-related analyses related to managing and operating the entity, including formulary development and administration, development or improvement of methods of payment or coverage policies; and
+3. Business management and general administrative activities of the entity, including, but not limited to:
+4.
+Management activities relating to implementation of and compliance with the requirements of this subchapter;
+5. Customer service, including the provision of data analyses for policy holders, plan sponsors, or other customers, provided that protected health information is not disclosed to such policy holder, plan sponsor, or customer.
+6. Resolution of internal grievances;
+7. The sale, transfer, merger, or consolidation of all or part of the covered entity with another covered entity, or an entity that following such activity will become a covered entity and due diligence related to such activity; and
+8. Consistent with the applicable requirements of § 164.514, creating de-identified health information or a limited data set, and fundraising for the benefit of the covered entity.
+
+Conducting or arranging for medical review, legal services, and auditing functions, including fraud and abuse detection and compliance programs;
+
+Indirect treatment relationship means a relationship between an individual and a health care provider in which:
+
+1. The health care provider delivers health care to the individual based on the orders of another health care provider; and
 2. The health care provider typically provides services or products, or reports the diagnosis or results associated with the health care, directly to another health care provider, who provides the services or products or reports to the individual.
 
 Inmate means a person incarcerated in or otherwise confined to a correctional institution.
-4. Marketing: (1) Except as provided in paragraph (2) of this definition, marketing means to make a communication about a product or service that encourages recipients of the communication to purchase or use the product or service.
-5. 1. Except as prohibited under § 164.502(a)(5)(i), underwriting, enrollment, premium rating, and other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits, and ceding, securing, or placing a contract for reinsurance of risk relating to claims for health care (including stop-loss insurance and excess of loss insurance), provided that the requirements of § 164.514(g) are met, if applicable;
-2. Conducting or arranging for medical review, legal services, and auditing functions, including fraud and abuse detection and compliance programs;
-3. Business planning and development, such as conducting cost-management and planning-related analyses related to managing and operating the entity, including formulary development and administration, development or improvement of methods of payment or coverage policies; and
-4. Business management and general administrative activities of the entity, including, but not limited to:
 
-Health oversight agency means an agency or authority of the United States, a State, a territory, a political subdivision of a State or territory, or an Indian tribe, or a person or entity acting under a grant of authority from such agency or authority.
+Marketing: (1) Except as provided in paragraph (2) of this definition, marketing means to make a communication about a product or service that encourages recipients of the communication to purchase or use the product or service.
+
+(2) Marketing does not include a communication made:
+
+To provide refill reminders or otherwise communicate about a drug or biologic that is currently being prescribed for the individual, only if any financial remuneration received by the covered entity in exchange for making the communication is
 
 
 
@@ -3979,56 +3765,51 @@ Research means a systematic investigation, including research development, testi
 
 
 HIPAA Administrative Simplification Regulation Text
+March 2013
 
-# March 2013
+# Treatment
 
-Treatment means the provision, coordination, or management of health care and related services by one or more health care providers, including the coordination or management of health care by a health care provider with a third party; consultation between health care providers relating to a patient; or the referral of a patient for health care from one health care provider to another.
+means the provision, coordination, or management of health care and related services by one or more health care providers, including the coordination or management of health care by a health care provider with a third party; consultation between health care providers relating to a patient; or the referral of a patient for health care from one health care provider to another.
 
-(ii) To the covered entity, individual, or individual's designee, as necessary to satisfy a covered entity's obligations under § 164.524(c)(2)(ii) and (3)(ii) with respect to an individual's request for an electronic copy of protected health information.
-
-(v) Pursuant to an agreement under, or as otherwise permitted by, § 164.510; and
-
-(vi) As permitted by and in compliance with this section, § 164.512, § 164.514(e), (f), or (g).
-
-# (5) Prohibited uses and disclosures.
-
-(i) Use and disclosure of genetic information for underwriting purposes: Notwithstanding any other provision of this subpart, a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of health plan, shall not use or disclose protected health information that is genetic information for underwriting purposes. For purposes of paragraph (a)(5)(i) of this section, underwriting purposes means, with respect to a health plan:
-
-(A) Except as provided in paragraph (a)(5)(i)(B) of this section:
-
-# § 164.502 Uses and disclosures of protected health information: General rules.
-
-(a) Standard. A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter.
-
-# (1) Covered entities: Permitted uses and disclosures.
-
-A covered entity is permitted to use or disclose protected health information as follows:
-
-(i) To the individual;
-
-(ii) For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506;
-
-(iii) Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure;
-
-(iv) Except for uses and disclosures prohibited under § 164.502(a)(5)(i),
-
-# (2) Covered entities: Required disclosures.
+# Covered entities: Required disclosures
 
 A covered entity is required to disclose protected health information:
 
-(i) To an individual, when requested under, and required by § 164.524 or § 164.528; and
+1. To an individual, when requested under, and required by § 164.524 or § 164.528; and
+2. When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter.
 
-(ii) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the covered entity's compliance with this subchapter.
+# § 164.502 Uses and disclosures of protected health information: General rules
 
-# (3) Business associates: Permitted uses and disclosures.
+(a) Standard. A covered entity or business associate may not use or disclose protected health information, except as permitted or required by this subpart or by subpart C of part 160 of this subchapter.
+
+# Covered entities: Permitted uses and disclosures
+
+A covered entity is permitted to use or disclose protected health information as follows:
+
+1. To the individual;
+2. For treatment, payment, or health care operations, as permitted by and in compliance with § 164.506;
+3. Incident to a use or disclosure otherwise permitted or required by this subpart, provided that the covered entity has complied with the applicable requirements of §§ 164.502(b), 164.514(d), and 164.530(c) with respect to such otherwise permitted or required use or disclosure;
+4. Except for uses and disclosures prohibited under § 164.502(a)(5)(i), to the covered entity, individual, or individual's designee, as necessary to satisfy a covered entity's obligations under § 164.524(c)(2)(ii) and (3)(ii) with respect to an individual's request for an electronic copy of protected health information.
+
+# Business associates: Permitted uses and disclosures
 
 A business associate may use or disclose protected health information only as permitted or required by its business associate contract or other arrangement pursuant to § 164.504(e) or as required by law. The business associate may not use or disclose protected health information in a manner that would violate the requirements of this subpart, if done by the covered entity, except for the purposes specified under § 164.504(e)(2)(i)(A) or (B) if such uses or disclosures are permitted by its contract or other arrangement.
 
-# (4) Business associates: Required uses and disclosures.
+# Business associates: Required uses and disclosures
 
 A business associate is required to disclose protected health information:
 
-(i) When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the business associate's compliance with this subchapter.
+1. When required by the Secretary under subpart C of part 160 of this subchapter to investigate or determine the business associate's compliance with this subchapter.
+
+# Prohibited uses and disclosures
+
+(5) Prohibited uses and disclosures.
+
+(i) Use and disclosure of genetic information for underwriting purposes: Notwithstanding any other provision of this subpart, a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of health plan, shall not use or disclose protected health information that is genetic information for underwriting purposes. For purposes of paragraph (a)(5)(i) of this section, underwriting purposes means, with respect to a health plan:
+
+1. Rules for, or determination of, eligibility (including enrollment and continued eligibility) for, or determination of, benefits under the plan, coverage, or policy (including changes in deductibles or other cost-sharing mechanisms in return for activities such as completing a health risk assessment or participating in a wellness program);
+2. The computation of premium or contribution amounts under the plan, coverage, or policy (including discounts, rebates, payments in kind, or other premium differential mechanisms in return for activities such as completing a health risk assessment or participating in a wellness program);
+3. The application of any pre-existing condition exclusion under the plan, coverage, or policy; and
 
 
 
@@ -4037,20 +3818,22 @@ March 2013
 
 # (4) Other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-(iii) For treatment and payment purposes pursuant to § 164.506(a);
+(B) Underwriting purposes does not include determinations of medical appropriateness where an individual seeks a benefit under the plan, coverage, or policy.
 
-(iv) For the sale, transfer, merger, or consolidation of all or part of the covered entity and for related due diligence as described in paragraph (6)(iv) of the definition of health care operations and pursuant to § 164.506(a);
+# (i) For treatment and payment purposes pursuant to § 164.506(a);
 
-# (2) Minimum necessary does not apply.
+# (ii) Sale of protected health information:
 
-This requirement does not apply to:
+(A) Except pursuant to and in compliance with § 164.508(a)(4), a covered entity or business associate may not sell protected health information.
 
-- (i) Disclosures to or requests by a health care provider for treatment;
-- (ii) Uses or disclosures made to the individual, as permitted under paragraph (a)(1)(i) of this section or as required by paragraph (a)(2)(i) of this section;
-- (iii) Uses or disclosures made pursuant to an authorization under § 164.508;
-- (iv) Disclosures made to the Secretary in accordance with subpart C of part 160 of this subchapter;
-- (v) Uses or disclosures that are required by law, as described by § 164.512(a); and
-- (vi) Uses or disclosures that are required for compliance with applicable requirements of this subchapter.
+(B) For purposes of this paragraph, sale of protected health information means:
+
+# (1) Except as provided in paragraph (a)(5)(ii)(B)(2) of this section, a disclosure of protected health information by a covered entity or business associate, if applicable, where the covered entity or business associate directly or indirectly receives remuneration from or on behalf of the recipient of the protected health information in exchange for the protected health information.
+
+# (2) Sale of protected health information does not include a disclosure of protected health information:
+
+- (i) For public health purposes pursuant to § 164.512(b) or § 164.514(e);
+- (ii) For research purposes pursuant to § 164.512(i) or § 164.514(e), where the only remuneration received by the covered entity or business associate is a reasonable cost-based fee to cover the cost to prepare and transmit the protected health information for such purposes;
 
 # (c) Standard: Uses and disclosures of protected health information subject to an agreed upon restriction.
 
@@ -4058,7 +3841,7 @@ A covered entity that has agreed to a restriction pursuant to § 164.522(a)(1) m
 
 # (d) Standard: Uses and disclosures of de-identified protected health information.
 
-(1) Uses and disclosures to create de-identified information. A covered entity may use protected health information to create information that
+(1) Uses and disclosures to create de-identified information. A covered entity may use protected health information to create information that...
 
 78
 
@@ -4101,9 +3884,7 @@ If under applicable law a parent, guardian, or other person acting in loco paren
 
 79
 
-HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+HIPAA Administrative Simplification Regulation Text March 2013
 
 (B) If, and to the extent, prohibited by an applicable provision of State or other law, including applicable case law, a covered entity may not disclose, or provide access in accordance with § 164.524 to, protected health information about an unemancipated minor to a parent, guardian, or other person acting in loco parentis; and
 
@@ -4113,15 +3894,19 @@ HIPAA Administrative Simplification Regulation Text
 
 (ii) The covered entity, in the exercise of professional judgment, engaged in conduct that is unlawful or otherwise violates professional or clinical standards, or that the care, services, or conditions provided by the covered entity potentially endangers one or more patients, workers, or the public; and
 
-(ii) The disclosure is to:
-
 (C) Where the parent, guardian, or other person acting in loco parentis, is not the personal representative under paragraphs (g)(3)(i)(A), (B), or (C) of this section and where there is no applicable access provision under State or other law, including case law, a covered entity may provide or deny access under § 164.524 to a parent, guardian, or other person acting in loco parentis, if such action is consistent with State or other applicable law, provided that such decision must be made by a licensed health care professional, in the exercise of professional judgment.
 
-(h) Standard: Confidential communications. A covered health care provider or health plan must comply with the applicable requirements of § 164.522(b) in communicating protected health information.
+# (h) Standard: Confidential communications.
 
-(i) Standard: Uses and disclosures consistent with notice. A covered entity that is required by § 164.520 to have a notice may not use or disclose protected health information in a manner inconsistent with such notice. A covered entity that is required by § 164.520(b)(1)(iii) to include a specific statement in its notice if it intends to engage in an activity listed in § 164.520(b)(1)(iii)(A)-(C), may not use or disclose protected health information for such activities, unless the required statement is included in the notice.
+A covered health care provider or health plan must comply with the applicable requirements of § 164.522(b) in communicating protected health information.
 
-(2) Disclosures by workforce members who are victims of a crime. A covered entity is not considered to have violated the requirements of this subpart if a member of its workforce who is the victim of a criminal act discloses protected health information to a law enforcement official, provided that:
+# (i) Standard: Uses and disclosures consistent with notice.
+
+A covered entity that is required by § 164.520 to have a notice may not use or disclose protected health information in a manner inconsistent with such notice. A covered entity that is required by § 164.520(b)(1)(iii) to include a specific statement in its notice if it intends to engage in an activity listed in § 164.520(b)(1)(iii)(A)-(C), may not use or disclose protected health information for such activities, unless the required statement is included in the notice.
+
+# (2) Disclosures by workforce members who are victims of a crime.
+
+A covered entity is not considered to have violated the requirements of this subpart if a member of its workforce who is the victim of a criminal act discloses protected health information to a law enforcement official, provided that:
 
 (i) The protected health information disclosed is about the suspected perpetrator of the criminal act; and
 
@@ -4159,6 +3944,10 @@ A contract between the covered entity and a business associate must:
 (ii) A covered entity is not in compliance with the standards in § 164.502(e) and this paragraph, if the covered entity knew of a pattern of activity or practice of the business associate that constituted a material breach or violation of the business associate's obligation under the contract or other arrangement, unless the covered entity took reasonable steps to cure the breach or end the violation, as applicable, and, if such steps were unsuccessful, terminated the contract or arrangement, if feasible.
 
 # (2) From which the information described at § 164.514(b)(2)(i) has been deleted, except that the geographic information described in § 164.514(b)(2)(i)(B) need only be aggregated to the level of a five digit zip code.
+
+# (e)(1) Standard: Business associate contracts.
+
+(i) The contract or other arrangement required by § 164.502(e)(2) must meet the requirements of paragraph (e)(2), (e)(3), or (e)(5) of this section, as applicable.
 
 # (E) Make available protected health information in accordance with § 164.524;
 
@@ -4246,24 +4035,24 @@ March 2013
 3. Not disclose and may not permit a health insurance issuer or HMO to disclose protected health information to a plan sponsor as otherwise permitted by this paragraph unless a statement required by § 164.520(b)(1)(iii)(C) is included in the appropriate notice; and
 4. Not disclose protected health information to the plan sponsor for the purpose of employment-related actions or decisions or in connection with any other benefit or employee benefit plan of the plan sponsor.
 
-(g) Standard: Requirements for a covered entity with multiple covered functions.
+(c) Implementation specifications: Treatment, payment, or health care operations. (1) A covered entity may use or disclose protected health information for its own treatment, payment, or health care operations.
 
-(1) A covered entity that performs multiple covered functions that would make the entity any combination of a health plan, a covered health care provider, and a health care clearinghouse, must comply with the standards, requirements, and implementation specifications of this subpart, as applicable to the health plan, health care provider, or health care clearinghouse covered functions performed.
+(2) A covered entity may disclose protected health information for treatment activities of a health care provider.
 
-(2) A covered entity that performs multiple covered functions may use or disclose the protected health information of individuals who receive the covered entity's health plan or health care provider services, but not both, only for purposes related to the appropriate function being performed.
+(3) A covered entity may disclose protected health information to another covered entity or a health care provider for the payment activities of the entity that receives the information.
 
-(3) A covered entity may disclose protected health information for its own treatment, payment, or health care operations.
-
-(4) A covered entity may disclose protected health information to another covered entity or a health care provider for the payment activities of the entity that receives the information.
-
-(5) A covered entity may disclose protected health information to another covered entity for health care operations activities of the entity that receives the information, if each entity either has or had a relationship with the individual who is the subject of the protected health information being requested, the protected health information pertains to such relationship, and the disclosure is:
+(4) A covered entity may disclose protected health information to another covered entity for health care operations activities of the entity that receives the information, if each entity either has or had a relationship with the individual who is the subject of the protected health information being requested, the protected health information pertains to such relationship, and the disclosure is:
 
 1. For a purpose listed in paragraph (1) or (2) of the definition of health care operations; or
 2. For the purpose of health care fraud and abuse detection or compliance.
 
-(6) A covered entity that participates in an organized health care arrangement may disclose protected health information about an individual to other participants in the organized health care arrangement for any health care operations activities of the organized health care arrangement.
+(g) Standard: Requirements for a covered entity with multiple covered functions.
 
-[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53267, Aug. 14, 2002; 68 FR 8381, Feb. 20, 2003; 78 FR 5697, Jan. 25, 2013]
+(1) A covered entity that performs multiple covered functions that would make the entity any combination of a health plan, a covered health care provider, and a health care clearinghouse, must comply with the standards, requirements, and implementation.
+
+(2) Consent, under paragraph (b) of this section, shall not be effective to permit a use or disclosure of protected health information when an authorization, under § 164.508, is required.
+
+(5) A covered entity that participates in an organized health care arrangement may disclose protected health information about an individual to other participants in the organized health care arrangement for any health care operations activities of the organized health care arrangement.
 
 
 
@@ -4321,8 +4110,6 @@ authorization for the use or disclosure of protected health information for a re
 - (i) A covered health care provider may condition the provision of research-related treatment on provision of an authorization for the use or disclosure of protected health information for such research under this section;
 - (ii) A health plan may condition enrollment in the health plan or eligibility for benefits on provision of an authorization requested by the health plan prior to an individual's enrollment in the health plan, if:
 
-(ii) If the authorization was obtained as a condition of obtaining insurance coverage, other law provides the insurer with the right to contest a claim under the policy or the policy itself.
-
 (6) Documentation. A covered entity must document and retain any signed authorization under this section as required by § 164.530(j).
 
 (c) Implementation specifications: Core elements and requirements
@@ -4339,17 +4126,11 @@ authorization for the use or disclosure of protected health information for a re
 
 (A) The authorization sought is for the health plan's eligibility or enrollment determinations relating to the individual or for its underwriting or risk rating determinations; and
 
-(B) The authorization is not for a use or disclosure of psychotherapy notes under paragraph (a)(2) of this section; and
-
-(iii) A covered entity may condition the provision of health care that is solely for the purpose of creating protected health information for disclosure to a third party on provision of an authorization for the disclosure of the protected health information to such third party.
+(iii) An authorization under this section, other than an authorization for a use or disclosure of psychotherapy notes, may be combined with any other such authorization under this section, except when a covered entity has conditioned the provision of treatment, payment, enrollment in the health plan, or eligibility for benefits under paragraph (b)(4) of this section on the provision of one of the authorizations. The prohibition in this paragraph on combining authorizations where one authorization conditions the provision of treatment, payment, enrollment in a health plan, or eligibility for benefits under paragraph (b)(4) of this section does not apply to a compound authorization created in accordance with paragraph (b)(3)(i) of this section.
 
 (5) Revocation of authorizations. An individual may revoke an authorization provided under this section at any time, provided that the revocation is in writing, except to the extent that:
 
 - (i) The covered entity has taken action in reliance thereon; or
-
-86
-
-
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -4360,15 +4141,21 @@ for the creation and maintenance of a plan, or eligibility for benefits on failu
 
 (iii) The potential for information disclosed pursuant to the authorization to be subject to redisclosure by the recipient and no longer be protected by this subpart.
 
-- (A) The individual's name;
-- (B) The individual's location in the covered health care provider's facility;
-- (C) The individual's condition described in general terms that does not communicate specific medical information about the individual; and
-- (D) The individual's religious affiliation;
+(3) Plain language requirement. The authorization must be written in plain language.
 
-(ii) Use or disclose for directory purposes such information:
+(4) Copy to the individual. If a covered entity seeks an authorization from an individual for a use or disclosure of protected health information, the covered entity must provide the individual with a copy of the signed authorization.
 
-- (A) To members of the clergy; or
-- (B) Except for religious affiliation, to other persons who ask for the individual by name.
+(i) The individual's right to revoke the authorization in writing, and either:
+
+(A) The exceptions to the right to revoke and a description of how the individual may revoke the authorization; or
+
+(B) To the extent that the information in paragraph (c)(2)(i)(A) of this section is included in the notice required by § 164.520, a reference to the covered entity's notice.
+
+(ii) The ability or inability to condition treatment, payment, enrollment or eligibility for benefits on the authorization, by stating either:
+
+(A) The covered entity may not condition treatment, payment, enrollment or eligibility for benefits on whether the individual signs the authorization when the prohibition on conditioning of authorizations in paragraph (b)(4) of this section applies; or
+
+(B) The consequences to the individual of a refusal to sign the authorization when, in accordance with paragraph (b)(4) of this section, the covered entity can condition treatment, enrollment in the health plan, or eligibility for benefits on failure to obtain such authorization.
 
 § 164.510 Uses and disclosures requiring an opportunity for the individual to agree or to object.
 
@@ -4381,47 +4168,27 @@ for the creation and maintenance of a plan, or eligibility for benefits on failu
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# (A)
+(A) Consistent with a prior expressed preference of the individual, if any, that is known to the covered health care provider; and
 
-Consistent with a prior expressed preference of the individual, if any, that is known to the covered health care provider; and
+(B) In the individual's best interest as determined by the covered health care provider, in the exercise of professional judgment.
 
-# (B)
+(ii) The covered health care provider must inform the individual and provide an opportunity to object to uses or disclosures for directory purposes as required by paragraph (a)(2) of this section when it becomes practicable to do so.
 
-In the individual's best interest as determined by the covered health care provider, in the exercise of professional judgment.
+(2) Uses and disclosures with the individual present. If the individual is present for, or otherwise available prior to, a use or disclosure permitted by paragraph (b)(1) of this section and has the capacity to make health care decisions, the covered entity may use or disclose the protected health information if it:
 
-# (ii)
+- (i) Obtains the individual's agreement;
+- (ii) Provides the individual with the opportunity to object to the disclosure, and the individual does not express an objection; or
+- (iii) Reasonably infers from the circumstances, based on the exercise of professional judgment, that the individual does not object to the disclosure.
 
-The covered health care provider must inform the individual and provide an opportunity to object to uses or disclosures for directory purposes as required by paragraph (a)(2) of this section when it becomes practicable to do so.
-
-# (2)
-
-Uses and disclosures with the individual present. If the individual is present for, or otherwise available prior to, a use or disclosure permitted by paragraph (b)(1) of this section and has the capacity to make health care decisions, the covered entity may use or disclose the protected health information if it:
-
-# (i)
-
-Obtains the individual's agreement;
-
-# (ii)
-
-Provides the individual with the opportunity to object to the disclosure, and the individual does not express an objection; or
-
-# (iii)
-
-Reasonably infers from the circumstances, based on the exercise of professional judgment, that the individual does not object to the disclosure.
-
-# (5)
-
-Uses and disclosures when the individual is deceased. If the individual is deceased, a covered entity may disclose to a family member, or other persons identified in paragraph (b)(1) of this section who were involved in the individual's care or payment for health care prior to the individual's death, protected health information of the individual that is relevant to such person's involvement, unless doing so is inconsistent with any prior expressed preference of the individual that is known to the covered entity.
+(5) Uses and disclosures when the individual is deceased. If the individual is deceased, a covered entity may disclose to a family member, or other persons identified in paragraph (b)(1) of this section who were involved in the individual's care or payment for health care prior to the individual's death, protected health information of the individual that is relevant to such person's involvement, unless doing so is inconsistent with any prior expressed preference of the individual that is known to the covered entity.
 
 [65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53270, Aug. 14, 2002; 78 FR 5699, Jan. 25, 2013]
 
-# § 164.512
-
-Uses and disclosures for which an authorization or opportunity to agree or object is not required.
+# § 164.512  Uses and disclosures for which an authorization or opportunity to agree or object is not required.
 
 A covered entity may use or disclose protected health information without the written authorization of the individual, as described in § 164.508, or the opportunity for the individual to agree or object as described in § 164.510, in the situations covered by this section, subject to the applicable requirements of this section. When the covered entity is required by this section to inform the individual of, or when the individual may agree to, a use or disclosure.
 
-88
+
 
 HIPAA Administrative Simplification Regulation Text
 
@@ -4443,7 +4210,9 @@ A covered entity may use or disclose protected health information for the public
 
 - (i) A public health authority that is authorized by law to collect or receive such information for the purpose of preventing or controlling disease, injury, or disability, including, but not limited to, the reporting of disease, injury, vital events such as birth or death, and the conduct of public health surveillance, public health investigations, and public health interventions; or, at the direction of a public health authority, to an official of a foreign government agency that is acting in collaboration with a public health authority;
 - (ii) A public health authority or other appropriate government authority authorized by law to receive reports of child abuse or neglect;
-- (iii) A person subject to the jurisdiction of the Food and Drug Administration (FDA) with respect to an FDA-regulated product or activity.
+- (iii) A person subject to the jurisdiction of the Food and Drug Administration (FDA) with respect to an FDA-regulated product or activity;
+- (iv) A person who may have been exposed to a communicable disease or may otherwise be at risk of contracting or spreading a disease or condition, if the covered entity or public health authority is authorized by law to notify such person as necessary in the conduct of a public health intervention or investigation;
+- (v) An employer, about an individual who is a member of the workforce of the employer, if:
 
 # (2) To evaluate whether the individual has a work-related illness or injury;
 
@@ -4457,35 +4226,38 @@ A covered entity may use or disclose protected health information for the public
 
 # (3) The protected health information that is disclosed consists of findings concerning a work-related illness or injury or a workplace-related medical surveillance;
 
-(A) The employer needs such findings in order to comply with its obligations, under 29 CFR parts 1904 through 1928, 30 CFR parts 50 through 90, or under state law having a similar purpose, to record such illness or injury or to carry out responsibilities for workplace medical surveillance; and
+(C) The employer needs such findings in order to comply with its obligations, under 29 CFR parts 1904 through 1928, 30 CFR parts 50 through 90, or under state law having a similar purpose, to record such illness or injury or to carry out responsibilities for workplace medical surveillance; and
 
-(D) The covered health care provider provides written notice to the individual that protected health information relating to the medical surveillance of the workplace and work-related illnesses and injuries is disclosed to the employer:
+# (4) The covered health care provider provides written notice to the individual that protected health information relating to the medical surveillance of the workplace and work-related illnesses and injuries is disclosed to the employer:
 
 - (1) By giving a copy of the notice to the individual at the time the health care is provided; or
 - (2) If the health care is provided on the work site of the employer, by posting the notice in a prominent place at the location where the health care is provided.
 
-# (vi) A school, about an individual who is a student or prospective student of the school, if:
-
-(A) The protected health information that is disclosed is limited to proof of immunization;
-
-(B) The school is required by State or other law to have such proof of immunization prior to admitting the individual; and
-
-(C) The covered entity obtains and documents the agreement to the disclosure from either:
-
 
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
 
-# (1) A parent, guardian, or other individual or other potential victims; proceedings or actions; or other activities necessary for appropriate oversight of:
+# March 2013
 
-(A) If the individual is unable to agree because of incapacity, a law enforcement or other public official authorized to receive the report represents that the protected health information for which disclosure is sought is not intended to be used against the individual and that an immediate enforcement activity that depends upon the disclosure would be materially and adversely affected by waiting until the individual is able to agree to the disclosure.
+# (1)
 
-# (2) The individual, if the individual is an adult or emancipated minor.
+A parent, guardian, or other individual or other potential victims; proceedings or actions; or other activities necessary for appropriate oversight of:
 
-# (2) Permitted uses.
+# (2)
 
-If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section.
+The individual, if the individual is an adult or emancipated minor.
+
+(2) Permitted uses. If the covered entity also is a public health authority, the covered entity is permitted to use protected health information in all cases in which it is permitted to disclose such information for public health activities under paragraph (b)(1) of this section.
+
+(B) If the individual is unable to agree because of incapacity, a law enforcement or other public official authorized to receive the report represents that the protected health information for which disclosure is sought is not intended to be used against the individual and that an immediate enforcement activity that depends upon the disclosure would be materially and adversely affected by waiting until the individual is able to agree to the disclosure.
+
+# (2)
+
+Informing the individual. A covered entity that makes a disclosure permitted by paragraph (c)(1) of this section must promptly inform the individual that such a report has been or will be made, except if:
+
+(i) The covered entity, in the exercise of professional judgment, believes informing the individual would place the individual at risk of serious harm; or
+
+(ii) The covered entity would be informing a personal representative, and the covered entity reasonably believes the personal representative is responsible for the abuse, neglect, or other injury, and that informing such person would not be in the best interests of the individual as determined by the covered entity, in the exercise of professional judgment.
 
 # (c) Standard: Disclosures about victims of abuse, neglect or domestic violence
 
@@ -4493,30 +4265,32 @@ If the covered entity also is a public health authority, the covered entity is p
 
 Except for reports of child abuse or neglect permitted by paragraph (b)(1)(ii) of this section, a covered entity may disclose protected health information about an individual whom the covered entity reasonably believes to be a victim of abuse, neglect, or domestic violence to a government authority, including a social service or protective services agency, authorized by law to receive reports of such abuse, neglect, or domestic violence:
 
-- (i) To the extent the disclosure is required by law and the disclosure complies with and is limited to the relevant requirements of such law;
-- (ii) If the individual agrees to the disclosure;
+(i) To the extent the disclosure is required by law and the disclosure complies with and is limited to the relevant requirements of such law;
 
-A covered entity that makes a disclosure permitted by paragraph (c)(1) of this section must promptly inform the individual that such a report has been or will be made, except if:
+(ii) If the individual agrees to the disclosure;
 
-- (i) The covered entity, in the exercise of professional judgment, believes informing the individual would place the individual at risk of serious harm; or
-- (ii) The covered entity would be informing a personal representative, and the covered entity reasonably believes the personal representative is responsible for the abuse, neglect, or other injury, and that informing such person would not be in the best interests of the individual as determined by the covered entity, in the exercise of professional judgment.
+# (2) Exception to health oversight activities.
+
+For the purpose of the disclosures permitted by paragraph (d)(1) of this section, a health oversight activity does not include an investigation or other activity in which the individual is the subject of the investigation or activity and such investigation or other activity does not arise out of and is not directly related to:
+
+(i) The receipt of health care;
+
+(ii) A claim for public benefits related to health; or
+
+(iii) Qualification for, or receipt of, public benefits or services when a patient's health is integral to the claim for public benefits or services.
 
 # (d) Standard: Uses and disclosures for health oversight activities
 
 # (1) Permitted disclosures.
 
-A covered entity may disclose protected health information to a health oversight agency for oversight activities authorized by law, including audits; civil, administrative, or criminal investigations; inspections; licensure or disciplinary actions; civil, administrative, or criminal investigations.
-
-(iii) To the extent the disclosure is expressly authorized by statute or regulation and:
-
-- (A) The covered entity, in the exercise of professional judgment, believes the disclosure is necessary to prevent serious harm to the individual;
+A covered entity may disclose protected health information to a health oversight agency for oversight activities authorized by law, including audits; civil, administrative, or criminal investigations; inspections; licensure or disciplinary actions; civil, administrative, or criminal.
 
 Notwithstanding paragraph (d)(2) of this section, if a health oversight activity or investigation is conducted in conjunction with an oversight activity or investigation relating to a claim for public benefits not related to health, the joint activity or investigation is considered a health oversight activity for purposes of paragraph (d) of this section.
 
 90
 
 HIPAA Administrative Simplification Regulation Text
-# March 2013
+March 2013
 
 # (4) Permitted uses.
 
@@ -4536,18 +4310,10 @@ A covered entity may disclose protected health information in the course of any 
 - (A) Prohibits the parties from using or disclosing the protected health information for any purpose other than the litigation or proceeding for which such information was requested; and
 - (ii) In response to a subpoena, discovery request, or other lawful process, that is not accompanied by an order of a court or administrative tribunal, if:
 
-# (A) The covered entity receives satisfactory assurance, as described in paragraph (e)(1)(iii) of this section, from the party seeking the information that reasonable efforts have been made by such party to ensure that the individual who is the subject of the protected health information that has been requested has been given notice of the request; or
-
-# (B) The covered entity receives satisfactory assurance, as described in paragraph (e)(1)(iv) of this section, from the party seeking the information that reasonable efforts have been made by such party to secure a qualified protective order that meets the requirements of paragraph (e)(1)(v) of this section.
-
 # (iv) For the purposes of paragraph (e)(1)(ii)(B) of this section, a covered entity receives satisfactory assurances from a party seeking protected health information, if the covered entity receives from such party a written statement and accompanying documentation demonstrating that:
 
 - (A) The parties to the dispute giving rise to the request for information have agreed to a qualified protective order and have presented it to the court or administrative tribunal with jurisdiction over the dispute; or
 - (C) The time for the individual to raise objections to the court or administrative tribunal has elapsed, and:
-
-# (1) No objections were filed; or
-
-# (2) All objections filed by the individual have been resolved by the court or the administrative tribunal and the disclosures being sought are consistent with such resolution.
 
 # (vi) Notwithstanding paragraph (e)(1)(ii) of this section, a covered entity may disclose protected health information in response to lawful process described in paragraph (e)(1)(ii) of this section without receiving satisfactory assurance under paragraph (e)(1)(ii)(A) or (B) of this section, if the covered entity makes reasonable efforts to provide notice to the individual sufficient to meet the requirements of paragraph (e)(1)(iii) of this section or to seek a qualified protective order sufficient to meet the requirements of paragraph (e)(1)(iv) of this section.
 
@@ -4576,8 +4342,6 @@ Pursuant to process and as otherwise required by law. A covered entity may discl
 - (B) A grand jury subpoena; or
 - (C) An administrative request, including an administrative subpoena or summons, a civil or an authorized investigative demand, or similar process authorized under law, provided that:
 
-# (1) The information sought is relevant and material to a legitimate law enforcement inquiry;
-
 # (2) The request is specific and limited in scope to the extent reasonably practicable in light of the purpose for which the information is sought; and
 
 # (3) De-identified information could not reasonably be used.
@@ -4605,35 +4369,31 @@ A covered entity may disclose to a law enforcement official protected health inf
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# (6) Permitted disclosure: Reporting crime in emergencies.
+constitutes evidence of criminal information for the purposes described in this paragraph. CFR 97.107, 38 CFR 16.107, 40 CFR 26.107, 45 CFR 46.107, 45 CFR 690.107, or 49 CFR 11.107; or
 
-(i) A covered health care provider providing emergency health care in response to a medical emergency, other than such emergency on the premises of the covered health care provider, may disclose protected health information to a law enforcement official if such disclosure appears necessary to alert law enforcement to:
+# (2) Funeral directors.
 
-- (A) The commission and nature of a crime;
-- (B) The location of such crime or of the victim(s) of such crime; and
-- (C) The identity, description, and location of the perpetrator of such crime.
-
-(ii) If a covered health care provider believes that the medical emergency described in paragraph (f)(6)(i) of this section is the result of abuse, neglect, or domestic violence of the individual in need of emergency health care, paragraph (f)(6)(i) of this section does not apply and any disclosure to a law enforcement official for law enforcement purposes is subject to paragraph (c) of this section.
+A covered entity may disclose protected health information to funeral directors, consistent with applicable law, as necessary to carry out their duties with respect to the decedent. If necessary for funeral directors to carry out their duties, the covered entity may disclose the protected health information prior to, and in reasonable anticipation of, the individual's death.
 
 # (h) Standard: Uses and disclosures for cadaveric organ, eye or tissue donation purposes.
 
 A covered entity may use or disclose protected health information to organ procurement organizations or other entities engaged in the procurement, banking or transplantation of cadaveric organs, eyes, or tissue for the purpose of facilitating organ, eye or tissue donation and transplantation.
 
-# (i) Standard: Uses and disclosures for research purposes.
+# (ii) Reviews preparatory to research.
 
-(1) Permitted uses and disclosures. A covered entity may use or disclose protected health information for research, regardless of the source of funding of the research, provided that:
+The covered entity obtains from the researcher representations that:
 
 - (A) Use or disclosure is sought solely to review protected health information as necessary to prepare a research protocol or for similar purposes preparatory to research;
 - (B) No protected health information is to be removed from the covered entity by the researcher in the course of the review; and
 - (C) The protected health information for which use or access is sought is necessary for the research purposes.
 
-(ii) Board approval of a waiver of authorization. The covered entity obtains documentation that an alteration to or waiver, in whole or in part, of the individual authorization required by § 164.508 for use or disclosure of protected health information has been approved by either:
+# (g) Standard: Uses and disclosures about decedents.
 
-- (A) An Institutional Review Board (IRB), established in accordance with 7 CFR lc.107, 10 CFR 745.107, 14 CFR 1230.107, 15 CFR 27.107, 16 CFR 1028.107, 21 CFR 56.107, 22 CFR 225.107, 24 CFR 60.107, 28 CFR 46.107, 32 CFR 219.107, 34 CFR 93.
+(1) Coroners and medical examiners. A covered entity may disclose protected health information to a coroner or medical examiner for the purpose of identifying a deceased person, determining a cause of death, or other duties as authorized by law. A covered entity that also performs the duties of a coroner or medical examiner may use protected health information alteration to or waiver, in whole or in part, of the individual authorization required by § 164.508 for use or disclosure of protected health information has been approved by either:
 
-(iii) Research on decedent's information. The covered entity obtains from the researcher:
+- (A) An Institutional Review Board (IRB), established in accordance with 7 CFR lc.107, 10 CFR 745.107, 14 CFR 1230.107, 15 CFR 27.107, 16 CFR 1028.107, 21 CFR 56.107, 22 CFR 225.107, 24 CFR 60.107, 28 CFR 46.107, 32 CFR 219.107, 34
 
-- (A) Representation that the use or disclosure sought is solely for research on the protected health information of decedents;
+(A) Representation that the use or disclosure sought is solely for research on the protected health information of decedents;
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -4662,17 +4422,7 @@ A statement that the IRB or privacy board has determined that the alteration or 
 
 # (3) Adequate written assurances that the protected health information will not be reused or disclosed to any other person or entity, except as required by law, for authorized sought.
 
-# (C) The research could not practicably be conducted without access to and use of the protected health information.
-
-# (iii) Protected health information needed.
-
-A brief description of the protected health information for which use or access has been determined to be necessary by the institutional review board or privacy board, pursuant to paragraph (i)(2)(ii)(C) of this section;
-
-# (iv) Review and approval procedures.
-
-A statement that the alteration or waiver of authorization has been reviewed and approved under either normal or expedited review procedures, as follows:
-
-# (A) An IRB must follow the requirements of the Common Rule, including the normal review procedures (7 CFR 1c.108(b), 10 CFR 745.108(b), 14 CFR 1230.108(b), 15 CFR 27.108(b), 16 CFR 1028.108(b), 21 CFR 56.108(b), 22 CFR 225.108(b), 24 CFR 60.108(b), 28 CFR 46.108(b), 32 CFR 219.108(b), 34 CFR 97.108(b), 38 CFR 16.108(b), 40 CFR 26.108(b), 45 CFR 46.108(b), 45 CFR 690.108(b), or 49 CFR 11.108(b)) or the expedited review procedures (7 CFR 1c.110, 10 CFR 745.110, 14 CFR 1230.110, 15 CFR 27.110, 16 CFR 1028.110, 21 CFR 56.110, 22 CFR 225.110, 24 CFR 60.110, 28 CFR 46.110, 32 CFR 219.110, 34 CFR 97.110, 38 CFR 16.110, 40 CFR 26.110, 45 CFR 46.110, 45 CFR 690.110, or 49 CFR 11.110);
+If the privacy board elects to use an expedited review procedure, the review and approval of the alteration or waiver of authorization may be carried out by the chair of the privacy board, or by one or more members of the privacy board as designated by the chair; and
 
 # (v) Required signature.
 
@@ -4719,19 +4469,15 @@ March 2013
 
 (ii) Separation or discharge from military service. A covered entity that is a component of the Departments of Defense or Homeland Security may disclose to the Department of Veterans Affairs (DVA) the protected health information of an individual who is a member of the Armed Forces upon the separation or discharge of the individual from military service for the purpose of a determination by DVA of the individual's eligibility for or entitlement to benefits under laws administered by the Secretary of Veterans Affairs.
 
-(iv) Foreign military personnel. A covered entity may use and disclose the protected health information of individuals who are foreign military personnel to their appropriate foreign military authority for the same purposes for which uses and disclosures are permitted for Armed Forces personnel under the notice published in the FEDERAL REGISTER pursuant to paragraph (k)(1)(i) of this section.
-
 (2) National security and intelligence activities. A covered entity may disclose protected health information to authorized federal officials for the conduct of lawful intelligence, counter-intelligence, and other national security activities authorized by the National Security Act (50 U.S.C. 401, et seq.) and implementing authority (e.g., Executive Order 12333).
 
 (3) Protective services for the President and others. A covered entity may disclose protected health information to authorized Federal officials for the provision of protective services to the President or other persons authorized by 18 U.S.C. 3056 or to foreign heads of state or other persons authorized by 22 U.S.C. 2709(a)(3), or for the conduct of investigations authorized by 18 U.S.C. 871 and 879.
 
-(4) Medical suitability determinations. A covered entity that is a component of the Department of State may use protected health information to make medical suitability determinations and may disclose whether or not the individual is suitable for the purpose of a determination by the Secretary of Veterans Affairs.
+(4) Medical suitability determinations. A covered entity that is a component of the Department of State may use protected health information to make medical suitability determinations and may disclose whether or not the individual is suitable for the purpose of a determination by the Secretary of State.
 
 95
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
-
 was determined to be medically suitable to the officials in the Department of State who need access to such information for the following purposes:
 
 1. For the purpose of a required security clearance conducted pursuant to Executive Orders 10450 and 12968;
@@ -4753,11 +4499,7 @@ was determined to be medically suitable to the officials in the Department of St
 
 [65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53270, Aug. 14, 2002; 78 FR 5700, Jan. 25, 2013]
 
-§ 164.514 Other requirements relating to uses and disclosures of protected health information.
-
-(a) Standard: De-identification of protected health information. Health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual is not individually identifiable health information.
-
-(b) Implementation specifications: Requirements for de-identification of protected health information. A covered entity may determine that health information is not individually identifiable health information only if:
+96
 
 HIPAA Administrative Simplification Regulation Text
 
@@ -4765,45 +4507,32 @@ HIPAA Administrative Simplification Regulation Text
 
 other reasonably available information, by an anticipated recipient to identify an individual who is a subject of the information; and
 
-(G) Social security numbers; is not otherwise capable of being translated so as to identify the individual; and
-
-(H) Medical record numbers;
-
-(I) Health plan beneficiary numbers;
+(ii) Documents the methods and results of the analysis that justify such determination; or
 
 (2) Security. The covered entity does not use or disclose the code or other means of record identification for any other purpose, and does not disclose the mechanism for re-identification.
 
 (2)(i) The following identifiers of the individual or of relatives, employers, or household members of the individual, are removed:
 
-(A) Names;
-
-(B) All geographic subdivisions smaller than a State, including street address, city, county, precinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip code if, according to the current publicly available data from the Bureau of the Census:
-
-(1) The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people; and
-
-(2) The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000.
-
-(C) All elements of dates (except year) for dates directly related to an individual, including birth date, admission date, discharge date, date of death; and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older;
-
-(D) Telephone numbers;
-
-(E) Fax numbers;
-
-(F) Electronic mail addresses;
-
-(L) Vehicle identifiers and serial numbers, including license plate numbers;
-
-(M) Device identifiers and serial numbers;
-
-(N) Web Universal Resource Locators (URLs);
-
-(O) Internet Protocol (IP) address numbers;
-
-(P) Biometric identifiers, including finger and voice prints;
-
-(Q) Full face photographic images and any comparable images; and
-
-(R) Any other unique identifying number, characteristic, or code, except as permitted by paragraph (c) of this section; and
+- (A) Names;
+- (B) All geographic subdivisions smaller than a State, including street address, city, county, precinct, zip code, and their equivalent geocodes, except for the initial three digits of a zip code if, according to the current publicly available data from the Bureau of the Census:
+- (1) The geographic unit formed by combining all zip codes with the same three initial digits contains more than 20,000 people; and
+- (2) The initial three digits of a zip code for all such geographic units containing 20,000 or fewer people is changed to 000.
+- (C) All elements of dates (except year) for dates directly related to an individual, including birth date, admission date, discharge date, date of death; and all ages over 89 and all elements of dates (including year) indicative of such age, except that such ages and elements may be aggregated into a single category of age 90 or older;
+- (D) Telephone numbers;
+- (E) Fax numbers;
+- (F) Electronic mail addresses;
+- (G) Social security numbers;
+- (H) Medical record numbers;
+- (I) Health plan beneficiary numbers;
+- (J) Account numbers;
+- (K) Certificate/license numbers;
+- (L) Vehicle identifiers and serial numbers, including license plate numbers;
+- (M) Device identifiers and serial numbers;
+- (N) Web Universal Resource Locators (URLs);
+- (O) Internet Protocol (IP) address numbers;
+- (P) Biometric identifiers, including finger and voice prints;
+- (Q) Full face photographic images and any comparable images; and
+- (R) Any other unique identifying number, characteristic, or code, except as permitted by paragraph (c) of this section; and
 
 (ii) The covered entity does not have actual knowledge that the information could be used alone or in combination with other information to identify an individual who is a subject of the information.
 
@@ -4811,7 +4540,14 @@ other reasonably available information, by an anticipated recipient to identify 
 
 (1) Derivation. The code or other means of record identification is not derived from or related to information about the individual and
 
-(2) The covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information.
+(2) Implementation specifications: Minimum necessary requirements. In order to comply with § 164.502(b) and this section, a covered entity must meet the requirements of paragraphs (d)(2) through (d)(5) of this section with respect to a request for, or the use and disclosure of, protected health information.
+
+(i) A covered entity must identify:
+
+- (A) Those persons or classes of persons, as appropriate, in its workforce who need access to protected health information to carry out their duties; and
+- (B) For each such person or class of persons, the category or categories of protected health information to which access is needed and any conditions appropriate to such access.
+
+(ii) A covered entity must make reasonable efforts to limit the access of such persons or classes identified in paragraph (d)(2)(i)(A) of this section to protected health information consistent with paragraph (d)(2)(i)(B) of this section.
 
 (3) Implementation specification: Minimum necessary disclosures of protected health information.
 
@@ -4820,7 +4556,7 @@ other reasonably available information, by an anticipated recipient to identify 
 
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
 # implement policies and procedures
 
@@ -4850,13 +4586,9 @@ that are permitted under § 164.512, if the public official represents that the 
 
 # (B) The information is requested by another covered entity;
 
-# (C) The information is requested by a professional
+# (C) The information is requested by a professional who is a member of its workforce or is a business associate of the covered entity for the purpose of providing professional services to the covered entity, if the professional represents that the information requested is the minimum necessary for the stated purpose(s); or
 
-who is a member of its workforce or is a business associate of the covered entity for the purpose of providing professional services to the covered entity, if the professional represents that the information requested is the minimum necessary for the stated purpose(s); or
-
-# (D) Documentation or representations
-
-that comply with the applicable requirements of § 164.512(i) have been provided by a person requesting the information for research purposes.
+# (D) Documentation or representations that comply with the applicable requirements of § 164.512(i) have been provided by a person requesting the information for research purposes.
 
 # (5) Implementation specification:
 
@@ -4886,11 +4618,8 @@ A covered entity may use or disclose a limited data set that meets the requireme
 (xiv) Internet Protocol (IP) address numbers;
 (xv) Biometric identifiers, including finger and voice prints;
 
-98
-
 HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+March 2013
 
 # (xvi) Full face photographic images and any comparable images.
 
@@ -4906,32 +4635,27 @@ HIPAA Administrative Simplification Regulation Text
 
 (ii) Contents. A data use agreement between the covered entity and the limited data set recipient must:
 
-(A) Establish the permitted uses and disclosures of such information by the limited data set recipient, consistent with paragraph (e)(3) of this section. The data use agreement may not authorize the limited data set recipient to use or further disclose the information in a manner that would violate the requirements of this subpart, if done by the covered entity;
-(B) Establish who is permitted to use or receive the limited data set; and
-(C) Provide that the limited data set recipient will:
-(1) Not use or further disclose the information other than as permitted by the data use agreement or as otherwise required by law;
-(2) Use appropriate safeguards to prevent use or disclosure of the information other than as provided for by the data use agreement;
-(3) Report to the covered entity any use or disclosure of the information not provided for by its data use agreement of which it becomes aware;
-(4) Ensure that any agents to whom it provides the limited data set agree to the same restrictions and conditions that apply to the limited data set recipient with respect to such information; and
-(5) Not identify the information or contact the individuals.
+- (A) Establish the permitted uses and disclosures of such information by the limited data set recipient, consistent with paragraph (e)(3) of this section. The data use agreement may not authorize the limited data set recipient to use or further disclose the information in a manner that would violate the requirements of this subpart, if done by the covered entity;
+- (B) Establish who is permitted to use or receive the limited data set; and
+- (C) Provide that the limited data set recipient will:
 
 # (iii) Compliance.
 
 (A) A covered entity is not in compliance with the standards in paragraph (e) of this section if the covered entity knew of a pattern of activity or practice of the limited data set recipient that constituted a material breach or violation of the data use agreement, unless the covered entity took reasonable steps to cure the breach or end the violation, as applicable, and, if such steps were unsuccessful:
 
-(1) Discontinued disclosure of protected health information to the recipient; and
-(2) Reported the problem to the Secretary.
+- (1) Discontinued disclosure of protected health information to the recipient; and
+- (2) Reported the problem to the Secretary.
 
 # (f) Fundraising communications.
 
 (1) Standard: Uses and disclosures for fundraising. Subject to the conditions of paragraph (f)(2) of this section, a covered entity may use, or disclose to a business associate or to an institutionally related foundation, the following protected health information for the purpose of raising funds for its own benefit, without an authorization meeting the requirements of § 164.508:
 
-(i) Demographic information relating to an individual, including name, address, other contact information, age, gender, and date of birth;
-(ii) Dates of health care provided to an individual;
-(iii) Department of service information;
-(iv) Treating physician;
-(v) Outcome information; and
-(vi) Health insurance status.
+- (i) Demographic information relating to an individual, including name, address, other contact information, age, gender, and date of birth;
+- (ii) Dates of health care provided to an individual;
+- (iii) Department of service information;
+- (iv) Treating physician;
+- (v) Outcome information; and
+- (vi) Health insurance status.
 
 (2) Implementation specifications: Fundraising requirements. (i) A covered entity may not use or disclose protected health information for fundraising purposes as otherwise permitted by paragraph (f)(1) of this section unless a statement required by § 164.520(b)(1)(iii)(A) is included in the covered entity's notice of privacy practices.
 
@@ -4939,183 +4663,118 @@ HIPAA Administrative Simplification Regulation Text
 
 99
 
-
-
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
 individual with a clear and conspicuous opportunity to elect not to receive any further fundraising communications. The method for an individual to elect not to receive further fundraising communications may not cause the individual to incur an undue burden or more than a nominal cost.
 
-# (i)
+(i) Except with respect to disclosures under § 164.510, verify the identity of a person requesting protected health information and the authority of any such person to have access to protected health information under this subpart, if the identity or any such authority of such person is not known to the covered entity; and
 
-Except with respect to disclosures under § 164.510, verify the identity of a person requesting protected health information and the authority of any such person to have access to protected health information under this subpart, if the identity or any such authority of such person is not known to the covered entity; and
+(iii) A covered entity may not condition treatment or payment on the individual's choice with respect to the receipt of fundraising communications.
 
-# (ii)
+(iv) A covered entity may not make fundraising communications to an individual under this paragraph where the individual has elected not to receive such communications under paragraph (f)(2)(ii) of this section.
 
-Obtain any documentation, statements, or representations, whether oral or written, from the person requesting the protected health information when such documentation, statement, or representation is a condition of the disclosure under this subpart.
+(v) A covered entity may provide an individual who has elected not to receive further fundraising communications with a method to opt back in to receive such communications.
 
-# (A)
+(g) Standard: Uses and disclosures for underwriting and related purposes. If a health plan receives protected health information for the purpose of underwriting, premium rating, or other activities relating to the creation, renewal, or replacement of a contract of health insurance or health benefits, and if such health insurance or health benefits are not placed with the health plan, such health plan may only use or disclose such protected health information for such purpose or as may be required by law, subject to the prohibition at § 164.502(a)(5)(i) with respect to genetic information included in the protected health information.
 
-If the request is made in person, presentation of an agency identification badge, other official credentials, or other proof of government status;
+(h)(1) Standard: Verification requirements. Prior to any disclosure permitted by this subpart, a covered entity must:
 
-# (B)
+(A) The conditions in § 164.512(f)(1)(ii)(C) may be satisfied by the administrative subpoena or similar process or by a separate written statement that, on its face, demonstrates that the applicable requirements have been met.
 
-If the request is in writing, the request is on the appropriate government letterhead; or
+(B) The documentation required by § 164.512(i)(2) may be satisfied by one or more written statements, provided that each is appropriately dated and signed in accordance with § 164.512(i)(2)(i) and (v).
 
-# (C)
+(C) If a request is made pursuant to legal process, warrant, subpoena, order, or other legal process issued by a grand jury or a judicial or administrative tribunal is presumed to constitute legal authority.
 
-If the disclosure is to a person acting on behalf of a public official, a written statement on appropriate government letterhead that the person is acting under the government's authority or other evidence or documentation of agency, such as a contract for services, memorandum of understanding, or purchase order, that establishes that the person is acting on behalf of the public official.
+(ii) Identity of public officials. A covered entity may rely, if such reliance is reasonable under the circumstances, on any of the following to verify identity when the disclosure of protected health information is to a public official or a person acting on behalf of the public official:
 
-# (iii)
+(A) A written statement of the legal authority under which the information is requested, or, if a written statement would be impracticable, an oral statement of such legal authority;
 
-A covered entity may not condition treatment or payment on the individual's choice with respect to the receipt of fundraising communications.
+(B) If a request is made pursuant to legal process, warrant, subpoena, order, or other legal process issued by a grand jury or a judicial or administrative tribunal is presumed to constitute legal authority.
 
-# (iv)
-
-A covered entity may not make fundraising communications to an individual under this paragraph where the individual has elected not to receive such communications under paragraph (f)(2)(ii) of this section.
-
-# (v)
-
-A covered entity may provide an individual who has elected not to receive further fundraising communications with a method to opt back in to receive such communications.
-
-# (g)
-
-Standard: Uses and disclosures for underwriting and related purposes. If a health plan receives protected health information for the purpose of underwriting, premium rating, or other activities relating to the creation, renewal, or replacement of a contract of health insurance or health benefits, and if such health insurance or health benefits are not placed with the health plan, such health plan may only use or disclose such protected health information for such purpose or as may be required by law, subject to the prohibition at § 164.502(a)(5)(i) with respect to genetic information included in the protected health information.
-
-# (h)(1)
-
-Standard: Verification requirements. Prior to any disclosure permitted by this subpart, a covered entity must:
-
-# (i)
-
-Conditions on disclosures. If a disclosure is conditioned by this subpart on particular documentation, statements, or representations from the person requesting the protected health information, a covered entity may rely, if such reliance is reasonable under the circumstances, on documentation, statements, or representations that, on their face, meet the applicable requirements.
-
-# (A)
-
-The conditions in § 164.512(f)(1)(ii)(C) may be satisfied by the administrative subpoena or similar process or by a separate written statement that, on its face, demonstrates that the applicable requirements have been met.
-
-# (B)
-
-The documentation required by § 164.512(i)(2) may be satisfied by one or more written statements, provided that each is appropriately dated and signed in accordance with § 164.512(i)(2)(i) and (v).
-
-# (C)
-
-If a request is made pursuant to legal process, warrant, subpoena, order, or other legal process issued by a grand jury or a judicial or administrative tribunal is presumed to constitute legal authority.
-
-# (ii)
-
-Identity of public officials. A covered entity may rely, if such reliance is reasonable under the circumstances, on any of the following to verify identity when the disclosure of protected health information is to a public official or a person acting on behalf of the public official:
-
-# (A)
-
-A written statement of the legal authority under which the information is requested, or, if a written statement would be impracticable, an oral statement of such legal authority;
-
-# (B)
-
-If a request is made pursuant to legal process, warrant, subpoena, order, or other legal process issued by a grand jury or a judicial or administrative tribunal is presumed to constitute legal authority.
-
-# (iv)
-
-Exercise of professional judgment. The verification requirements of this paragraph are...
+(iv) Exercise of professional judgment. The verification requirements of this paragraph are...
 
 
 
 HIPAA Administrative Simplification Regulation Text
-March 2013
+
+# March 2013
 
 met if the covered entity relies on the health information as defined in § 164.504(a) or information on whether the individual is participating in the group health plan, or is enrolled in or has disenrolled from a health insurance issuer or HMO offered by the plan, must:
 
+1. Maintain a notice under this section; and
+2. Provide such notice upon request to any person. The provisions of paragraph (c)(1) of this section do not apply to such group health plan.
+
 (ii) Uses and disclosures. The notice must contain:
 
-- (A) Maintain a notice under this section; and
-- (B) Provide such notice upon request to any person. The provisions of paragraph (c)(1) of this section do not apply to such group health plan.
+1. A description, including at least one example, of the types of uses and disclosures that the covered entity is permitted by this subpart to make for each of the following purposes: treatment, payment, and health care operations.
+2. A description of each of the other purposes for which the covered entity is permitted or required by this subpart to use or disclose protected health information without the individual's written authorization.
+3. If a use or disclosure for any purpose described in paragraphs (b)(1)(ii)(A) or (B) of this section is prohibited or materially limited by other applicable law, the description of such use or disclosure must reflect the more stringent law as defined in § 160.202 of this subchapter.
 
 § 164.520 Notice of privacy practices for protected health information.
 
 (a) Standard: notice of privacy practices,
 
-(1) Right to notice. Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
-
-(2) Exception for group health plans.
+1. Right to notice. Except as provided by paragraph (a)(2) or (3) of this section, an individual has a right to adequate notice of the uses and disclosures of protected health information that may be made by the covered entity, and of the individual's rights and the covered entity's legal duties with respect to protected health information.
+2. Exception for group health plans.
 
 (i) An individual enrolled in a group health plan has a right to notice:
 
-- (A) From the group health plan, if, and to the extent that, such an individual does not receive health benefits under the group health plan through an insurance contract with a health insurance issuer or HMO; or
+1. From the group health plan, if, and to the extent that, such an individual does not receive health benefits under the group health plan through an insurance contract with a health insurance issuer or HMO; or
 
 (3) Exception for inmates. An inmate does not have a right to notice under this section, and the requirements of this section do not apply to a correctional institution that is a covered entity.
 
 (b) Implementation specifications: Content of notice.
 
-(1) Required elements. The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph.
+1. Required elements. The covered entity must provide a notice that is written in plain language and that contains the elements required by this paragraph.
+2. Header. The notice must contain the following statement as a header or otherwise prominently displayed: “THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED
 
-(B) From the health insurance issuer or HMO with respect to the group health plan through which such individuals receive their health benefits under the group health plan.
 
-(ii) A group health plan that provides health benefits solely through an insurance contract with a health insurance issuer or HMO, and that creates or receives protected health information in addition to summary health information must:
-
-(i) Header. The notice must contain the following statement as a header or otherwise prominently displayed: “THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.”
-
-(D) For each purpose described in paragraph (b)(1)(ii)(A) or (B) of this section, the description must include sufficient detail to place the individual on notice of the uses and disclosures that are permitted or required by this subpart and other applicable law.
-
-(E) A description of the types of uses and disclosures that require an authorization under § 164.508(a)(2)-(a)(4), a statement that other uses and disclosures not described in the notice will be made only with the individual's written authorization, and a statement that the individual may revoke an authorization as provided by § 164.508(b)(5).
-
-101
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# (iii) Separate statements for certain uses or disclosures.
-
-If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) of this section must include a separate statement informing the individual of such activities, as applicable:
+(iii) Separate statements for certain uses or disclosures. If the covered entity intends to engage in any of the following activities, the description required by paragraph (b)(1)(ii)(A) of this section must include a separate statement informing the individual of such activities, as applicable:
 
 - (A) In accordance with § 164.514(f)(1), the covered entity may contact the individual to raise funds for the covered entity and the individual has a right to opt out of receiving such communications;
 - (B) In accordance with § 164.504(f), the group health plan, or a health insurance issuer or HMO with respect to a group health plan, may disclose protected health information to the sponsor of the plan; or make the new notice provisions effective for all protected health information that it maintains. The statement must also describe how it will provide individuals with a revised notice.
 
-# (vi) Complaints.
+(vi) Complaints. The notice must contain a statement that individuals may complain to the covered entity and to the Secretary if they believe their privacy rights have been violated, a brief description of how the individual may file a complaint with the covered entity, and a statement that the individual will not be retaliated against for filing a complaint.
 
-The notice must contain a statement that individuals may complain to the covered entity and to the Secretary if they believe their privacy rights have been violated, a brief description of how the individual may file a complaint with the covered entity, and a statement that the individual will not be retaliated against for filing a complaint.
+(vii) Contact. The notice must contain the name, or title, and telephone number of a person or office to contact for further information.
 
-# (vii) Contact.
+(C) If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of health plan, intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes.
 
-The notice must contain the name, or title, and telephone number of a person or office to contact for further information.
-
-# (C)
-
-If a covered entity that is a health plan, excluding an issuer of a long-term care policy falling within paragraph (1)(viii) of the definition of health plan, intends to use or disclose protected health information for underwriting purposes, a statement that the covered entity is prohibited from using or disclosing protected health information that is genetic information of an individual for such purposes.
-
-# (v) Covered entity's duties.
-
-The notice must contain:
+(v) Covered entity's duties. The notice must contain:
 
 - (A) A statement that the covered entity is required by law to maintain the privacy of protected health information, to provide individuals with notice of its legal duties and privacy practices with respect to information as required by § 164.530(a)(1)(ii).
 
-# (viii) Effective date.
+(viii) Effective date. The notice must contain the date on which the notice is first in effect, which may not be earlier than the date on which the notice is printed or otherwise published.
 
-The notice must contain the date on which the notice is first in effect, which may not be earlier than the date on which the notice is printed or otherwise published.
-
-# (2) Optional elements.
+(2) Optional elements.
 
 (i) In addition to the information required by paragraph (b)(1) of this section, if a covered entity elects to limit the uses or disclosures that it is permitted to make under this subpart, the covered entity may describe its more limited uses or disclosures in its notice, provided that the covered entity may not include in its notice a limitation affecting its right to make a use or disclosure that is required by law or permitted by § 164.512(j)(1)(i).
 
-# (iv) Individual rights.
+(ii) For the covered entity to apply a change in its more limited uses and disclosures to protected health information created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to notify affected individuals following a breach of unsecured protected health information;
 
-The notice must contain a statement of the individual's rights with respect to protected health information and a brief description of how the individual may exercise these rights, as follows:
+(B) A statement that the covered entity is required to abide by the terms of the notice currently in effect;
 
-- (A) The right to request restrictions on certain uses and disclosures of protected health information as provided by § 164.522(a), including a statement that the covered entity is not required to agree to a requested restriction, except in case of a disclosure restricted under § 164.522(a)(1)(vi);
-- (B) A statement that the covered entity is required to abide by the terms of the notice currently in effect; and
-- (C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii), a statement that it reserves the right to change the terms of its notice and to apply a change in its more limited uses and disclosures to protected health information created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii).
+(C) For the covered entity to apply a change in a privacy practice that is described in the notice to protected health information that the covered entity created or received prior to issuing a revised notice, in accordance with § 164.530(i)(2)(ii).
 
 102
+
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-the notice must include the statements required by paragraph (b)(1)(v)(C) of this section.
+The notice must include the statements required by paragraph (b)(1)(v)(C) of this section.
 
 (3) Revisions to the notice. The covered entity must promptly revise and distribute its notice whenever there is a material change to the uses or disclosures, the individual's rights, the covered entity's legal duties, or other privacy practices stated in the notice. Except when required by law, a material change to any term of the notice may not be implemented prior to the effective date of the notice in which such material change is reflected.
 
 (c) Implementation specifications: Provision of notice. A covered entity must make the notice required by this section available on request to any person and to individuals as specified in paragraphs (c)(1) through (c)(3) of this section, as applicable.
 
-(1) Specific requirements for health plans.
+# (1) Specific requirements for health plans.
 
 (i) A health plan must provide the notice:
 
@@ -5126,11 +4785,13 @@ the notice must include the statements required by paragraph (b)(1)(v)(C) of thi
 
 (iii) The health plan satisfies the requirements of paragraph (c)(1) of this section if notice is provided to the named insured of a policy under which coverage is provided to the named insured and one or more dependents.
 
-(2) Specific requirements for certain covered health care providers. A covered health care provider that has a direct treatment relationship with an individual must:
+# (2) Specific requirements for certain covered health care providers.
+
+A covered health care provider that has a direct treatment relationship with an individual must:
 
 (i) Provide the notice:
 
-- (A) No later than the date of the first service delivery, including service delivered electronically, to such individual after the compliance date for the covered health care provider; or
+- (A) No later than the date of the first service delivery, including service delivered electronically, to such individual after the compliance date for the covered health care provider;
 - (B) In an emergency treatment situation, as soon as reasonably practicable after the emergency treatment situation.
 
 (ii) Except in an emergency treatment situation, make a good faith effort to obtain a written acknowledgment of receipt of the notice provided in accordance with paragraph (c)(2)(i) of this section, and if not obtained, document its good faith efforts to obtain such acknowledgment and the reason why the acknowledgment was not obtained;
@@ -5142,7 +4803,7 @@ the notice must include the statements required by paragraph (b)(1)(v)(C) of thi
 
 (iv) Whenever the notice is revised, make the notice available upon request on or after the effective date of the revision and promptly comply with the requirements of paragraph (c)(2)(iii) of this section, if applicable.
 
-(3) Specific requirements for electronic notice.
+# (3) Specific requirements for electronic notice.
 
 (i) A covered entity that maintains a web site that provides information about the covered entity's customer services or benefits must prominently post its notice on the web site and make the notice available electronically through the web site.
 
@@ -5150,11 +4811,8 @@ the notice must include the statements required by paragraph (b)(1)(v)(C) of thi
 
 103
 
-
-
 HIPAA Administrative Simplification Regulation Text
-
-# March 2013
+March 2013
 
 to the individual. Provision of electronic notice by the covered entity will satisfy the provision requirements of paragraph (c) of this section when timely made in accordance with paragraph (c)(1) or (2) of this section.
 
@@ -5166,24 +4824,29 @@ to the individual. Provision of electronic notice by the covered entity will sat
 
 (d) Implementation specifications: Joint notice by separate covered entities. Covered entities that participate in organized health care arrangements may comply with this section by a joint notice, provided that:
 
-1. The covered entities participating in the organized health care arrangement agree to abide by the terms of the notice with respect to protected health information created or received by the covered entity as part of its participation in the organized health care arrangement;
-2. The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity;
+(1) The covered entities participating in the organized health care arrangement agree to abide by the terms of the notice with respect to protected health information created or received by the covered entity as part of its participation in the organized health care arrangement;
+
+(2) The joint notice meets the implementation specifications in paragraph (b) of this section, except that the statements required by this section may be altered to reflect the fact that the notice covers more than one covered entity;
 
 (i) Describes with reasonable specificity the covered entities, or class of entities, to which the joint notice applies;
 
 (ii) Except as provided in paragraph (a)(1)(vi) of this section, a covered entity is not required to agree to a restriction.
 
-(iii) A covered entity that agrees to a restriction under paragraph (a)(1)(i) of this section may not use or disclose protected health information in violation of such restriction, except that, if the individual who requested the restriction is in need of emergency treatment and the restricted protected health information is needed to provide the emergency treatment, the covered entity may use the restricted protected health information, or may disclose such information to a health care provider, to provide such treatment to the individual.
+(iii) A covered entity that agrees to a restriction under paragraph (a)(1)(i) of this section may not use or disclose protected health information in violation of such restriction, except that, if the individual who requested the restriction is in need of emergency treatment and the restricted protected health information is needed to provide the treatment, the covered entity may use the restricted protected health information, or may disclose such information to a health care provider, to provide such treatment to the individual.
 
 (iv) If restricted protected health information is disclosed to a health care provider for emergency treatment under paragraph (a)(1)(iii) of this section, the covered entity must request that such health care provider not further use or disclose the information.
 
+[65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53271, Aug. 14, 2002; 78 FR 5701, Jan. 25, 2013]
+
+# § 164.522  Rights to request privacy protection for protected health information.
+
+(a)(1) Standard: Right of an individual to request restriction of uses and disclosures.
+
 (v) A restriction agreed to by a covered entity under paragraph (a) of this section, is not effective under this subpart to prevent uses or disclosures permitted or required under §§ 164.502(a)(2)(ii), 164.510(a) or 164.512.
 
-(vi) A covered entity must agree to the request of an individual to restrict.
+(vi) A covered entity must agree to the request of an individual to restrict
 
 104
-
-
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -5198,7 +4861,6 @@ disclosure of protected health information about the individual to a health plan
 1. The individual agrees to or requests the termination in writing;
 2. The individual orally agrees to the termination and the oral agreement is documented; or
 3. The covered entity informs the individual that it is terminating its agreement to a restriction, except that such termination is:
-
 1. Not effective for protected health information restricted under paragraph (a)(1)(vi) of this section; and
 2. Only effective with respect to protected health information created or received after it has so informed the individual.
 
@@ -5214,46 +4876,85 @@ disclosure of protected health information about the individual to a health plan
 
 1. A covered entity may require the individual to make a request for a confidential communication described in paragraph (b)(1) of this section in writing.
 2. A covered entity may condition the provision of a reasonable accommodation on:
-
 1. When appropriate, information as to how payment, if any, will be handled; and
 2. Specification of an alternative address or other method of contact.
-3. A covered health care provider may not require an explanation from the individual as to the basis for the request as a condition of providing communications on a confidential basis.
-4. A health plan may require that a request contain a statement that disclosure of all or part of the information to which the request pertains could endanger the individual.
+
+(iii) A covered health care provider may not require an explanation from the individual as to the basis for the request as a condition of providing communications on a confidential basis.
+
+(iv) A health plan may require that a request contain a statement that disclosure of all or part of the information to which the request pertains could endanger the individual.
 
 (2) Unreviewable grounds for denial. A covered entity may deny an individual access without providing the individual an opportunity for review, in the following circumstances.
 
 1. The protected health information is excepted from the right of access by paragraph (a)(1) of this section.
 
-105
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-(ii) A covered entity that is a correctional institution or a covered health care provider acting under the direction of the correctional institution may deny, in whole or in part, an inmate's request to obtain a copy of protected health information, if obtaining such copy would jeopardize the health, safety, security, custody, or rehabilitation of the individual or of other inmates, or the safety of any officer, employee, or other person at the correctional institution or responsible for the transporting of the inmate.
+# (ii)
 
-(i) A licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to endanger the life or physical safety of the individual or another person;
+A covered entity that is a correctional institution or a covered health care provider acting under the direction of the correctional institution may deny, in whole or in part, an inmate's request to obtain a copy of protected health information, if obtaining such copy would jeopardize the health, safety, security, custody, or rehabilitation of the individual or of other inmates, or the safety of any officer, employee, or other person at the correctional institution or responsible for the transporting of the inmate.
 
-(ii) The protected health information makes reference to another person (unless such other person is a health care provider) and a licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to cause substantial harm to such other person; or
+# (i)
 
-(iii) The request for access is made by the individual's personal representative and a licensed health care professional has determined, in the exercise of professional judgment, that the provision of access to such personal representative is reasonably likely to cause substantial harm to the individual or another person.
+A licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to endanger the life or physical safety of the individual or another person;
 
-(2) Timely action by the covered entity. (i) Except as provided in paragraph (b)(2)(ii) of this section, the covered entity must act on a request for access no later than 30 days after receipt of the request as follows.
+# (ii)
 
-(A) If the covered entity grants the request, in whole or in part, it must inform the individual of the acceptance of the request and provide the access requested, in accordance with paragraph (c) of this section.
+The protected health information makes reference to another person (unless such other person is a health care provider) and a licensed health care professional has determined, in the exercise of professional judgment, that the access requested is reasonably likely to cause substantial harm to such other person; or
 
-(B) If the covered entity denies the request, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d) of this section.
+# (iii)
 
-(ii) If the covered entity is unable to take an action required by paragraph (b)(2)(i)(A) or (B) of this section within the time required by paragraph (b)(2)(i) of this section, as applicable, the covered entity may extend the time for such actions by no more than 30 days, provided that:
+The request for access is made by the individual's personal representative and a licensed health care professional has determined, in the exercise of professional judgment, that the provision of access to such personal representative is reasonably likely to cause substantial harm to the individual or another person.
 
-(A) The covered entity, within the time limit set by paragraph (b)(2)(i) of this section, as applicable, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will complete its action on the request; and
+# (2)
 
-(B) The covered entity may have only one such extension of time for action on a request for access.
+Timely action by the covered entity. (i) Except as provided in paragraph (b)(2)(ii) of this section, the covered entity must act on a request for access no later than 30 days after receipt of the request as follows.
 
-(c) Implementation specifications: Provision of access. If the covered entity provides an individual with access to inspect or to obtain a copy of the protected health information about the individual that is maintained in a designated record set, the covered entity must permit an individual to request access to.
+# (A)
 
-(3) Reviewable grounds for denial. A covered entity may deny an individual access, provided that the individual is given a right to have such denials reviewed, as required by.
+If the covered entity grants the request, in whole or in part, it must inform the individual of the acceptance of the request and provide the access requested, in accordance with paragraph (c) of this section.
 
-106
+# (B)
+
+If the covered entity denies the request, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d) of this section.
+
+# (ii)
+
+If the covered entity is unable to take an action required by paragraph (b)(2)(i)(A) or (B) of this section within the time required by paragraph (b)(2)(i) of this section, as applicable, the covered entity may extend the time for such actions by no more than 30 days, provided that:
+
+# (A)
+
+The covered entity, within the time limit set by paragraph (b)(2)(i) of this section, as applicable, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will complete its action on the request; and
+
+# (B)
+
+The covered entity may have only one such extension of time for action on a request for access.
+
+# (3)
+
+Reviewable grounds for denial. A covered entity may deny an individual access, provided that the individual is given a right to have such denials reviewed, as required by paragraph (d)(4) of this section.
+
+# (1)
+
+Individual's request for access. The covered entity must permit an individual to request access to inspect or to obtain a copy of the protected health information about the individual that is maintained in a designated record set. The covered entity may require individuals to make requests for access in writing, provided that it informs individuals of such a requirement.
+
+# (4)
+
+Review of a denial of access. If access is denied on a ground permitted under paragraph (a)(3) of this section, the individual has the right to have the denial reviewed by a licensed health care professional who is designated by the covered entity to act as a reviewing official and who did not participate in the original decision to deny. The covered entity must provide or deny access in accordance with the determination of the reviewing official under paragraph (d)(4) of this section.
+
+# (v)
+
+An individual's access may be denied if the protected health information was obtained from someone other than a health care provider under a promise of confidentiality and the access requested would be reasonably likely to reveal the source of the information.
+
+# (b)
+
+Implementation specifications: Requests for access and timely action.
+
+# (c)
+
+Implementation specifications: Provision of access. If the covered entity provides an individual with access to inspect or obtain a copy of the protected health information, it must do so in accordance with the requirements of this section.
 
 
 
@@ -5302,46 +5003,38 @@ The covered entity must provide a timely, written denial to the individual, in a
 - (i) The basis for the denial;
 - (ii) If applicable, a statement of the individual's review rights under paragraph (a)(4) of this section, including a description of how the individual may exercise such review rights; and
 
-107
-
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-# (iii) A description of how the individual may complain to the covered entity pursuant to the complaint procedures in § 164.530(d) or to the Secretary pursuant to the procedures in § 160.306.
-
-The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii).
+# (iii) A description of how the individual may complain to the covered entity pursuant to the complaint procedures in § 164.530(d) or to the Secretary pursuant to the procedures in § 160.306. The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii).
 
 [65 FR 82823, Dec. 28, 2000, as amended at 78 FR 5701, Jan. 25, 2013]
 
 # § 164.526 Amendment of protected health information.
 
+# (1) Right to amend.
+
+(a) Standard: Right to amend. An individual has the right to have a covered entity amend protected health information or a record about the individual in a designated record set for as long as the protected health information is maintained in the designated record set.
+
 # (2) Timely action by the covered entity.
 
-(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows.
+(i) The covered entity must act on the individual's request for an amendment no later than 60 days after receipt of such a request, as follows:
 
-# (A) If the covered entity grants the requested amendment, in whole or in part, it must take the actions required by paragraphs (c)(1) and (2) of this section.
+- (A) If the covered entity grants the requested amendment, in whole or in part, it must take the actions required by paragraphs (c)(1) and (2) of this section.
+- (B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section.
 
-# (B) If the covered entity denies the requested amendment, in whole or in part, it must provide the individual with a written denial, in accordance with paragraph (d)(1) of this section.
+# (2) Denial of amendment.
 
-# (3) Other responsibility.
+A covered entity may deny an individual's request for amendment, if it determines that the protected health information or record that is the subject of the request:
 
-If the covered entity does not maintain the protected health information that is the subject of the individual's request for access, and the covered entity knows where the requested information is maintained, the covered entity must inform the individual where to direct the request for access.
+- (i) Was not created by the covered entity, unless the individual provides a reasonable basis to believe that the originator of protected health information is no longer available to act on the requested amendment;
+- (ii) Is not part of the designated record set;
+- (iii) Would not be available for inspection under § 164.524; or
+- (iv) Is accurate and complete.
 
-# (4) Review of denial requested.
+# (ii) If the covered entity is unable to act on the amendment within the time required by paragraph (b)(2)(i) of this section, the covered entity may extend the time for such action by no more than 30 days, provided that:
 
-If the individual has requested a review of a denial under paragraph (a)(4) of this section, the covered entity must designate a licensed health care professional, who was not directly involved in the denial to review the decision to deny access.
-
-The covered entity must promptly refer a request for review to such designated reviewing official. The designated reviewing official must determine, within a reasonable period of time, whether or not to deny the access requested based on the standards in paragraph (a)(3) of this section.
-
-The covered entity must promptly provide written notice to the individual of the determination of the designated reviewing official and take other action as required by this section to carry out the designated reviewing official's determination.
-
-# (i) Was not created by the covered entity, unless the individual provides a reasonable basis to believe that the originator of protected health information is no longer available to act on the requested amendment;
-
-# (ii) Is not part of the designated record set;
-
-# (iii) Would not be available for inspection under § 164.524; or
-
-# (iv) Is accurate and complete.
+- (A) The covered entity, within the time limit set by paragraph (b)(2)(i) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will complete its action on the request;
 
 # (e) Implementation specification: Documentation.
 
@@ -5361,6 +5054,8 @@ If the covered entity accepts the requested amendment, in whole or in part, the 
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
+
+The covered entity must comply with the following requirements.
 
 # (1) Making the amendment.
 
@@ -5387,28 +5082,21 @@ The covered entity must, as appropriate, identify the record or protected health
 
 (ii) If the individual has not submitted a written statement of disagreement, the covered entity must include the individual's request for amendment and its denial, or an accurate summary of such information, with any subsequent disclosure of the protected health information only if the individual has requested such action in accordance with paragraph (d)(1)(iii) of this section.
 
+(iii) When a subsequent disclosure described in paragraph (d)(5)(i) or (ii) of this section is made using a standard transaction under part 162 of this subchapter that does not permit the additional material to be included with the disclosure, the covered entity may separately transmit the material required by paragraph (d)(5)(i) or (ii) of this section, as applicable, to the recipient of the standard transaction.
+
 # (d) Implementation specifications:
 
 # Denying the amendment.
 
 If the covered entity denies the requested amendment, in whole or in part, the covered entity must comply with the following requirements.
 
-# (1) Denial.
-
-The covered entity must provide the individual with a timely, written denial, in accordance with paragraph (b)(2) of this section. The denial must use plain language and contain:
-
-- (i) The basis for the denial, in accordance with paragraph (a)(2) of this section;
-- (ii) The individual's right to submit a written statement disagreeing with the denial and how the individual may file such a statement;
-- (iii) A statement that, if the individual does not submit a statement of disagreement, the individual may request that the covered entity provide the individual's request for amendment and the denial with any future disclosures of the protected health information that is the subject of the amendment; and
-- (iv) A description of how the individual may complain to the covered entity pursuant to the complaint procedures established in § 164.530(d) or to the Secretary pursuant to the procedures established in § 160.306. The description must include the name, or title, and telephone number of the contact person or office designated in § 164.530(a)(1)(ii).
-
 # (2) Statement of disagreement.
 
-The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement. The covered entity may reasonably limit the length of a statement of disagreement.
+The covered entity must permit the individual to submit to the covered entity a written statement disagreeing with the denial of all or part of a requested amendment and the basis of such disagreement.
 
 # (3) Rebuttal statement.
 
-The covered entity may prepare a written rebuttal to the individual's statement of disagreement. Whenever such a rebuttal is prepared, the covered entity may separately transmit the material required by paragraph (d)(5)(i) or (ii) of this section, as applicable, to the recipient of the standard transaction.
+The covered entity may prepare a written rebuttal to the individual's statement of disagreement. Whenever such a rebuttal is prepared, the covered entity must transmit the material required by paragraph (d)(5)(i) or (ii) of this section, as applicable, to the recipient of the standard transaction.
 
 109
 
@@ -5447,16 +5135,17 @@ The covered entity must temporarily suspend an individual's right to receive an 
 
 Except as otherwise provided by paragraphs (b)(3) or (b)(4) of this section, the accounting must include for each disclosure:
 
-- (i) The date of the disclosure;
-- (ii) The name of the entity or person who received the protected health information and, if known, the address of such entity or person;
-- (iii) A brief description of the protected health information disclosed; and
-- (iv) A brief statement of the purpose of the disclosure that reasonably informs the individual of the basis for the disclosure or, in lieu of such statement, a copy of a written request for a disclosure under §§ 164.502(a)(2)(ii) or 164.512, if any.
+(i) The date of the disclosure;
+
+(ii) The name of the entity or person who received the protected health information and, if known, the address of such entity or person;
+
+(iii) A brief description of the protected health information disclosed; and
+
+(iv) A brief statement of the purpose of the disclosure that reasonably informs the individual of the basis for the disclosure or, in lieu of such statement, a copy of a written request for a disclosure under §§ 164.502(a)(2)(ii) or 164.512, if any.
 
 # (3)
 
 If, during the period covered by the accounting, the covered entity has made multiple disclosures of protected health information to the
-
-
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -5483,9 +5172,17 @@ same person or entity for a single purpose under §§ 164.502(a)(2)(ii) or 164.5
 2. The written accounting that is provided to the individual under this section; and
 3. The titles of the persons or offices responsible for receiving and processing requests for an accounting by individuals.
 
+(1) The covered entity must act on the individual's request for an accounting, no later than 60 days after receipt of such a request, as follows.
+
+- (i) The covered entity must provide the individual with the accounting requested; or
+- (ii) If the covered entity is unable to provide the accounting within the time required by paragraph (c)(1) of this section, the covered entity may extend the time to provide the accounting by no more than 30 days, provided that:
+
+1. (A) The covered entity, within the time limit set by paragraph (c)(1) of this section, provides the individual with a written statement of the reasons for the delay and the date by which the covered entity will provide the accounting; and
+2. (B) The covered entity may have only one such extension of time for action on a request for an accounting.
+
 [65 FR 82802, Dec. 28, 2000, as amended at 67 FR 53271, Aug. 14, 2002]
 
-# § 164.530  Administrative requirements.
+§ 164.530  Administrative requirements.
 
 (a)(1) Standard: Personnel designations. (i) A covered entity must designate a privacy official who is responsible for the development and implementation of the policies and procedures of the entity.
 
@@ -5560,8 +5257,6 @@ A covered entity must implement policies and procedures.
 HIPAA Administrative Simplification Regulation Text
 March 2013
 
-with respect to protected health information that are designed to comply with the standards, implementation specifications, or other requirements of this subpart and subpart D of this part. The policies and procedures must be reasonably designed, taking into account the size and the type of activities that relate to protected health information undertaken by a covered entity, to ensure such compliance. This standard is not to be construed to permit or excuse an action that violates any other standard, implementation specification, or other requirement of this subpart.
-
 # (2) Standard: Changes to policies and procedures.
 
 (i) A covered entity must change its policies and procedures as necessary and appropriate to comply with changes in the law, including the standards, requirements, and implementation specifications of this subpart or subpart D of this part.
@@ -5573,6 +5268,8 @@ with respect to protected health information that are designed to comply with th
 # (3) Implementation specification: Changes in law.
 
 Whenever there is a change in law that necessitates a change to the covered entity's policies or procedures, the covered entity must promptly document and implement the revised policy or procedure. If the change in law materially affects the content of the notice required by § 164.520, the covered entity must promptly make the appropriate revisions to the notice in accordance with § 164.520(b)(3).
+
+Nothing in this paragraph may be used by a covered entity to excuse a failure to comply with the law.
 
 # (4) Implementation specifications: Changes to privacy practices stated in the notice.
 
@@ -5595,7 +5292,7 @@ A covered entity must:
 
 A covered entity must retain the documentation.
 
-113
+
 
 HIPAA Administrative Simplification Regulation Text
 March 2013
@@ -5615,45 +5312,39 @@ required by paragraph (j)(1) of this section for six years from the date of its 
 
 (2) A group health plan described in paragraph (k)(1) of this section is subject to the standard and implementation specification in paragraph (j) of this section only with respect to plan documents amended in accordance with § 164.504(f).
 
-# (b) Implementation specification: Effect of prior authorization for purposes other than research.
+(b) Implementation specification: Effect of prior authorization for purposes other than research. Notwithstanding any provisions in § 164.508, a covered entity may use or disclose protected health information that it created or received prior to the applicable compliance date of this subpart pursuant to an authorization or other express legal permission obtained from an individual prior to the applicable compliance date of this subpart, provided that the authorization or other express legal permission specifically permits such use or disclosure and there is no agreed-to restriction in accordance with § 164.522(a).
 
-Notwithstanding any provisions in § 164.508, a covered entity may use or disclose protected health information that it created or received prior to the applicable compliance date of this subpart pursuant to an authorization or other express legal permission obtained from an individual prior to the applicable compliance date of this subpart, provided that the authorization or other express legal permission specifically permits such use or disclosure and there is no agreed-to restriction in accordance with § 164.522(a).
+(c) Implementation specification: Effect of prior permission for research. Notwithstanding any provisions in §§ 164.508 and 164.512(i), a covered entity may, to the extent allowed by one of the following permissions, use or disclose, for research, protected health information that it created or received either before or after the applicable compliance date of this subpart, provided that there is no agreed-to restriction in accordance with § 164.522(a), and the covered entity has obtained, prior to the applicable compliance date, either:
 
-# (c) Implementation specification: Effect of prior permission for research.
-
-Notwithstanding any provisions in §§ 164.508 and 164.512(i), a covered entity may, to the extent allowed by one of the following permissions, use or disclose, for research, protected health information that it created or received either before or after the applicable compliance date of this subpart, provided that there is no agreed-to restriction in accordance with § 164.522(a), and the covered entity has obtained, prior to the applicable compliance date, either:
-
-1. An authorization or other express legal permission from an individual to use or disclose protected health information for the research;
-2. The informed consent of the individual to participate in the research;
+- (1) An authorization or other express legal permission from an individual to use or disclose protected health information for the research;
+- (2) The informed consent of the individual to participate in the research;
 
 # § 164.532 Transition provisions.
 
 (a) Standard: Effect of prior authorizations. Notwithstanding §§ 164.508 and 164.512(i), a covered entity may use or disclose protected health information, consistent with paragraphs (b) and (c) of this section, pursuant to an authorization or other express legal permission obtained from an individual.
 
-Notwithstanding any other provisions of this part, a covered entity, or business associate with respect to a subcontractor, may disclose protected health information to a business associate and may allow a business associate to create, receive, maintain, or transmit protected health information on its behalf pursuant to a written contract or other written arrangement with such business associate that does not comply with §§ 164.308(b), 164.314(a), 164.502(e), and 164.504(e), only in accordance with paragraph (e) of this section.
+business associates. Notwithstanding any other provisions of this part, a covered entity, or business associate with respect to a subcontractor, may disclose protected health information to a business associate and may allow a business associate to create, receive, maintain, or transmit protected health information on its behalf pursuant to a written contract or other written arrangement with such business associate that does not comply with §§ 164.308(b), 164.314(a), 164.502(e), and 164.504(e), only in accordance with paragraph (e) of this section.
 
-# (e) Implementation specification: Deemed compliance.
-
-(1) Qualification. Notwithstanding other sections of this part, a covered entity, or business associate with respect to a subcontractor, is deemed to be in compliance with the documentation and contract requirements of §§ 164.308(b), 164.314(a), 164.502(e), and 164.504(e), with respect to a particular business associate relationship, for the time period set forth in paragraph (e)(2) of this section, if:
+(e) Implementation specification: Deemed compliance. (1) Qualification. Notwithstanding other sections of this part, a covered entity, or business associate with respect to a subcontractor, is deemed to be in compliance with the documentation and contract requirements of §§ 164.308(b), 164.314(a), 164.502(e), and 164.504(e), with respect to a particular business associate relationship, for the time period set forth in paragraph (e)(2) of this section, if:
 
 114
 
-
-
 HIPAA Administrative Simplification Regulation Text
-March 2013
+# March 2013
 
-# § 164.534 Compliance dates for initial implementation of the privacy standards.
+# (i)
 
-(i) Prior to January 25, 2013, such covered entity, or business associate with respect to a subcontractor, has entered into and is operating pursuant to a written contract or other written arrangement with the business associate that complies with the applicable provisions of §§ 164.314(a) or 164.504(e) that were in effect on such date; and
+Prior to January 25, 2013, such covered entity, or business associate with respect to a subcontractor, has entered into and is operating pursuant to a written contract or other written arrangement with the business associate that complies with the applicable provisions of §§ 164.314(a) or 164.504(e) that were in effect on such date; and
 
-(ii) The contract or other arrangement is not renewed or modified from March 26, 2013, until September 23, 2013.
+# (ii)
+
+The contract or other arrangement is not renewed or modified from March 26, 2013, until September 23, 2013.
 
 # (2) Limited deemed compliance period.
 
 A prior contract or other arrangement that meets the qualification requirements in paragraph (e) of this section shall be deemed compliant until the earlier of:
 
-# (a) Health care providers.
+# health care provider
 
 A covered health care provider must comply with the applicable requirements of this subpart no later than April 14, 2003.
 
@@ -5661,18 +5352,15 @@ A covered health care provider must comply with the applicable requirements of t
 
 A health plan must comply with the applicable requirements of this subpart no later than the following as applicable:
 
-- (1) Health plans other than small health plans. April 14, 2003.
-- (2) Small health plans. April 14, 2004.
+| (1) Health plans other than small health plans. | April 14, 2003. |
+| ----------------------------------------------- | --------------- |
+| (2) Small health plans.                         | April 14, 2004. |
 
 # (c) Health clearinghouses.
 
 A health care clearinghouse must comply with the applicable requirements of this subpart no later than April 14, 2003.
 
 [66 FR 12434, Feb. 26, 2001]
-
-# (3) Covered entity responsibilities.
-
-Nothing in this section shall alter the requirements of a covered entity to comply with part 160, subpart C of this subchapter and §§ 164.524, 164.526, 164.528, and 164.530(f) with respect to protected health information held by a business associate.
 
 # (f) Effect of prior data use agreements.
 
