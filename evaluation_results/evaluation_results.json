@@ -1,0 +1,74 @@
+{
+  "timestamp": "2025-11-16T19:58:21.884794",
+  "configuration": {
+    "model": "gpt-5",
+    "embedding_model": "text-embedding-3-large",
+    "chunk_size": 256,
+    "chunk_overlap": 25,
+    "similarity_top_k": 10,
+    "similarity_cutoff": 0.2,
+    "temperature": 0.1
+  },
+  "overall_metrics": {
+    "page_accuracy": "1/5 (20.0%)",
+    "number_accuracy": "2/5 (40.0%)",
+    "average_term_coverage": "78.5%"
+  },
+  "detailed_results": [
+    {
+      "question_number": 1,
+      "question": "What is a small health plan",
+      "rag_response": "A small health plan means a health plan with annual receipts of $5 million or less.",
+      "expected_answer": "A health plan with annual receipts of $5 million or less. (Page 16)",
+      "metrics": {
+        "page_match": false,
+        "numbers_match": true,
+        "term_coverage": "85.7%"
+      }
+    },
+    {
+      "question_number": 2,
+      "question": "Who must serve the subpeona if the motion requesting issuance is granted",
+      "rag_response": "The party seeking the subpoena must serve it, by delivery to the person named or by certified mail to the person’s last dwelling place or principal place of business.",
+      "expected_answer": "The party seeking the subpoena must serve it by delivery to the person named, or by certified mail addressed to that person at the persons last dwelling or principal place of business (Page 31)",
+      "metrics": {
+        "page_match": false,
+        "numbers_match": false,
+        "term_coverage": "70.0%"
+      }
+    },
+    {
+      "question_number": 3,
+      "question": "The health care claim status transaction is the transmission of what",
+      "rag_response": "The transmission of the status of a health care claim or encounter (i.e., the claim status request and response—ASC X12N 276/277). See § 162.1401 (page 54); standards referenced in § 162.1402 (ASC X12N/005010X212 and 005010X212E1).",
+      "expected_answer": "An inquiry from the health care provider to a health plan to determine the status of a health care claim, A response from a health plan to a health care provider about the satatus of a health care claim (Page 54)",
+      "metrics": {
+        "page_match": true,
+        "numbers_match": true,
+        "term_coverage": "56.5%"
+      }
+    },
+    {
+      "question_number": 4,
+      "question": "What does data aggregation mean",
+      "rag_response": "Data aggregation means, with respect to protected health information created or received by a business associate in its capacity as the business associate of a covered entity, the combining of such protected health information by the business associate with the protected health information received by the business associate in its capacity as a business associate of another covered entity, to permit data analyses that relate to the health care operations of the respective covered entities. (Source: hipaa-simplification-201303.pdf)",
+      "expected_answer": "With respect to protected health information created or reveived by a business associate in its capacity as the business associate with the protected health information by the business asosciate wiht the protected health information received by the business associate in its capacity as a business associate of another covered entity, to permit data analysis that relate to the health care operations of the respective covered entities. (Page 74)",
+      "metrics": {
+        "page_match": false,
+        "numbers_match": false,
+        "term_coverage": "87.8%"
+      }
+    },
+    {
+      "question_number": 5,
+      "question": "What are the additional rules for health care clearninghouses",
+      "rag_response": "Under § 162.930 (Additional rules for health care clearinghouses):\n\n- Permitted translation functions when acting as a business associate of a covered entity:\n  - Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction (nonstandard format and/or nonstandard data content) for transmission to the covered entity.\n  - Receive a nonstandard transaction (nonstandard format and/or nonstandard data content) from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity.\n\n- Required compliance when a clearinghouse creates or receives PHI as a business associate of another covered entity:\n  - § 164.500 (Applicability).\n  - § 164.501 (Definitions).\n  - § 164.502 (Uses and disclosures of PHI), with an added prohibition: the clearinghouse may not use or disclose PHI other than as permitted in the business associate contract under which it created or received the PHI.\n  - § 164.504 (Organizational requirements).\n  - § 164.512 (Uses and disclosures for which individual authorization or an opportunity to agree or object is not required), with the same prohibition tied to the business associate contract.\n  - § 164.532 (Transition requirements).",
+      "expected_answer": "Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction for transmission to the covered entity, And Receive a nonstandard transaction from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity. (page 47)",
+      "metrics": {
+        "page_match": false,
+        "numbers_match": false,
+        "term_coverage": "92.6%"
+      }
+    }
+  ]
+}
