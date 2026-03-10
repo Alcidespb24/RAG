@@ -1,0 +1,48 @@
+{
+  "total_questions": 5,
+  "page_accuracy": 0.2,
+  "number_accuracy": 0.2,
+  "average_term_coverage": 0.5729066255382045,
+  "results": [
+    {
+      "question": "Question 1: What is a small health plan",
+      "expected_answer": "A health plan with annual receipts of $5 million or less. (Page 16)",
+      "predicted_answer": "A small health plan means a health plan with annual receipts of $5 million or less.",
+      "page_match": false,
+      "numbers_match": false,
+      "term_coverage": 0.8461538461538461
+    },
+    {
+      "question": "Question 2: Who must serve the subpeona if the motion requesting issuance is granted",
+      "expected_answer": "The party seeking the subpoena must serve it by delivery to the person named, or by certified mail addressed to that person at the persons last dwelling or principal place of business (Page 31)",
+      "predicted_answer": "The party seeking the subpoena must serve it, by delivery to the person named or by certified mail to the person's last dwelling place or principal place of business.",
+      "page_match": false,
+      "numbers_match": false,
+      "term_coverage": 0.7777777777777778
+    },
+    {
+      "question": "Question 3: The health care claim status transaction is the transmission of what",
+      "expected_answer": "An inquiry from the health care provider to a health plan to determine the status of a health care claim, A response from a health plan to a health care provider about the satatus of a health care claim (Page 54)",
+      "predicted_answer": "The health care claim status transaction is the transmission of the status of a health care claim, including a request and response. (Page 54)",
+      "page_match": true,
+      "numbers_match": true,
+      "term_coverage": 0.5263157894736842
+    },
+    {
+      "question": "Question 4: What does data aggregation mean",
+      "expected_answer": "With respect to protected health information created or reveived by a business associate in its capacity as the business associate with the protected health information by the business asosciate wiht the protected health information received by the business associate in its capacity as a business associate of another covered entity, to permit data analysis that relate to the health care operations of the respective covered entities. (Page 74)",
+      "predicted_answer": "Data aggregation means combining protected health information from one covered entity with information received from another covered entity to support data analysis for healthcare operations.",
+      "page_match": false,
+      "numbers_match": false,
+      "term_coverage": 0.3333333333333333
+    },
+    {
+      "question": "Question 5: What are the additional rules for health care clearninghouses",
+      "expected_answer": "Receive a standard transaction on behalf of the covered entity and translate it into a nonstandard transaction for transmission to the covered entity, And Receive a nonstandard transaction from the covered entity and translate it into a standard transaction for transmission on behalf of the covered entity. (page 47)",
+      "predicted_answer": "Clearinghouses may translate standard to non-standard transactions and non-standard to standard transactions on behalf of covered entities.",
+      "page_match": false,
+      "numbers_match": false,
+      "term_coverage": 0.38095238095238093
+    }
+  ]
+}
